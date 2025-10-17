@@ -20,8 +20,8 @@ The study integrates virtual imaging, physical excavation, osteological, taphono
 **Temporal & cultural context:** Burials date to the **Middle–Recent Bronze Age (ca. 1450–1150 BCE)** and belong to the **Terramare culture (Northern Italy)**.
 
 Analyses were conducted on:
-- **12 urns from the Vicofertile necropolis (Parma)**  
-- **5 urns from the Nogarole Rocca necropolis (Verona)**  
+- **12 urns from the necropolis of Vicofertile (Parma)**  
+- **5 urns from the necropolis of Nogarole Rocca (Verona)**  
 
 The research applies a **multi-proxy analytical framework** combining:
 

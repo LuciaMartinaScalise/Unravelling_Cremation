@@ -9,7 +9,7 @@ This repository accompanies **Lucia Martina Scalise’s PhD thesis in Biological
 The repository contains data files, scripts, and outputs supporting **Chapters 4, 5, and 6** of the thesis.  
 Materials related to **Chapter 3** are available separately on Zenodo:  
 👉 [https://doi.org/10.5281/zenodo.15042290](https://doi.org/10.5281/zenodo.15042290)  
-(as a scientific paper has already been formulated from this chapter and will be sumbitted for peer-review soon).
+(as a scientific paper has already been formulated from this chapter and will be sumbitted for peer-review).
 
 ---
 

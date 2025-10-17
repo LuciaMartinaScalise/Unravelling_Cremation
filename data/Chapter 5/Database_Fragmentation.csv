@@ -1,0 +1,1391 @@
+site,burial,sex,age,layer,section,quadrant,half_A_B,half_C_D,component,element_1,element_2,bone,area,side,P1,P2,P3,mosaic,longitudinal,transversal,curved,bulls_eye,deformation,twisting,concretion,red_brown,yellow,green,manganese,cm_0_1,cm_1_2,cm_2_3,cm_3_4,cm_4_5,over_cm_5,weight_gr,total_element,total_urn,total_section,total_half_A_B,total_half_C_D
+VFT,29,ND,Non-adult (3-5 yrs),1,upper,1,half_A,half_C,T,CB,B,M1,Cro,L,,,1,1,,,,,,,,,,,,1,,,,,,0.29,1,826,112,168,215
+VFT,29,ND,Non-adult (3-5 yrs),2,central,8,half_A,half_D,Ir,CB,Cr,Pp,Me,L,,,1,,,,,,,,,,,,,,1,,,,,2.28,1,826,304,168,202
+VFT,29,ND,Non-adult (3-5 yrs),2,central,Si,,,T,CB,B,In1,Cro,L,,,1,1,,,,,,,,,,,1,1,,,,,,0.17,1,826,304,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,9,half_A,half_C,Ir,CB,Cr,Pp,Me,R,,,1,,1,,,,,,,,,,,,1,,,,,2.31,1,826,410,168,215
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,M1,Cro,L,,,2,,,,1,,,,,,,,,,2,,,,,0.79,2,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,M1,Cro,R,,,1,1,,,,,,,,,,,,,1,,,,,0.81,1,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,In1,Cro,L,,,1,,1,,,,,,,,,,,1,,,,,,0.15,1,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,M1,Cro,R,,,1,,,,1,,,,,,,,,,1,,,,,0.34,1,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,In2,Cro,L,,,1,,,,,,,,,,,,,1,,,,,,0.03,1,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,In2,Cro,R,,,1,,,,,,,,,,,,,1,,,,,,0.07,1,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,In1,Cro,R,,,2,1,,,,,,,,,,,,2,,,,,,0.1,2,826,410,,
+VFT,29,ND,Non-adult (3-5 yrs),3,lower,Si,,,T,CB,B,Ca,Cro,I,,,1,,,,,,,,,,,,,1,,,,,,0.1,1,826,410,,
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,LL,Oc,Il,Gsn,R,,,4,1,,,1,,,,1,,,,,,,4,,,,5.64,4,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,19,half_B,half_D,Ir,T,V,C2,I,I,,,1,1,,,,,1,,1,,,,,,,,1,,,3.07,1,2248,562,1000,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,Ir,LL,Tar,Cal,I,I,,,5,2,,1,1,,,,3,,,,,,1,3,1,,,7.29,5,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,UL,Cl,Cl,Di,R,,,1,,,,1,,,,1,,,,,,,,1,,,2.99,1,2248,824,829,1004
+VFT,15,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,UL,Cl,Cl,P,I,,1,,,,,,,,,,,,,,,,1,,,,1.63,1,2248,824,829,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,Lo,UL,Ep,Cl,P,I,,,1,,,,,,,,1,,,,,,,1,,,,3.6,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),4,central,15,half_B,half_D,Lo,UL,D,Cl,I,R,,,2,,,1,1,,,,2,,,,,,,1,1,,,4.95,2,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,Lo,UL,D,Cl,Di,R,,,1,,,1,,,,,1,,,,,,,,1,,,3.14,1,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),3,central,10,half_B,half_C,Ir,LL,Tar,Cun,I,I,,,1,,1,,,,,,,,,,,,1,,,,,0.8,1,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,S,LL,Ep,Fe,P,I,,,1,1,,,,1,,,,,,,,,,,1,,,7.24,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,C,LL,D,Fe,I,I,,,5,1,2,3,1,,1,,5,,,,,,,,,1,4,29.9,5,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,15,half_B,half_D,Lo,LL,D,Fe,I,I,,,4,,1,3,1,,,,4,,,,,,,1,2,1,,12.55,4,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,15,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.1,1,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,18,half_B,half_C,Lo,LL,Ep,Fe,Di,I,,7,,,1,2,1,,,,7,,,,,,2,1,1,1,2,30.33,7,2248,562,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,Lo,LL,D,Fe,I,I,,,3,1,1,2,,,,,2,,,,,,,,1,,1,12.98,2,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,5,5,,,,,,,2,,,,,,,2,3,,,4.74,5,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,Lo,LL,Ep,Fe,P,I,,,38,6,1,,1,,2,,6,,,,,7,19,3,8,1,,30.85,38,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,9,half_A,half_C,C,LL,D,Fi,I,I,,,4,1,1,1,1,,2,,4,,,,,,,,2,2,,14.57,4,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,11,half_B,half_D,Lo,LL,Ep,Fi,Mal,R,,1,,1,,,,,,,1,,,,,,,1,,,,0.55,1,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),3,central,11,half_B,half_D,Lo,LL,D,Fi,I,I,,1,,,,1,,,,,1,,,,,,,1,,,,1.45,1,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,13,half_A,half_C,Lo,LL,D,Fi,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,2.48,1,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,S,UL,Ep,H,Di,R,,,1,1,,,,,,,,,,,,,,1,,,,0.68,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,C,UL,D,H,I,I,,,2,1,1,1,1,,1,,2,,,,,,,,1,1,,7.63,2,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,Lo,UL,D,H,P,I,,,1,,,,,,,,1,,,,,,,1,,,,0.82,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,9,half_A,half_C,S,UL,Ep,H,P,I,,,2,1,,,,,,,1,,,,,,,,2,,,6.05,2,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,9,half_A,half_C,C,UL,D,H,I,I,,,3,,2,,1,,1,1,3,,,,,,,1,1,,1,12.1,3,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,10,half_B,half_C,Lo,UL,D,H,I,I,,,7,,1,,7,,,,7,,,,,,4,2,,1,,14.12,7,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),3,central,10,half_B,half_C,Lo,UL,Ep,H,Di,I,,,1,1,,,1,,,,,,,,,,1,,,,,1.26,1,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),3,central,12,half_A,half_D,Lo,UL,Ep,H,P,I,,,2,1,,,,,1,,,,,,,,,1,1,,,5.78,2,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,Lo ,UL,D,H,I,I,,,2,,,,2,1,,,2,,,,,,,1,,,1,10.6,2,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,8,half_A,half_D,Ir,UL,Car,Ham,I,R,,,1,,,,,,,,,,,,,1,,,,,,0.18,1,2248,824,829,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,F,LL,Oc,Il,I,I,,,2,,2,,,,,,1,,,,,,,1,,,1,6.32,2,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,LL,Oc,Il,Ile-Pub,R,,,2,,1,1,,,,,2,,,,,,,,1,,1,5.24,2,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),3,central,9,half_A,half_C,F,LL,Oc,Il,Piis,L,,1,,,,,,,,,1,,,,,,,,1,,,7.1,1,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,9,half_A,half_C,F,LL,Oc,Il,I,I,,1,1,,,,,,1,,1,,,,,,1,,1,,,1.99,2,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,12,half_A,half_D,F,LL,Oc,Il,As,R,,2,,,,,1,,1,,2,,,,,,,1,,1,,11.18,2,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,14,half_B,half_C,F,LL,Oc,Il,As,I,,,4,,,,1,,,,,,,,,,2,2,,,,4.5,4,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),4,central,14,half_B,half_C,F,LL,Oc,Il,Ic,I,,,3,,,,,,,,3,,,,,,1,1,1,,,3.17,3,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),4,central,16,half_A,half_D,F,LL,Oc,Il,Ac,I,,,2,2,,,1,,,,,,,,,,1,,1,,,5.59,2,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,18,half_B,half_C,F,LL,Oc,Il,I,I,,,2,,,,1,,,,,,,,,,,1,1,,,2.97,2,2248,562,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,F,LL,Oc,Il,Ic,I,,,2,1,,1,,,,,2,,,,,,,,2,,,3.17,2,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,LL,Oc,Il,Ip,I,,,2,,,,,,,,1,,,,,,,2,,,,2.5,2,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,19,half_B,half_D,F,LL,Oc,Il,Ac,I,,,4,4,,,,,,,,,,,,,1,1,,,,4.45,2,2248,562,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,C,UL,D,I Mc,Di,R,,2,,,,,,,,,2,,,,,,1,1,,,,3.69,2,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,10,half_B,half_C,F,LL,Oc,Isch,Ac,R,,,2,2,,,1,,1,,1,,,,,,,1,,,1,8.61,2,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),3,central,11,half_B,half_D,F,LL,Oc,Isch,Ac,I,,1,,1,,,,,,,,,,,,,1,,,,,0.75,1,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),3,central,12,half_A,half_D,F,LL,Oc,Isch,It,R,,,1,1,,1,1,,,,,,,,,,,,,1,,6.25,1,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,13,half_A,half_C,Ir,T,V,L4,Bod,I,,1,,,,1,,,,,1,,,,,,,,1,,,3.33,1,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),4,central,13,half_A,half_C,Ir,T,V,L4,Bod,I,,,2,,,,,,,,,,,,,,1,1,,,,2.59,2,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),4,central,13,half_A,half_C,Ir,T,V,L5,Bod,I,,1,,,,,,,1,,,,,,,,,,1,,,5.96,1,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,T,CB,T,M2,Sup,R,,1,,,,,,,,,1,,,,,,1,,,,,1.14,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,F,T,St,Man,Cn,I,,,1,1,,,,,,,,,,,,,,1,,,,1.81,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,F,CB,Cr,Max,Sup,R,,,2,1,1,,,,,,1,,,,,,,1,1,,,5.1,2,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,CB,Cr,Mand,Inf,I,,,1,,1,1,,,,,1,,,,,,,1,,,,1.12,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,F,CB,Cr,Max,Sup,L,,,1,,1,,,,,,1,,,,,,,1,,,,1.77,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,CB,Cr,Mand,Inf,R,,1,,,,1,,,,,1,,,,,,,,1,,,3.52,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,CB,Cr,Max,I,I,,,1,,,,,,,,1,,,,,,,1,,,,0.87,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,8,half_A,half_D,F,CB,Cr,Occ,Con,L,,,1,1,,,1,,,,,,,,,,,1,,,,1.29,1,2248,824,829,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,Se,LL,Pat,Pat,I,I,,,2,,1,,,,,,1,,,,,,,2,,,,3.05,2,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Ir,CB,Cr,Pp,Co,I,,,2,,,,,,,,,,,,,,1,1,,,,1.92,2,2248,824,829,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,LL,Oc,Pub,Isc-Pub,R,,,1,1,,1,,,,,1,,,,,,,,,1,,2.9,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,LL,Oc,Pub,Ps,L,,,1,1,1,,1,,,,1,,,,,,,,1,,,3.49,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,C,UL,D,Ra,I,I,,,1,1,,1,,,,,1,,,,,,,,1,,,1.15,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,C,UL,D,Ra,Di,R,,,1,,,,,,,,,,,,,,,,1,,,0.91,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,C,UL,D,Ra,I,I,,,1,,1,,,,,,,,,,,,,1,,,,1.4,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,16,half_A,half_D,Lo,UL,Ep,Ra,Di,L,,,1,1,,,,,1,,1,,,,,,1,,,,,0.92,1,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,Ir,T,V,Sac,Al,I,1,,,,,,,,,,1,,,,,,,1,,,,2.34,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,18,half_B,half_C,Ir,T,V,Sac,I,I,,,1,,,,1,,,,,,,,,,,,1,,,4.58,1,2248,562,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,19,half_B,half_D,Ir,T,V,Sac,I,I,,,1,,,,,,,,,,,,,,,1,,,,1.01,1,2248,562,1000,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,19,half_B,half_D,Ir,T,V,Sac,I,I,,1,,,,,,,,,1,,,,,,,,1,,,2.6,1,2248,562,1000,1004
+VFT,15,ND,Adult (20-40 yrs),3,central,11,half_B,half_D,Ir,T,V,Sac,For,I,,1,,,,,,,,,,,,,,,,1,,,,0.77,1,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,Ir,UL,Sc,Sc,I,I,,,1,1,,,1,,,,,,,,,,,,1,,,1.34,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,UL,Sc,Sc,Gf,R,,1,,1,,,,,,,1,,,,,,,1,,,,1.09,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,,,,,,,,1,,,,,,,1,,,,0.28,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,F,UL,Sc,Sc,Acr,L,,,1,,,,1,,,,1,,,,,,,1,,,,3.81,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,8,half_A,half_D,F,UL,Sc,Sc,Ia,I,,1,,,,,,,,,1,,,,,,1,,,,,1.44,1,2248,824,829,1004
+VFT,15,ND,Adult (20-40 yrs),3,central,12,half_A,half_D,F,UL,Sc,Sc,Gf,I,,1,,1,,,,,,,1,,,,,,,1,,,,1.22,1,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,UL,Sc,Sc,Gf,R,,1,,,,,1,,,,1,,,,,,,1,,,,2.5,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,UL,Sc,Sc,Acr,R,,,1,,,1,1,,1,,1,,,,,,,1,,,,3.59,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,F,UL,Sc,Sc,Igt,I,,1,,,,1,,,,,1,,,,,,,,,,1,11.38,1,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,F,UL,Sc,Sc,Acr,R,,,1,,,,1,,1,,1,,,,,,,1,,,,1.57,1,2248,562,829,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,18,half_B,half_C,Ir,UL,Car,Sca,I,L,,,1,1,1,,,,,,,,,,,,,1,,,,0.98,1,2248,562,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,F,CB,Cr,Sph,I,I,,,1,1,1,,,,,,1,,,,,,,,,1,,3.03,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,Ir,LL,Tar,Tal,Tr,R,,,1,1,,,,,,,,,,,,,1,,,,,1.34,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Te,I,R,,,1,1,,,,,,,1,,,,,,,1,,,,2.8,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Te,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,2.1,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,F,CB,Cr,Te,Am,R,,,1,,,1,,,,,1,,,,,,,1,,,,3.1,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,7,half_B,half_D,F,CB,Cr,Te,Zp,I,,,1,,,1,1,,,,,,,,,,1,,,,,0.26,1,2248,824,1000,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,CB,Cr,Te,I,I,,1,,,,,1,,,,1,,,,,,1,,,,,1.05,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,CB,Cr,Te,Am,L,,,2,1,,,,,,,1,,,,,,,2,,,,2.12,2,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,LL,Ep,Ti,P,I,,,1,1,1,1,,,,,1,,,,,,,,1,,,1.7,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,S,LL,Ep,Ti,P,I,,1,,1,1,,,,,,1,,,,,,,,1,,,7.37,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),3,central,10,half_B,half_C,Lo,LL,D,Ti,I,I,,,2,1,,,1,,1,,2,,,,,,,1,,1,,7.73,2,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),3,central,11,half_B,half_D,Lo,LL,D,Ti,I,I,,,3,,1,1,2,,,,3,,,,,,,,,3,,12.16,3,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),3,central,12,half_A,half_D,Lo,LL,Ep,Ti,Di,I,,,1,,,,,,,,1,,,,,,,1,,,,1.82,1,2248,862,829,1004
+VFT,15,ND,Adult (20-40 yrs),4,central,15,half_B,half_D,Lo,LL,D,Ti,I,I,,,1,,1,1,1,,1,,1,,,,,,,,,,1,9.26,1,2248,862,1000,1004
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,Ir,UL,Car,Tra,I,L,,,1,1,,,,,,,,,,,,,1,,,,,0.74,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,C,UL,D,U,I,I,,,1,1,1,1,,,,,1,,,,,,,,1,,,3.63,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,S,UL,Ep,U,P,I,,,1,,1,,,,,,,,,,,,,1,,,,1.1,1,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,5,half_A,half_C,C,UL,D,U,I,I,,,3,,1,2,1,,1,,2,,,,,,1,1,1,,,7,3,2248,824,829,825
+VFT,15,ND,Adult (20-40 yrs),4,central,13,half_A,half_C,Lo,UL,D,U,P,R,,5,,,,1,2,,,,5,,,,,,1,4,,,,10.96,5,2248,862,829,825
+VFT,15,ND,Adult (20-40 yrs),4,central,14,half_B,half_C,Lo,UL,D,U,I,I,,,2,1,1,1,1,,1,1,2,,,,,,1,,,,1,5.33,2,2248,862,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,18,half_B,half_C,Lo,UL,Ep,U,Di,L,,,1,,,,1,,,,1,,,,,,,,1,,,1.95,1,2248,562,1000,825
+VFT,15,ND,Adult (20-40 yrs),2,upper,6,half_B,half_C,F,CB,Cr,Wb,I,I,,,1,,,,,,,,1,,,,,,,1,,,,0.73,1,2248,824,1000,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,17,half_A,half_C,F,CB,Cr,Zy,I,R,,1,,,,1,,,,,1,,,,,,,,1,,,4.98,1,2248,562,829,825
+VFT,15,ND,Adult (20-40 yrs),5,lower,19,half_B,half_D,F,CB,Cr,Zy,I,L,,,1,,,1,1,,1,,1,,,,,,,,1,,,3.33,1,2248,562,1000,1004
+VFT,15,ND,Adult (20-40 yrs),2,upper,Si,,,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,,,,,,,,,1,,,,,1.5,1,2248,824,,
+VFT,15,ND,Adult (20-40 yrs),4,central,Si,,,Ir,LL,Tar,Cun,Inter,R,,1,,,,,1,,,,1,,,,,,1,,,,,0.55,1,2248,862,,
+VFT,15,ND,Adult (20-40 yrs),5,lower,Si,,,F,LL,Oc,Il,I,I,,,1,,,,,,,,,,,,1,,1,,,,,0.07,1,2248,562,,
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,1,half_A,half_C,Lo,UL,Ep,U,Di,L,,,1,1,,,,,,,,,,,,,1,,,,,1.28,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,1,half_A,half_C,Ir,CB,Cr,Te,Co,I,,,1,,,,,,,,,,1,,,1,,,,,,0.21,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,1,half_A,half_C,Lo,LL,Ep,I Mt,Di,I,,,1,1,,1,,,,,,,,,,,,1,,,,1.67,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,2,half_B,half_C,Ir,LL,Tar,Tal,I,I,,,5,4,,,,,,,,2,,,,,4,1,,,,4.34,5,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,2,half_B,half_C,Ir,T,V,C1,Ar,L,,,1,1,,,,,,,,1,,,,,,1,,,,2.17,1,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,2,half_B,half_C,Lo,LL,Ep,V Mt,P,I,,,1,1,,,,,,,,,,,,,,1,,,,0.79,1,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,3,half_B,half_D,F,CB,Cr,Te,Mp,R,,,1,1,1,1,,,,,1,1,,,,,,,,1,,10.36,1,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,3,half_B,half_D,F,UL,Sc,Sc,Al,I,,,2,,1,,,,1,,,,1,,,,1,1,,,,0.9,2,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,4,half_A,half_D,F,UL,Sc,Sc,Al,I,,,1,,,1,1,,1,,1,,,,,,,1,,,,1.04,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,1,half_A,half_C,Ir,CB,Cr,Pp,I,R,,,1,,,,,,,,,,,,,,,1,,,,5.41,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),1,upper,4,half_A,half_D,Ir,CB,Cr,Pp,I,L,,,1,,,,,,,,,1,,,,,,1,,,,4.81,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,Lo,LL,D,Fe,I,I,,,10,1,3,1,5,,,1,6,,5,,3,,1,4,1,1,3,41.7,10,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,F,CB,Cr,Occ,Con,I,,,1,1,,1,,,,,,,,,,,,1,,,,2.14,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,F,CB,Cr,Mand,Con,R,,,2,1,1,,1,,,,1,,,,,,,1,1,,,1.75,2,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,Ir,LL,Tar,Tal,He,I,,,1,1,,,,,,,,1,,,,,,1,,,,0.96,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,F,UL,Sc,Sc,Al,I,,,1,,,,,,,,,,,,,,,1,,,,0.24,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,F,LL,Oc,Il,Gsn,I,,,1,,,,1,,,,1,1,,,,,,1,,,,2.29,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,5,half_A,half_C,F,LL,Oc,Il,Ic,I,,,1,,,,,,,,1,,,,,,,,1,,,1.48,1,2168,987,754,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,Lo,LL,D,Ti,I,L,,,4,3,2,,,,1,,2,1,,,,,1,2,,,1,37.68,4,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,Lo,LL,D,Fe,I,I,,,11,,,,8,,,,6,4,,,1,1,3,3,2,,2,24.77,11,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,F,CB,Cr,Fr,Sm,L,,,2,2,1,,,,,,2,2,,,,,,1,1,,,4.44,2,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,,1,,,1,,1,,,,,1.57,1,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,Ir,LL,Tar,Cub,I,I,,,1,,,,,,,,,,1,,,,,1,,,,0.7,1,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,1,1,,,,,,,,,1,,,,1,,,,,0.78,1,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,6,half_B,half_C,F,T,R,R1,I,R,,,1,,,1,,,,,1,,1,,,,,,,1,,1.85,1,2168,987,889,834
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,D,Ti,I,I,,,11,7,2,3,1,,1,,7,7,,,3,2,3,2,2,1,1,39.19,11,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,D,Fe,I,I,,,11,1,2,,4,,1,,8,4,1,,,2,2,2,,3,2,36.81,11,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,F,CB,Cr,Te,Mp,L,,,2,,1,,,,,,,1,1,,2,,,2,,,,2.48,2,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,F,UL,Sc,Sc,Al,I,,,3,,,,,,1,,,2,,,,,3,,,,,0.57,3,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,0.45,1,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,Ep,IV Mt,P,L,,,1,1,,,1,,,,1,1,,,,,,1,,,,1.19,1,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,Ep,Ti,P,I,,2,,,,,,,,,,2,,,,,,2,,,,3.7,2,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,Ep,Ti,Di,I,,,2,2,,,,,,,,,,,,,,2,,,,1.57,2,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Lo,LL,Ep,Fi,Di,R,,2,,1,,1,,,,,,,1,,,,,1,1,,,4.28,2,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,7,half_B,half_D,Ir,LL,Oc,Isch,It,R,,,1,1,,,1,,,,,1,,,,,,,,1,,6.19,1,2168,987,889,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Lo,LL,Ep,Fe,P,R,,,5,2,,,,,,,,,,,,,1,1,3,,,13.26,5,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Ir,LL,Tar,Tal,I,L,,,13,9,,,,,,,2,1,,,,2,7,3,,1,,17.52,13,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,F,LL,Oc,Il,Ic,L,,,1,1,,,,,,,1,,,,,,,1,,,,0.52,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Ir,LL,Tar,Nav,I,I,,,1,,,,,,,,1,,,,,,1,,,,,0.78,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,F,CB,Cr,Fr,Sa,R,,,1,,1,1,,,,,1,1,,,,,,,,1,,6.9,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Lo,LL,D,Ti,I,I,,,8,2,,,1,,,,3,3,,,,,1,3,2,1,1,17.96,8,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Lo,LL,D,Fi,I,I,,,3,1,,3,,,,,2,2,,,,,,,1,,2,9.1,3,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Lo,UL,D,U,I,I,,5,,,1,1,1,,,,3,4,,,,,2,1,2,,,5.7,5,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Lo,UL,Ep,Cl,P,L,,,1,,,,1,,,,1,1,,,,,,,1,,,1.98,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,,,1,,,,1,,,,,,,,,,1,7.64,1,2168,987,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,32,2,,1,4,,,,14,4,,,2,,5,9,8,2,3,85.31,27,2168,607,754,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,9,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,19,4,,,1,,,,,,,,3,2,8,6,3,,,16.8,19,2168,607,754,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,9,half_A,half_C,F,UL,Sc,Sc,Ss,I,,,2,1,,,,,,,,,,,1,,,1,,1,,1.59,2,2168,607,754,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,9,half_A,half_C,Lo,UL,Ep,U,P,I,,,1,1,,,,,,,1,,,,,,1,,,,,0.7,1,2168,607,754,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,9,half_A,half_C,F,CB,Cr,Te,Am,L,,,1,,,1,,,,,1,,,,1,,,1,,,,3.16,1,2168,607,754,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,Lo,UL,Ep,H,P,I,11,,,3,,,,,,,1,,,,,3,6,1,,1,,13.96,11,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,Lo,UL,D,H,I,I,,2,,,,,1,,,,2,,,,,,,2,,,,3.11,2,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,Lo,LL,D,Ti,I,L,,,3,1,,1,2,,,1,3,,,,,,,,1,1,1,16.12,3,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,Lo,LL,Ep,Fe,Di,I,,,9,5,,,,,,,,,,,,,4,4,1,,,11.27,9,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,F,LL,Oc,Pub,Ps,L,,1,,,1,,,,,,,1,,,,,,,1,,,1.7,1,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,F,CB,Cr,Zy,I,R,,,1,1,,1,,,,,1,,,,1,,,,,4,,3.95,4,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,F,LL,Oc,Il,Ic,I,,,1,,,,,,,,,,,,,,,,,1,,1.84,1,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,Lo,LL,Ep,I Ph/Fo,P,L,,,1,,1,,,,,,1,,,,,,,1,,,,1.51,1,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,10,half_B,half_C,Lo,LL,D,Fe,I,I,,,3,,1,,3,,3,,3,2,,,2,,,,1,2,,12.19,3,2168,607,889,834
+VFT,17,ND,Adult (senile? - 35/40+),3,central,Si,,,Ir,UL,Car,Trap,I,R,,,1,1,,,,,,,,1,,,,,1,,,,,0.22,1,2168,607,,
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,Se,LL,Pat,Pat,I,L,,12,,4,,,,,,,2,,,,,5,4,3,,,,7.77,12,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,Lo,UL,Ep,H,P,I,,,1,1,,,,,,,,1,,,1,,,,,1,,5.82,1,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,F,CB,Cr,Mand,Cor,R,,,1,1,,1,1,,1,,1,1,,,,,,,,1,,3.17,1,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,F,CB,Cr,Mand,Con,L,,,1,,1,,,,,,1,,,,,,,1,,,,0.55,1,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,F,UL,Sc,Sc,I,I,,,3,1,,1,1,,,,,1,,,,,,1,,,,2.98,1,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,F,LL,Oc,Il,Ic,I,,,2,,,,1,,,,,,,,,,1,,,1,,2.8,2,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,F,LL,Oc,Il,Al,I,,,2,,2,2,1,,,,,,,,,,1,,,1,,2.2,2,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,Lo,LL,Ep,I Mt,Di,R,,,2,1,,1,1,,,,2,,,2,,,2,,,,,2.5,2,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,Lo,LL,Ep,I Ph/Fo,P,R,,,1,1,,,,,,,,,,,,,1,,,,,0.8,1,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,Lo,UL,D,U,I,I,,1,,,,1,1,,,,1,,,,,,,,1,,,2.04,1,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,11,half_B,half_D,Lo,LL,D,Ti,I,I,,,2,2,,1,,,,,2,1,,,2,,,,,1,1,7.65,2,2168,607,889,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,10,1,,,,,,,,,,,,5,3,1,1,,,8.29,10,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,7,,,2,4,,1,,7,,,,,,1,2,1,1,2,29.51,7,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,Lo,UL,D,H,I,I,,,1,1,,,,,,,,1,,,,,,,,1,,4.76,1,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,Lo,LL,D,Fi,I,I,,,3,1,1,,,,1,,3,3,,,1,,,1,1,1,,7.7,3,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,F,LL,Oc,Il,Al,I,,,1,,,,,,,,,1,,,1,,,1,,,,1.95,1,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,Ir,T,V,C2,Ax,I,,,1,1,,,,,,,,1,,,,,,,1,,,3.25,1,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),3,central,12,half_A,half_D,Ir,LL,Tar,Cun,Inter,R,,,1,1,,,,,,,,1,,,,,1,,,,,1.13,1,2168,607,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,F,LL,Oc,Il,As,R,,,1,,,,,,,,1,1,,,1,,,,,1,,3.32,1,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,F,LL,Oc,Isch,Ac,I,,,2,2,1,1,1,,,,,1,,,,,,,,2,,9.92,2,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,Lo,UL,Ep,H,P,I,,,1,1,,,,,,,,,,,,,,1,,,,1.31,1,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,Lo,UL,D,H,I,I,,,4,,1,1,,,1,1,,,,,3,,1,1,1,,1,11.37,4,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,Lo,LL,D,Fe,I,I,,,4,,1,,2,,2,,1,,,,1,,1,2,1,,,8.94,4,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,Ir,LL,Tar,Nav,I,I,,,1,1,,,,,,,,1,,,,,,1,,,,1.55,1,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,Lo,LL,Ep,V Mt,P,I,,,1,,,,1,,,,,1,,,,,,1,,,,0.88,1,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,F,CB,Cr,Mand,Ms,I,,,1,,,1,,,,,1,,,,,,1,,,,,1.57,1,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,13,half_A,half_C,Lo,LL,D,Ti,I,I,,,1,1,1,1,1,,1,,1,1,,,,,,,,,1,8.03,1,2168,574,754,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,14,half_B,half_C,Lo,UL,Ep,U,P,L,,2,,,1,,,,,,,2,,,,,1,1,,,,2.91,2,2168,574,889,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,14,half_B,half_C,Lo,UL,D,U,I,I,,,2,,,2,,,,,2,2,,,,,,1,,1,,4.24,2,2168,574,889,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,14,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,1,1,,,,,,,,,,,,,1,,,,,0.76,1,2168,574,889,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,14,half_B,half_C,Lo,UL,Ep,H,Di,I,,,3,1,,1,,,,,,,1,,1,,1,2,,,,3.82,3,2168,574,889,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,14,half_B,half_C,Ir,UL,Car,Lun,I,I,,,1,1,,,,,,,,,1,,,,1,,,,,0.43,1,2168,574,889,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,14,half_B,half_C,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,1,,,,,,1,,,,,0.65,1,2168,574,889,834
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,F,CB,Cr,Zy,Fp,L,,,1,1,,,,,,,1,,,,1,,,,1,,,2.46,1,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,F,CB,Cr,Mand,I,I,,,1,,,,,,,,1,1,,,1,,1,,,,,1.41,1,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,F,CB,Cr ,Max,I,I,,,2,1,,,,,1,,1,1,,,,,1,1,,,,1.86,2,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,Lo,UL,D,Cl,I,L,,,1,,1,1,1,,,,1,1,,,1,,,,,,1,4.21,1,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,Ir,T,V,Hy,Bod,I,,,1,,1,1,1,,,,,1,,,1,,,1,,,,1.03,1,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,Ir,LL,Tar,Cal,I,I,,,4,3,,,,,,,,1,,,1,,1,3,,,,5.59,4,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,1,,,,,1,1,1,,,,1,,,,,,1,6.55,1,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,15,half_B,half_D,Lo,LL,D,Fe,I,I,,2,,,1,2,1,,1,1,2,,,,1,,,,1,,1,13.62,2,2168,574,889,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,F,CB,Cr,Mand,I,I,,,1,,,,,,,,1,1,,,1,,,,1,,,1.46,1,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,F,LL,Oc,Il,I,I,,,1,,,,,,,,,,,,1,,,1,,,,0.48,1,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,F,UL,Sc,Sc,I,I,,,8,1,,2,1,,,,3,,,,6,,1,1,6,,,10.99,8,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,Lo,LL,Ep,Ti,Di,R,,,2,1,1,,1,,1,,1,,,,,,,,,2,,15.03,2,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,2,2,,,,,,,,,,,1,,,1,1,,,8.08,2,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,,1,1,1,,1,1,1,1,,,1,,,,,,1,3.24,1,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,Lo,UL,D,H,I,I,,,7,3,1,1,1,,2,,4,2,,,5,,,,3,1,3,23.59,7,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,Ir,LL,Tar,III Cun,Lat,R,,,1,1,,,,,,,,1,,,,,1,,,,,1.06,1,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),4,lower,16,half_A,half_D,Ir,LL,Tar,Cal,I,I,,,6,2,,,,,,,1,,,,,,,4,,,,4.41,4,2168,574,754,809
+VFT,17,ND,Adult (senile? - 35/40+),2,upper,8,half_A,half_D,F,T,St,St,Cor,I,,,1,,1,,,,,,1,,,,1,,,,1,,,3.28,1,2168,987,754,809
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,1,half_A,half_C,Lo,UL,Ep,III Mc,P,R,,1,,1,1,,1,,,1,,1,,,1,,,1,,,,0.84,1,1826,529,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,1,half_A,half_C,F,UL,Sc,Sc,I,I,,,1,,,,,,,,,,,,1,,1,,,,,0.26,1,1826,529,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,1,half_A,half_C,Lo,LL,D,Fi,I,I,,,1,,,,1,,1,,,1,,,,,,,1,,,2.08,1,1826,529,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,Lo,LL,D,Fe,I,I,,,1,,1,,1,,,,1,1,,,,,,,,1,,8.84,1,1826,529,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,Lo,LL,D,Ti,I,I,,,1,,,,,,,,1,,,,,,,1,,,,1.48,1,1826,529,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,Lo,LL,Ep,I Mt,Di,L,,,1,1,1,,,,1,,,,,,,,,1,,,,2.16,1,1826,529,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,F,UL,Sc,Sc,Gf,I,,1,,1,,,,,,,,1,,,1,,,1,,,,1.73,1,1826,529,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,F,UL,Sc,Sc,Ss,I,,1,,,,1,,,,,1,1,,,1,,,,1,,,1.32,1,1826,529,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,F,T,St,St,I,I,,1,,,,,,,,,,,,,,,1,,,,,0.52,1,1826,529,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,3,half_B,half_D,Lo,LL,D,Ti,I,R,,1,,,1,1,1,,1,1,1,1,,,1,,,,,,1,15.26,1,1826,529,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,3,half_B,half_D,Lo,LL,D,Ti,I,R,,,4,,,1,1,,,,,1,,,3,,1,2,,,,6.27,3,1826,529,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,3,half_B,half_D,Lo,LL,D,Fi,I,I,,,5,,,2,4,,1,1,1,,,,1,1,3,,1,,,5.47,5,1826,529,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,3,half_B,half_D,Lo,UL,D,U,I,I,5,,,,1,,1,,,,,,,,,1,2,2,,,,2.34,5,1826,529,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,Lo,LL,D,Ti,I,I,,2,,1,1,,,,1,1,,,,,2,,,,1,1,,5.3,2,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,Lo,UL,Ep,U,P,L,,1,,,,,,,,,,,,,,,,1,,,,2.81,1,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,Lo,UL,D,Ra,P,I,,,1,,1,1,1,,,1,,1,,,,,,1,,,,2.07,1,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,Se,LL,Pat,Pat,I,L,,2,,1,1,1,,,,,1,,,,,,1,1,,,,3.26,2,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,Lo,UL,D,H,I,I,,,4,1,1,1,1,,,,,,,,,1,1,1,1,,,7.23,4,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,F,UL,Sc,Sc,I,I,,2,,,1,,,,,,,,,,2,,2,,,,,1.43,2,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),1,upper,4,half_A,half_D,F,CB,Cr,Mand,I,I,,,1,,1,1,,,1,,,1,,,,,1,,,,,0.95,1,1826,529,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),0,upper,,,,Ir,LL,Tar,Nav,I,R,,,1,1,,,1,,,,,,,,,,,1,,,,2.77,1,1826,529,,
+VFT,12,ND,Adult (not-senile? <35/40+),0,upper,,,,F,UL,Sc,Sc,I,I,,1,,1,,1,,,,,,,,,1,,1,,,,,0.81,1,1826,529,,
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,Lo,UL,Ep,H,Di,R,,5,,,1,,,,,,,,,,3,1,3,,1,,,6.46,5,1826,634,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,Ir,LL,Tar,Tal,Tr,I,,,1,1,,,,,,,,,,,,,,1,,,,2.8,1,1826,634,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,1,,1,,,,,,,,,1,,,,1,,,3.84,1,1826,634,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,Ir,UL,Car,Ham,Hamul,R,,1,,,,,,,,,,,,,1,,1,,,,,0.75,1,1826,634,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,F,UL,Sc,Sc,I,I,,,1,,,,1,,,,,,,,1,,1,,,,,1.95,1,1826,634,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,Lo,LL,D,Fi,I,I,,,1,,1,1,1,,,,1,1,,,1,,,,,,1,5.83,1,1826,634,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,6,half_B,half_C,Lo,UL,D,H,I,R,,4,,,,1,,,,,1,,,,4,,1,2,,,1,12.71,4,1826,634,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,6,half_B,half_C,F,LL,Oc,Isch,Ac,L,,,1,1,,,1,,,,,,1,,,,,,,1,,4.43,1,1826,634,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,6,half_B,half_C,Lo,LL,Ep,II Ph/Fo,P,R,,,1,,,,,,,,,,,,1,1,,,,,,0.3,1,1826,634,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,7,half_B,half_D,Lo,UL,D,H,I,I,,,6,,1,3,2,,2,2,1,2,,,2,,1,1,3,1,,16.2,6,1826,634,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Lo,UL,Ep,U,P,R,,2,,,,,,,,,,,,,1,,,1,,1,,6.55,2,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Se,LL,Pat,Pat,I,R,,,1,,,,1,,,,,,,,1,,,1,,,,2.26,1,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,F,UL,Sc,Sc,Lb,I,,2,,,,1,1,,,,1,,,,3,,,2,,1,,7.12,3,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Lo,UL,D,H,I,I,,2,,,,1,1,,,,1,1,,,,,1,,1,,,6.05,2,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Ir,LL,Tar,Tal,Tr,I,,,2,2,,,,,,,,,,,,,1,1,,,,3.59,2,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Lo,UL,Ep,I Ph/Ha,P,I,,2,,,,,,,,,,,,,2,2,,,,,,0.4,2,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,F,CB,Cr,Fr,I,I,,,1,1,,1,1,,,,1,,1,,1,,,1,,,,3.39,1,1826,634,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,9,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,,1,,1,,,,1,,,,1,,,1,,,,7.11,1,1826,663,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,9,half_A,half_C,Lo,UL,D,H,I,I,,1,,,1,,,,,,1,,,,,,,1,,,,3.7,1,1826,663,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,9,half_A,half_C,Ir,LL,Tar,Nav,I,I,,,1,,,,1,,,,,,,,,,,1,,,,1.61,1,1826,663,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,9,half_A,half_C,Lo,UL,D,H,I,I,,2,,2,,1,1,,,,1,,2,,,,,2,,,,3.34,2,1826,663,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,10,half_B,half_C,Lo,UL,D,Ra,I,R,,1,,1,1,1,1,,,,1,1,,,1,,,,,,1,8.22,1,1826,663,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,10,half_B,half_C,Lo,LL,D,Fe,I,I,,2,,,,,2,,,,2,,,,,,,1,1,,,6.69,2,1826,663,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,10,half_B,half_C,Lo,UL,Ep,I Mc,Di,I,,1,,1,,,,,,,,,,,,,1,,,,,0.66,1,1826,663,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,11,half_B,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,,,,,,1,,,,,,1,,4.64,1,1826,663,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,11,half_B,half_D,F,LL,Oc,Il,I,I,,1,,,,,,,,,,1,,,1,,,,1,,,4.67,1,1826,663,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,11,half_B,half_D,Ir,LL,Tar,Cub ,I,I,,,1,1,,,,,,,,,,,,,1,,,,,1.23,1,1826,663,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,11,half_B,half_D,Lo,UL,D,H,I,I,,,1,,,1,1,,1,1,1,,,,,,,,1,,,2.58,1,1826,663,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,12,half_A,half_D,Lo,UL,D,H,I,I,,,2,,,,2,,,,1,,,,,,,2,,,,4.02,2,1826,663,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),3,lower,12,half_A,half_D,F,CB,Cr,Zy,I,R,,,1,1,,1,,,,,,1,,,,,,1,,,,1.41,1,1826,663,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,13,half_A,half_C,Ir,LL,Tar,Tal,Tr,I,,,5,5,,,,,,,,1,,,,,3,2,,,,6.49,5,1826,663,683,799
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,Lo,UL,Ep,U,P,L,,1,,,,1,,,,,,,,,1,,,,,1,,4.08,1,1826,663,756,799
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,15,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,3.77,1,1826,663,756,640
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,16,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,2,2,,,,,,,,,,,,,,1,1,,,5.88,2,1826,663,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,16,half_A,half_D,Lo,UL,Ep,H,P,I,,,2,2,,,,,,,,,,,,,,1,1,,,9.18,2,1826,663,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,16,half_A,half_D,F,LL,Oc,Il,I,I,,2,,1,,,1,,,,1,,,,,,1,,,1,,9.06,2,1826,663,683,640
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,Si,,,F,CB,Cr,Max,I,I,,,1,,1,,,,,,,,,,,,1,,,,,0.39,1,1826,663,,
+VFT,12,ND,Adult (not-senile? <35/40+),4,lower,Si,,,F,CB,Cr,Te,Co,I,,,1,,,,,,,,,,,,,,1,,,,,0.23,1,1826,663,,
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,Lo,UL,D,U,I,I,,,1,,1,1,,,,,1,,,1,,,,,1,,,2.05,1,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,Lo,UL,D,Ra,I,R,,,2,,1,1,,,1,,2,,,,,1,,,1,,,2.13,2,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,Lo,LL,D,Fi,I,I,,,2,,1,1,1,,1,,2,,,,,1,,,1,,,1.91,2,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,Lo,LL,D,Ti,I,I,,,4,,1,1,1,,,,5,,,,,,2,2,1,,,4.11,5,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,F,T,St,St,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.16,1,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,Lo,UL,Ep,H,Di,I,,,1,,,,,,,,1,,,,,,1,,,,,0.39,1,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,F,CB,Cr,Te,Co,I,,,2,,,,,,,,1,,,,,2,,,,,,0.35,2,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",2,central,6,half_B,half_C,Lo,LL,D,Ti,I,I,,,1,,,,,,,,1,,,,,,,1,,,,1.13,1,723,91,470,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",2,central,7,half_B,half_D,F,CB,Cr,Te,Co,I,,,1,1,,,,,,,1,,,,,,1,,,,,0.63,1,723,91,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,10,half_B,half_C,Ir,T,V,Sac,I,I,,,1,,,,1,,,,1,,,,,,1,,,,,0.31,1,723,447,470,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,11,half_B,half_D,Lo,LL,D,Ti,I,I,,,2,,1,,1,,1,,2,,,,,,,1,,,1,7.47,2,723,447,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,11,half_B,half_D,Lo,LL,D,Fi,I,I,,,2,,,1,1,,2,1,2,,,,,,,1,1,,,1.67,2,723,447,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,12,half_A,half_D,F,LL,Oc,Il,I,I,,,1,,,,,,,,1,,,,,,1,,,,,0.57,1,723,447,240,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,12,half_A,half_D,F,CB,Cr,Fr,Sm,I,,,1,1,,,,,,,1,,,,,,1,,,,,0.19,1,723,447,240,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,3,half_B,half_D,T,CB,T,M2,Cro,L,,,1,,,,,,,,1,,,,,,1,,,,,0.59,1,723,185,470,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,2,half_B,half_C,T,CB,T,dm2,Cro/Ro,L,,,1,,,,,,,,1,,,,,,1,,,,,0.28,1,723,185,470,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,4,half_A,half_D,T,CB,T,In1,Cro/Ro,L,,1,,,,,,,,,1,,,,,,1,,,,,0.43,1,723,185,240,435
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",1,upper,2,half_B,half_C,T,CB,T,Ca,Ro,I,,1,,,1,,,,,,1,,,,,,1,,,,,0.51,1,723,185,470,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,10,half_B,half_C,T,CB,T,In1,Cro/Ro,I,,1,,,,,,,,,1,,,,,,1,,,,,0.55,1,723,447,470,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",2,central,5,half_A,half_C,T,CB,T,Pre3,Ro,I,,1,,,,,,,,,1,,,,,,1,,,,,0.43,1,723,91,240,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",2,central,5,half_A,half_C,T,CB,T,Pre4,Ro,I,,,1,,1,,,,,,1,,,,,,1,,,,,0.3,1,723,91,240,275
+NOGR,33(US359),ND,"Non-adult
+9.5-10.5(AlQathani)
+9 ± 24 mths (Ubelaker)",3,lower,10,half_B,half_C,T,CB,T,Pre4,Ro,I,,1,,,,,,,,,1,,,,,,1,,,,,0.3,1,723,447,470,275
+NOGR,36,ND,Adult (not-senile? <35/40+),0,upper,,,,Lo,UL,Ep,H,Di,I,,,2,1,,,,,,,,,,,,,2,,,,,1.2,2,2170,312,,
+NOGR,36,ND,Adult (not-senile? <35/40+),0,upper,,,,Ir,UL,Car,Pi,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.19,1,2170,312,,
+NOGR,36,ND,Adult (not-senile? <35/40+),1,upper,2,half_B,half_C,Lo,UL,Ph,IV Ph/Ha,Me,R,,,1,1,,1,,,,,1,,,,,,1,,,,,0.53,1,2170,312,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),1,upper,3,half_B,half_D,Lo,UL,Ph,I Ph/Ha,P,R,,,1,1,,1,,,,,1,,,,,,1,,,,,0.8,1,2170,312,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),1,upper,3,half_B,half_D,Lo,UL,Ph,II Ph/Ha,Me,L,,,1,1,,1,1,,,,1,,,,,1,,,,,,0.19,1,2170,312,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),2,central,5,half_A,half_C,Lo,UL,Ep,U,P,L,,,2,2,,,1,,,,1,,,,,,2,1,,,,4.88,3,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),2,central,7,half_B,half_D,Lo,LL,D,Fi,I,I,,,11,1,1,5,,,,,9,1,,,,1,6,3,1,,,7.18,11,2170,1100,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Ir,T,V,Sac,Al,I,,,3,1,,,2,,,,2,1,,,,,2,,1,,,4.7,3,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,F,UL,Sc,Sc,Cop,R,,,1,,1,1,,,,,1,,,,,,,1,,,,1.11,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,,,,,,,,1,1,,,,,,1,,,,1.37,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),2,central,8,half_A,half_D,Lo,LL,D,Fe,I,I,,,2,,1,,2,,,,2,,,,,,,1,1,,,5.55,2,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,Lo,UL,D,H,I,R,,,10,1,2,6,2,,4,,6,,,,,,3,4,2,,,34.87,9,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,F,LL,Oc,Pub,Ip,I,,,2,1,1,,1,,,,,,,,,,,1,1,,,2.92,2,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,F,LL,Oc,Il,Ac,I,,,1,1,,,,,,,,,,,,,,1,,,,2.33,1,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,F,CB,Cr,Te,Mp,L,,,4,1,1,,,,,,4,,,,,,1,3,,,,7,4,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,F,T,R,R2,I,R,,,1,,,,1,,,,1,1,,,,,,,,1,,1.69,1,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,Lo,UL,D,Ra,I,R,,,2,1,2,2,,,1,,2,2,,,,,,,1,1,,5.81,2,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,Lo,LL,D,Fi,I,I,,,1,,,1,1,,,,1,1,,,,,,1,,,,1.7,1,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,10,half_B,half_C,Ir,T,V,C2,Bod,I,,,1,1,1,1,,,,,1,,,,,,,,1,,,4.05,1,2170,1100,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,10,half_B,half_C,F,CB,Cr,Te,Zp,R,,,1,,1,,,,,,1,,,,,,1,,,,,0.39,1,2170,1100,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,10,half_B,half_C,F,UL,Sc,Sc,Ss,I,,,1,,1,,1,,,,1,,,,,,,1,,,,11.7,1,2170,1100,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,10,half_B,half_C,Lo,UL,D,Ra,I,R,,,2,,1,2,,,,,2,1,,,,,,1,,1,,4.78,2,2170,1100,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,10,half_B,half_C,Lo,LL,D,Fi,I,I,,,2,,,1,,,,,2,,,,,,2,,,,,1.85,2,2170,1100,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,10,half_B,half_C,F,CB,Cr,Mand,Con,R,,,1,,1,,1,,,,1,,,,,,1,,,,,0.92,1,2170,1100,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,11,half_B,half_D,Lo,UL,D,H,I,L,,,5,2,,1,2,,2,1,5,2,,,,1,,1,1,1,1,21.01,5,2170,1100,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,11,half_B,half_D,Lo,UL,D,H,I,R,,,1,1,1,1,,,1,,,,,,,,,,,1,,5.1,1,2170,1100,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,11,half_B,half_D,Ir,LL,Tar,Tal,Tr,I,,,1,1,,,,,,,,,,,,,,1,,,,1.21,1,2170,1100,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,11,half_B,half_D,F,CB,Cr,Te,Zp,L,,,1,,,,,,,,1,1,,,,,,1,,,,0.84,1,2170,1100,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,,,,,,,,,1,,,,,0.47,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,UL,Ep,V Ph/Ha,Me,R,,,1,,1,1,,,,,1,,,,,,1,,,,,0.27,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,F,LL,Oc,Pub,Ile-Pub,I,,,1,,1,,,,,,1,,,,,,,1,,,,1,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,F,CB,Cr,Fr,Sm,I,,,1,,,1,,,,,1,,,,,,,1,,,,0.6,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,LL,Ep,Fe,P,I,,,5,4,,,,,,,,,,,,,3,1,1,,,7.19,5,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,,1,1,,,,,1,,,,,,,1,,,,1.26,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,UL,D,H,I,I,,,5,,1,1,2,,2,,2,,1,,,,3,2,,,,6.17,5,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,UL,D,Ra,I,I,,,1,,1,1,,,1,1,1,1,,,,,,,,,1,3.85,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,12,half_A,half_D,Lo,LL,D,Ti,I,I,,,1,,,,,,,,1,,,,,,,,1,,,3.67,1,2170,1100,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),3,central,9,half_A,half_C,F,CB,Cr,Pp,Me,R,,,1,,,,,,,,1,,,,,,,,1,,,4.19,1,2170,1100,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,13,half_A,half_C,F,CB,Cr,Mand,Bu,I,,,3,,,,,,2,,3,,,,,,2,1,,,,1.79,3,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,13,half_A,half_C,Ir,UL,Car,Cap,I,L,,,1,1,,,1,,,,,,,,,,,1,,,,0.92,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,13,half_A,half_C,F,LL,Oc,Il,I,I,,,5,3,1,,1,,,,4,,,,,,3,1,1,,,5.15,5,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,F,CB,Cr,Fr,Sm,R,,,1,,,1,,,,,1,1,,,,,,1,,,,1.44,1,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,Lo,LL,Ep,I Mt,P,I,,,1,,,,1,,,,1,,,,,,1,,,,,0.79,1,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,F,LL,Oc,Il,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.9,1,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,F,UL,Sc,Sc,Gf,L,,,1,1,,,,,,,1,,,,,,1,,,,,1.01,1,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,Ir,UL,Car,Trap,I,L,,,1,1,,,1,,,,,,,,,,1,,,,,0.55,1,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,14,half_B,half_C,F,CB,Cr,Zy,I,R,,,2,,1,1,,,,,2,,,,,,,1,1,,,4.44,2,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,15,half_B,half_D,Lo,UL,Ep,H,P,I,,,3,3,,,,,,,2,,,,,,1,2,,,,3.88,3,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,15,half_B,half_D,Lo,UL,D,U,I,I,,,2,,,,2,,1,,2,1,,,,,,1,1,,,4.28,2,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,16,half_A,half_D,Lo,LL,D,Fe,I,I,,,3,,,,2,,,,3,,,,,,,2,,,1,12.2,3,2170,758,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,16,half_A,half_D,Lo,UL,Ep,Ra,P,I,,,1,1,1,,,,,,,,,,,,1,,,,,0.53,1,2170,758,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),4,lower,16,half_A,half_D,Lo,LL,D,Fi,I,I,,,2,,,2,,,,,2,,,,,,,1,1,,,4.29,2,2170,758,1289,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,F,CB,Cr,Zy,I,I,,,1,,,1,,,,,1,,,,,,,1,,,,2.24,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,F,LL,Oc,Il,I,I,,,1,,,,,,,,1,,,,,,1,,,,,0.29,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,Lo,UL,Ep,III Ph/Ha,Me,L,,,2,1,,2,1,,,,2,,,,,,2,,,,,0.56,2,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,Lo,UL,Ep,III Ph/Ha,P,L,,,1,1,1,,1,,,,1,,,,,,1,,,,,0.38,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,Lo,UL,Ep,II Ph/Ha,Me,R,,,1,1,,1,1,,,,1,,,,,,1,,,,,0.31,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,Lo,UL,Ep,IV Ph/Ha,Me,L,,,1,,1,,,,,,1,,,,,,1,,,,,0.36,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,17,half_A,half_C,Lo,UL,Ep,I Ph/Ha,Di,R,,,1,,,,,,,,1,,,,,,1,,,,,0.59,1,2170,758,1289,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,18,half_B,half_C,Lo,UL,Ep,III Ph/Ha,Me,R,,,1,,,,1,,,,1,,,,,,1,,,,,0.47,1,2170,758,820,1019
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,Lo,LL,Ep,Fe,P,I,,,9,3,,,,,,,,,,,,6,1,1,1,,,7.39,9,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,Lo,LL,Ep,I Mt,Di,L,,,1,,,,,,,,1,,,,,,1,,,,,1.1,1,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,Ir,UL,Car,Ham,I,L,,,1,,1,,,,,,,,,,,,1,,,,,0.24,1,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,Ir,UL,Car,Sca,I,L,,,1,1,,,,,,,1,,,,,,1,,,,,0.82,1,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,F,CB,Cr,Mand,Suf,R,,,1,,1,1,,,1,,1,,,,,,,1,,,,1.88,1,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,F,CB,Cr,Max,I,L,,,2,,1,,,,,,2,,,,,,1,1,,,,1.76,2,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,19,half_B,half_D,F,CB,Cr,Sph,Ors,L,,,1,,,1,,,,,1,,,,,,,1,,,,2.14,1,2170,758,820,1090
+NOGR,36,ND,Adult (not-senile? <35/40+),5,lower,20,half_A,half_D,Ir,CB,Cr,Pp,Me,L,,,1,,,,,,,,1,,,,,,,1,,,,1.93,1,2170,758,1289,1090
+VFT,20,ND,Non-adult (6-8 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,2,,,1,,2,,,,2,2,,,2,,,1,1,,,5.08,2,944,183,391,356
+VFT,20,ND,Non-adult (6-8 yrs),1,upper,1,half_A,half_C,Lo,LL,Ep,Fe,P,I,,,4,1,,,,,,,,,,,,3,1,1,,,,3.66,5,944,183,391,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,5,half_A,half_C,Lo,LL,D,Ti,I,I,,,8,,1,1,,,,,3,,,,3,,5,2,1,,,4.28,8,944,434,391,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,5,half_A,half_C,Ir,T,V,C2,Bod,R,,,1,1,,,,,,,,1,,,,,1,,,,,0.53,1,944,434,391,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,5,half_A,half_C,Ir,T,V,Sac,Bod,I,,1,,,,1,,,,,,1,,,1,,,1,,,,1.99,1,944,434,391,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,5,half_A,half_C,T,CB,T,M2,Cro,I,,,1,1,,,,,,,,,,,,,1,,,,,0.54,1,944,434,391,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,6,half_B,half_C,Se,LL,Pat,Pat,I,R,,,2,1,,,,,,,,1,,,,1,,1,,,,1.76,2,944,434,385,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,Fe,P,I,,,1,1,,,1,,,,,,,,,,,,1,,,4.17,1,944,434,385,356
+VFT,20,ND,Non-adult (6-8 yrs),2,central,7,half_B,half_D,F,UL,Sc,Sc,Acr,I,,,2,,,,2,,,,1,2,,,1,1,1,,,,,0.82,2,944,434,385,420
+VFT,20,ND,Non-adult (6-8 yrs),2,central,8,half_A,half_D,Lo,UL,Ep,H,P,I,,,4,2,,,,,,,,,,,,,2,2,,,,4.24,4,944,434,391,420
+VFT,20,ND,Non-adult (6-8 yrs),2,central,8,half_A,half_D,Ir,LL,Tar,Nav,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.99,1,944,434,391,420
+VFT,20,ND,Non-adult (6-8 yrs),3,lower,10,half_B,half_C,Lo,LL,D,Fe,I,I,,,1,,,,1,,,,,1,,,1,,,,1,,,1.24,1,944,327,385,356
+VFT,20,ND,Non-adult (6-8 yrs),3,lower,10,half_B,half_C,Lo,UL,D,H,I,I,,,1,,,1,,,,,1,,,,,,,1,,,,0.93,1,944,327,385,356
+VFT,20,ND,Non-adult (6-8 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Fe,P,I,,,1,1,,,,1,,,,,,,,,,1,,,,3.7,1,944,327,385,420
+VFT,20,ND,Non-adult (6-8 yrs),3,lower,12,half_A,half_D,F,LL,Oc,Il,I,I,,2,,,,,,,,,,,,,,,,2,,,,4.94,2,944,327,391,420
+VFT,20,ND,Non-adult (6-8 yrs),3,lower,12,half_A,half_D,Lo,UL,D,Cl,I,R,,1,,,,,,,,,,,1,,,,,1,,,,0.98,1,944,327,391,420
+VFT,30,ND,Adult (20-40 yrs),0a,upper,4a,half_A,half_D,T,CB,T,In1,Cro/Ro,I,,,2,,,,,,,,,,,,,1,1,,,,,0.35,2,1314,307,508,501
+VFT,30,ND,Adult (20-40 yrs),0c,central,4c,half_A,half_D,Lo,UL,Ep,U,P,L,,,1,1,,,,,,,,,,,,,2,,,,,0.69,2,1314,265,508,501
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,Lo,LL,D,Ti,I,L,,,1,1,,,,,,,1,,,,1,,,,1,,,3.16,1,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,Lo,LL,D,Ti,I,I,,3,,,,,,,,,1,,3,,3,,2,1,,,,3.6,3,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,Lo,LL,D,Fe,I,I,1,,,,,,,,,,1,,,,,,,1,,,,1.85,1,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,Lo,LL,D,Fe,I,I,,,1,,1,,1,,,,1,,,,,,,,1,,,3.04,1,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,Lo,UL,D,U,I,I,,,2,1,1,1,,,,,,1,,,2,,,1,,1,,2.56,2,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,Ir,T,V,Sac,Di,I,,,1,1,,,1,,,,,,,,,,1,,,,,0.33,1,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,1,half_A,half_C,F,LL,Oc,Il,Piis,I,,,1,1,,,,,,,,,,,,,,,1,,,1.27,1,1314,265,508,568
+VFT,30,ND,Adult (20-40 yrs),1,central,2,half_B,half_C,F,CB,Cr,Fr,Sm,I,,,1,1,,1,,,,,,,,,,,1,,,,,0.28,1,1314,265,561,568
+VFT,30,ND,Adult (20-40 yrs),1,central,2,half_B,half_C,F,CB,Cr,Mand,Cp,L,,,1,1,,,,,,,,,,,,,,,,1,,2.17,1,1314,265,561,568
+VFT,30,ND,Adult (20-40 yrs),1,central,2,half_B,half_C,F,CB,Cr,Mand,Cor,I,,,1,1,,,,,1,,,,,,1,,,1,,,,0.43,1,1314,265,561,568
+VFT,30,ND,Adult (20-40 yrs),1,central,2,half_B,half_C,Lo,LL,Ep,I Mt,Di,I,,,1,,,,,,,,,,,,,,1,,,,,0.22,1,1314,265,561,568
+VFT,30,ND,Adult (20-40 yrs),1,central,2,half_B,half_C,Lo,LL,Ep,Fe,P,I,,,3,3,,,,,,,,,,,,,1,2,,,,3.67,3,1314,265,561,568
+VFT,30,ND,Adult (20-40 yrs),1,central,3,half_B,half_D,Lo,UL,Ep,H,Di,I,,,1,1,,,,,,,,,,,1,,1,,,,,0.42,1,1314,265,561,501
+VFT,30,ND,Adult (20-40 yrs),1,central,3,half_B,half_D,Lo,UL,D,H,I,I,,,2,2,,,,,,,2,1,,,2,,,2,,,,1.87,2,1314,265,561,501
+VFT,30,ND,Adult (20-40 yrs),1,central,3,half_B,half_D,Ir,T,V,C2,Ar,I,,1,,1,,,,,,,,,,,,,1,,,,,0.64,1,1314,265,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,Lo,LL,D,Fi,I,I,,,3,1,3,3,,,3,,3,,,,3,,,,,,3,10.58,3,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,Lo,UL,Ep,II Mc,P,R,,,1,1,,,,,,,,,,,1,,,1,,,,0.39,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,F,UL,Sc,Sc,Acr,R,,,1,,1,1,1,,,,1,,,,1,,,,1,,,1.74,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,Se,LL,Pat,Pat,Lat,R,,,2,2,,,,,1,,,,,,,,1,1,,,,2.22,2,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,F,LL,Oc,Il,I,I,,,2,,,,,,,,2,,,,2,,,1,1,,,2.42,2,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,1,,,1,,,,,,,,,,,1,,,,2.18,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,5,half_A,half_C,Lo,UL,D,H,I,I,,,6,,3,1,1,,,,6,,1,,2,,,1,3,2,,16.76,6,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,UL,D,U,I,I,,,3,2,,3,,,3,,1,,,,3,,1,,,1,1,5.45,3,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,2,2,,,,,,,,1,,,,2,,,,,,0.27,2,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,LL,Ep,Fe,Ne,I,,,1,,1,,,,,,,,,,,,,,1,,,2.3,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,LL,Ep,Ti,Di,L,,,1,1,,,,,,,,,,,,,,1,,,,0.91,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,LL,D,Fe,I,I,,1,,,,1,,,,,1,1,,,,,,,,1,,4.12,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,LL,D,Ti,I,I,,,3,,,,,,,,1,,,,3,,1,,1,1,,4.59,3,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,UL,D,H,I,I,,,2,,,1,,,,,2,,,,2,,,2,,,,2.94,2,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,Lo,LL,Ep,I Mt,Di,R,,,1,1,1,1,,,,,,,,,,,,1,,,,0.8,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,F,CB,Cr,Zy,I,R,,,1,,1,,,,,,,1,,,1,,,,1,,,1.57,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,F,CB,Cr,Zy,I,L,,,1,,1,1,1,,,1,1,,,,1,,,,1,,,3.44,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,6,half_B,half_C,F,CB,Cr,Oc,Cre,I,,,1,,,,,,,,1,,,,1,,,,,1,,4.99,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),2,lower,7,half_B,half_D,F,UL,Sc,Sc,Acr,L,,,1,,1,1,1,,,,1,,,,1,,,,1,,,2.34,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,7,half_B,half_D,Lo,UL,Ep,U,P,R,,,1,1,1,,,,,,1,,,,,,1,,,,,1.28,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,7,half_B,half_D,Lo,UL,Ep,U,Di,R,,,1,1,,,,,,,1,,,,,,,1,,,,0.41,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,7,half_B,half_D,F,CB,Cr,Mand,Con,L,,,1,1,1,,,,,,1,,,,1,,,1,,,,0.79,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,7,half_B,half_D,F,LL,Oc,Pub,Ile-Pub,I,,,1,1,,1,,,,,,,,,1,,,,,,1,1.21,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,7,half_B,half_D,Ir,T,V,C1,Ar,I,,,1,,,,,,,,,1,,,1,,,,1,,,0.92,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,8,half_A,half_D,Lo,UL,D,Ra,I,I,,,2,1,,1,,,,,2,,,,,,,,,,2,4.26,2,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,8,half_A,half_D,Ir,LL,Tar,Cal,Sust,L,1,,,,,,,,,,,,,,,,,1,,,,0.82,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),2,lower,8,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,,,1,,,,,1,,,,1,,1,,,,,0.43,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,UL,Ep,H,P,L,,,1,1,,,,,,,,,,,,,,,1,,,4.27,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,D,H,I,L,,,2,,2,2,,,2,,2,2,,,2,,,,,1,1,13.18,2,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,UL,D,Ra,I,I,,,3,2,2,3,,,2,,2,2,,,1,,,,1,1,1,9.65,3,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,Ep,H,Di,L,,,1,1,,,,,,,,,,,,,,1,,,,1.56,1,1314,742,561,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,UL,D,U,I,I,,,1,1,1,1,,,1,,1,,,,1,,,,,,1,3.91,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,,,1,1,,1,,2,1,,,,,,,,,2,21.93,2,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,UL,D,H,I,I,,,2,,2,1,,,1,,2,,,,1,,,1,,,1,8.66,2,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,UL,D,H,P,L,,,1,1,,,,,1,,1,,,,1,,,,,,1,4.26,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,F,UL,Sc,Sc,Gf,R,,,1,1,,,,,,,,,,,,,1,,,,,0.31,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,2,,1,1,1,,,,1,1,,,,,1,,,1,,4.04,2,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,UL,D,Ra,I,I,,,1,,1,1,,,1,,1,,,,1,,,,,1,,2.84,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,F,CB,Cr,Pp,Am,R,,,1,,,,,,,,,,,,1,,1,,,,,1.81,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,Di,I,,,1,1,,,1,,,,1,,,,1,,,,1,,,1.98,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,F,CB,Cr,Pp,Am,L,,1,,1,,,,,,,,1,,,,,1,,,,,1.81,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,UL,D,Cl,I,I,,,1,1,1,1,1,,,,1,,,,,,,,,,1,3.83,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,LL,Ep,Ti,Di,I,,,1,1,,,,,,,1,,,,,,,1,,,,0.75,1,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,F,UL,Sc,Sc,Gf,R,,,1,1,,,,,,,,,,,,,,1,,,,0.58,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Ir,LL,Tar,Tal,Tr,I,,,2,2,,,,,,,,,,,,,1,1,,,,1.44,2,1314,742,508,568
+VFT,30,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,F,CB,Cr,Mand,Cp,R,,,1,1,,,,,,,1,,1,,,,,1,,,,0.33,1,1314,742,561,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,UL,Sc,Sc,Gf,L,,,1,1,,,,,,,1,,,,,,1,,,,,0.59,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,UL,Sc,Sc,Acr,I,,,1,1,,1,1,,,,1,1,,,1,,,1,,,,1.1,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Fi,Di,L,,,1,1,1,,,,,,,,,,,,,1,,,,0.73,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,CB,Cr,Fr,Fc,I,,,1,,1,,,,,,1,1,,1,1,,,,1,,,3.11,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,CB,Cr,Mand,Con,R,,,1,1,,,,,,,1,,,,,,1,,,,,0.66,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Ir,T,V,Sac,I,I,,,1,,,1,,,,,1,,,,,,1,,,,,0.86,1,1314,742,508,501
+VFT,30,ND,Adult (20-40 yrs),0b,upper,Si,,,Lo,LL,D,Fi,I,I,,,1,,,1,,,,,1,,,,1,,1,,,,,0.82,1,1314,307,,
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Zy,Fp,L,,,2,,,,,,,,,,,,2,,1,1,,,,1.36,2,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,1,,1,,,,,1,,,,,,1,,,,1.77,1,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,,2,,,,2,,,,1,1,,,,,1,1,,,,3.93,2,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,UL,D,U,I,I,,,1,1,,,1,,,,,1,,,,,,,1,,,1.24,1,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fi,I,I,,1,,,,,,,,,,,1,,1,,,1,,,,0.64,1,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,F,UL,Sc,Sc,Ss,I,,2,,,,,,,,,,,2,,1,,1,1,,,,1.11,2,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,F,UL,Sc,Sc,I,I,,,2,,,,,,,,,2,,,2,,2,,,,,0.56,2,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,F,UL,Sc,Sc,Gf,I,,,1,1,,1,,,,,,,,,,,,1,,,,1.03,1,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,,3,3,,2,,,2,,1,3,,,2,,,,1,2,,15.44,3,3630,1556,1423,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Ir,LL,Tar,Tal,Sas,I,,,1,1,,,,,,,,,,,,,,1,,,,0.77,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Lo,UL,Ep,H,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,0.7,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,F,CB,Cr,Zy,Zp,R,,,1,,1,,,,,,,1,,,,,1,,,,,0.3,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Ir,T,V,C1,Ar,I,,,1,1,,,,,,,,1,,,,,1,,,,,0.52,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,,,,,,,,,,,,1,,1,,,,,0.28,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Lo,UL,Ep,U,Di,I,,,1,1,1,1,,,,,,1,,,,,1,,,,,0.52,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Lo,UL,D,H,I,I,,,1,,1,1,,,,,1,1,,,1,,,,,1,,3.02,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Lo,LL,Ep,Fe,Di,I,,,2,2,,,,,,,,,,,,,,2,,,,1.39,2,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,Lo,LL,D,Fe,I,I,,,6,,,,6,,,,,4,,,3,,2,4,,,,5.17,6,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,F,LL,Oc,Il,I,I,,,1,1,,,1,,,,1,,1,,,,,,1,,,4.23,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,F,LL,Oc,Il,I,I,,1,,,,,1,,,,,,1,,1,,,,1,,,2.22,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,2,half_B,half_C,F,LL,Oc,Il,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.86,1,3630,1556,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,Lo,UL,D,U,I,I,,,1,,,1,,,1,,1,1,,,1,,,1,,,,1.25,1,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,Ir,LL,Tar,Tal,He/Tr,L,,,5,4,,,,,,,,,,,,1,2,2,,,,3.71,5,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,Ir,LL,Tar,Tal,Sas,I,,,2,2,,,,,,,,1,,,,,1,1,,,,2.45,2,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,F,UL,Sc,Sc,Gf,I,,,1,1,,,1,,,,,,,,,,1,,,,,0.33,1,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,F,UL,Sc,Sc,I,I,,,3,,,,,,,,,2,,,2,1,2,,,,,0.36,3,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,Ir,UL,Car,Lun,I,R,,,1,1,,,,,,,,,,,,,1,,,,,0.46,1,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,3,half_B,half_D,Ir,UL,Car,Trap,I,I,,,1,1,,,,,,,,,,,,1,,,,,,0.22,1,3630,1556,1427,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,UL,Ep,H,Di,L,,,1,1,,,1,,,,,,,,1,,,1,,,,1.98,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.37,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,F,UL,Sc,Sc,Gf,I,,,1,,,1,1,,,,,1,,,,,,1,,,,0.89,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,F,UL,Sc,Sc,I,I,,,1,,,,1,,,,,1,,,1,,1,,,,,0.53,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,LL,Ep,Fe,Con,R,,,24,6,,,1,,,,,1,2,,1,6,8,8,1,1,,18.88,24,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,LL,D,Fe,I,I,,2,,,,1,1,,,,1,2,,,2,,,,1,1,,8.84,2,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,UL,D,H,I,I,,,1,2,,1,,,,,1,1,,,,,,,,1,,1.15,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,UL,Ep,Cl,Me,I,,,1,,,,,,,,1,,,,,,1,,,,,0.28,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,F,T,R,R1,I,I,,,1,,1,1,,,,,,,1,,1,,,1,,,,0.84,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,F,LL,Oc,Il,I,I,,,2,,,,1,,,,,,,,1,,1,1,,,,1.25,2,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Lo,UL,Ph,I Ph/Ha,Di,R,,,1,,,1,1,,,,,,,,1,,1,,,,,0.19,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Lo,UL,Ph,II Ph/Ha,Me,R,,,1,1,1,1,,,1,,,,,,1,,1,,,,,0.34,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Lo,LL,D,Fi,I,I,,,3,1,,2,1,,1,,2,,1,,3,,,2,1,,,4.26,3,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Ir,T,V,L5,Ar,R,,,1,1,,,,,,,,1,,,1,,1,,,,,1.01,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Ir,T,V,L5,Tp,I,,,1,,,,,,,,,,1,,1,,1,,,,,0.43,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Lo,UL,D,U,I,I,,,1,,,1,1,,,,1,,1,,1,,,1,,,,0.73,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Ir,T,V,Coc,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.21,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Ir,T,V,Sac,Al,R,,,1,1,1,1,,,,,,1,,,,,,,1,,,1.6,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Ir,T,V,Sac,Dw,I,,,1,,,,1,,,,,1,,,1,,1,,,,,0.69,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,5,half_A,half_C,Ir,T,V,Sac,Al,L,,1,,,,1,,,,,,,,,1,,,1,,,,1.13,1,3630,1086,1423,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,D,Fe,I,I,,2,1,2,1,,,,,,3,,,,1,,,1,,2,,13.15,3,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,F,CB,Cr,Te,Zp,R,,,1,1,,,,,,,,,,,1,,,1,,,,0.83,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,Ti,Di,I,,,3,3,,,1,,,,,,,,,1,2,,,,,1.4,3,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,III Mt,P,R,,,1,1,1,,,,,,,,,,,,1,,,,,0.55,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,IV Mt,P,R,,,1,1,1,,,,,,,,,,,,1,,,,,0.45,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Ir,T,V,C3,Bod,I,,,1,1,1,,,,,,,,,,,,1,,,,,1.25,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,Fe,Grt,L,,,1,1,,,,,,,,,,,,,,,1,,,1.41,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),1,upper,4,half_A,half_D,Lo,LL,D,Ti,I,L,,,1,,1,,,,,,1,1,,,,,,,1,,,2.91,1,3630,1556,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,UL,Ep,H,Di,L,,,3,3,,,,,,,,,,,1,,3,,,,,2.83,3,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Ir,T,V,Sac,Ar,I,,,1,1,,,,,,,,,,,,,1,,,,,1,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Ir,T,V,L5,Bod,I,,1,,,,1,,,,,,,,,1,,,,1,,,2.48,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,1,1,,,1,,1,,,,,,1,,1,,,,,0.54,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,F,LL,Oc,Isch,Ac,R,,5,,4,,,,,,,2,1,,,,,1,2,,1,,10.78,4,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Ir,LL,Tar,Tal,He,I,,,1,1,1,,,,,,,,,,,,,1,,,,0.75,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,F,UL,Sc,Sc,Acr,L,,,1,,,1,1,,,,1,,,,1,,,1,,,,2.95,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Lo,LL,Ep,Ti,Di,I,,,1,1,,,1,,,,,,,,,,,1,,,,1.05,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Lo,UL,Ep,H,Di,I,,,1,1,,,1,,,,,,,,,,,2,,,,2.18,2,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Se,LL,Pat,Pat,I,R,,,2,1,,,1,,1,,,,,,,,1,1,,,,5.39,2,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.41,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Lo,LL,D,Ti,I,I,,,3,1,1,3,1,,,,1,,,,2,,,1,,1,1,13.13,3,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Lo,LL,Ep,V Mt,P,R,,,1,1,1,,,,,,,,,,,,,1,,,,0.41,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Lo,LL,D,Fe,I,I,,1,,1,,,1,,,,,,,,,,,,,1,,3.5,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Ir,UL,Car,Ham,Hamul,L,,,1,1,1,,,,,,,,,,,,1,,,,,0.41,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,7,half_B,half_D,Lo,UL,D,U,I,I,,1,,1,1,1,1,,,,1,1,,,1,,,,1,,,2.21,1,3630,1086,1427,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,F,CB,Cr,Mand,I,I,,,5,2,2,,,,,,,4,,,2,1,2,2,,,,3.08,5,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Lo,LL,Ep,Fe,P,I,,,3,3,,,,,,,,,,,,,,3,,,,3.8,3,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Ir,T,V,C1,Ar,I,,,1,1,,,,,,,,,,,,,1,,,,,1.33,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,F,UL,Sc,Sc,I,I,,,1,,,,,,,,,1,,,1,,1,,,,,0.58,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Ir,UL,Car,Lun,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.28,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Ir,UL,Car,Trap,I,I,,,1,,,,,,,,,,,,,1,,,,,,0.13,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Lo,UL,D,Ra,I,I,,1,,,,1,,,,,,,,,,,1,,,,,1.08,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,,1,,,,,,,,,1,,,1,,,,3.11,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,D,Ti,I,R,,,1,,,1,,,,,1,1,,,1,,,,1,,,2.27,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,6,half_B,half_C,Lo,LL,D,Ti,I,L,,,1,,,,1,,,,1,1,,,,,,,1,,,2.62,1,3630,1086,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Lo,UL,D,H,I,I,,,2,1,,2,1,,2,,1,,1,,3,,,,,2,,9.31,2,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Lo,LL,D,Fe,I,I,,2,,1,1,,1,,,,,2,,,2,,,1,1,,,3.49,2,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.52,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),2,central,Si,,,Se,L,Se,Se,I,I,,,1,1,,1,,,,,,,,,1,1,,,,,,0.08,1,3630,1086,,
+VFT,32,ND,Adult (20-40 yrs),2,central,Si,,,Lo,UL,Ph,I Ph/Ha,P,I,,,1,,,,,,,,,,1,,,,1,,,,,0.17,1,3630,1086,,
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,F,UL,Sc,Sc,Acr,R,,,1,,,,1,,,,,,,,,,1,,,,,0.88,1,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,F,CB,Cr,Te,Pp,R,,,1,1,,,,,,,,,,,,,1,,,,,2.06,1,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,UL,Ep,II Mc,P,R,,,1,1,1,,1,,,,,,,,,,,1,,,,1.51,1,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,UL,Ep,III Mc,P,L,,,1,1,,,,,,,,,,,,,1,,,,,0.34,1,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Fi,I,I,,,2,,,1,,,,,,1,,,,,2,,,,,0.71,2,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,5,1,1,,4,,1,,1,1,,,1,,4,,1,,,5.26,5,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,9,half_A,half_C,Lo,UL,D,Cl,I,I,,,1,1,1,1,,,1,,1,1,,,1,,,,1,,,1.97,1,3630,988,1423,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Ti,P,I,,,2,2,,,1,,,,,,,,,,,1,1,,,2.95,2,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Fi,Di,I,,1,,1,,,,,,,,,,,,,,1,,,,1.78,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,LL,D,Fe,I,I,,,1,,,,1,,,,1,,,,1,,,1,,,,1.78,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,LL,D,Fe,I,I,,1,,,,1,,,,,,,,,1,,,,,1,,2.5,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,LL,D,Fi,I,I,,,7,1,1,6,,,1,,,2,1,,6,,3,2,1,,1,6.71,7,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,Ep,IV Mc,P,R,,,1,,,,1,,1,,1,,,,,,,1,,,,0.41,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,1,,,,,,,,,,,,,,1,,,,,0.28,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,D,Ra,I,I,,,1,1,,1,1,,,,,1,,,1,,,,,,1,2.3,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,Ep,Ra,Di,L,,,1,1,,,,,,,,,,,,,1,,,,,0.56,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Fi,P,R,,,1,1,,,,,,,,,,,,,1,,,,,0.51,1,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),2,central,8,half_A,half_D,Lo,LL,D,Ti,I,L,,,1,1,,,,,,,1,,1,,,,,1,,,,1.19,1,3630,1086,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,10,half_B,half_C,Lo,UL,D,H,I,I,,,3,1,,1,,,,,3,,3,,,,,,3,,,6.72,3,3630,988,1427,1294
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,,,1,,,,,,,,,,1,,,,,0.37,1,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,UL,Ep,U,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,0.48,1,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Ti,I,I,,,1,,,1,,,1,,1,,1,,1,,,,,1,,3.89,1,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,,,1,1,,1,,1,1,,,1,,,,,1,,7.34,1,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fi,I,I,,,4,4,1,2,3,,1,1,2,3,,,4,,,1,1,1,1,9.21,4,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,F,CB,Cr,Mand,Con,R,,,2,1,,,,,,,,,,,1,,2,,,,,0.43,2,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,11,half_B,half_D,F,CB,Cr,Mand,Ram,I,,,1,1,1,1,,,1,,,,,,1,,,1,,,,1.1,1,3630,988,1427,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,I Mt,Di,L,,,1,1,,,,,,,,,,,,,1,,,,,0.9,1,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,CB,Cr,Mand,Bod,L,,,1,,,1,,,1,,,1,,,1,,,1,,,,1.07,1,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,LL,Oc,Isch,Of,I,,,1,,1,1,1,,,,1,1,,,1,,,,1,,,2.28,1,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,F,UL,Sc,Sc,Lb,I,,,1,1,,,1,,1,,,,,,1,,,1,,,,1.06,1,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,3,1,,,2,,,,,2,,,2,,,2,,1,,8.47,3,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Ti,I,L,,,1,1,1,1,,,1,,1,,,,1,,,,,,1,7.49,1,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),3,lower,Si,,,Lo,UL,Ep,I Mc,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,0.53,1,3630,988,,
+VFT,32,ND,Adult (20-40 yrs),3,lower,12,half_A,half_D,Lo,UL,D,H,I,I,,,1,1,,1,,,1,,1,,,,1,,,,,,1,7.47,1,3630,988,1423,1556
+VFT,32,ND,Adult (20-40 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Ti,I,I,,,1,1,,1,,,1,,1,1,,,1,,,,,,1,6.79,1,3630,1556,1423,1294
+NOGR,26n,ND,Adult (not-senile? 20-40?),1,upper,1,half_A,half_C,Lo,UL,D,Ra,I,I,,,1,1,,,1,,,,,1,,,,,,,1,,,1.03,1,5489,1033,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),1,upper,1,half_A,half_C,F,UL,Sc,Sc,Acr,I,,,1,,,1,1,,,,,,,,,,1,,,,,0.74,1,5489,1033,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),1,upper,2,half_B,half_C,F,CB,Cr,Mand,Con,R,,,1,1,,,1,,,,1,,,,,,,,1,,,1.18,1,5489,1033,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),1,upper,3,half_B,half_D,Lo,UL,D,U,I,I,,,2,2,,,1,,,,1,,,,,,,,1,,1,3,2,5489,1033,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),1,upper,4,half_A,half_D,F,CB,Cr,Fr,Or,R,,,1,1,,,,,1,,1,,,,,,,,1,,,2.36,1,5489,1033,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),1,upper,4,half_A,half_D,T,CB,T,In2,Cro/Ro,R,,,1,,,,1,,,,,,,,,,1,,,,,0.29,1,5489,1033,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,5,half_A,half_C,Ir,T,V,Sac,Ar,I,,,1,1,,,,,,,,,,,,,1,,,,,0.55,1,5489,1033,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,5,half_A,half_C,Ir,UL,Car,Ham,I,L,,,1,,,,,,,,,,,,,,1,,,,,0.29,1,5489,1033,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,5,half_A,half_C,Lo,LL,Ep,IV Mt,P,L,,,1,,,,1,,,,,,,,,,1,,,,,0.18,1,5489,1033,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,5,half_A,half_C,Lo,UL,D,U,I,I,,,1,1,,,1,,1,,1,,,,,,,,1,,,0.77,1,5489,1033,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,6,half_B,half_C,Ir,UL,Car,Sca,I,L,,,1,1,,,1,,,,,,,,,,1,,,,,0.44,1,5489,1033,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,6,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,1,,,,,,,1,,,,,,,,1,,,0.97,1,5489,1033,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,6,half_B,half_C,Lo,UL,D,Ra,I,I,,,1,1,,,1,,,,1,,,,1,,,,1,,,1.41,1,5489,1033,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,6,half_B,half_C,Lo,LL,D,Fi,I,I,,,1,1,,,1,,,,1,,1,,,,,1,,,,0.42,1,5489,1033,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,6,half_B,half_C,Lo,LL,D,Ti,I,I,,,1,,1,,1,,,,1,,,,,,,,,1,,5.02,1,5489,1033,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,7,half_B,half_D,Lo,UL,D,Ra,I,I,,,1,1,,,1,,,,1,,,,,,,,,1,,1.98,1,5489,1033,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,8,half_A,half_D,Lo,LL,D,Ti,I,I,,,2,1,2,1,1,,,1,1,,,,,,,,,1,1,11.05,2,5489,1033,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,8,half_A,half_D,F,UL,Sc,Sc,Cop,R,,,1,1,1,,,,,,1,,,,,,1,,,,,0.83,1,5489,1033,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,8,half_A,half_D,F,CB,Cr,Te,Zp,L,,,1,1,,,,,,,,,,,,,,1,,,,0.38,1,5489,1033,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),2,upper,8,half_A,half_D,T,CB,T,In1,Cro/Ro,L,,,1,,,,,,,,,,,,,,1,,,,,0.22,1,5489,1033,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Lo,UL,Ep,I Ph/Ha,P,I,,,1,1,,,,,,,,,,,,,1,,,,,0.18,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Ir,UL,Car,Trap,I,I,,,1,1,,,,,,,,,,,,1,,,,,,0.14,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,F,LL,Oc,Il,Ic,I,,,1,1,1,,1,,,,1,,,,,,,,1,,,1.88,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,F,LL,Oc,Il,As,I,,,1,1,,,1,,,,,,,,,,,1,,,,0.94,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,F,LL,Oc,Il,I,I,,,1,1,1,,1,,1,,,,,,,,,1,,,,1.05,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,4,1,,1,1,,,,2,,,,,,4,,,,,2.26,4,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Lo,UL,Ph,I Ph/Ha,P,R,,,1,,,,,,,,,,,,,,1,,,,,0.24,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Ir,LL,Tar,Cun,I,I,,,1,1,1,,,,,,,,,,,,1,,,,,0.65,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Lo,LL,D,Fi,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.29,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Lo,UL,Ep,H,Di,I,,,1,1,,,,,,,1,,,,,,1,,,,,0.42,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,F,T,R,R1,I,I,,,1,1,,,1,,,,,,,,,,,,1,,,1.39,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,9,half_A,half_C,Lo,UL,D,Ra,I,I,,,5,3,2,4,2,,1,,4,,,,,,1,1,2,1,,7.14,5,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,F,CB,Cr,Mand,Con,L,,,1,1,1,,1,,,,,1,,,,,1,,,,,0.84,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Ir,UL,Car,Ham,Hamul,I,,,1,,,,,,,,,,,,,1,,,,,,0.12,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Se,L,Se,Se,I,I,,,1,1,1,,,,,,,,,,,1,,,,,,0.2,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,F,LL,Oc,Il,Ic,I,,,1,1,,,1,,,,,,,,,,,,1,,,1.06,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Lo,LL,Ph,I Ph/Fo,Di,L,,,1,1,1,,1,,,,,,,,,,1,,,,,0.68,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Ir,UL,Car,Tra,I,I,,,1,,,,,,,,,,,,,1,,,,,,0.15,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Ir,LL,Tar,Tal,Tr,R,,,6,4,,,,,,,,,,,,2,3,1,,,,3.79,6,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Lo,UL,Ep,U,P,R,,,3,2,1,,,,,,,,,,,,2,1,,,,1.93,3,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Lo,LL,Ep,Fe,Di,I,,,3,3,,,,,,,,,,,,,1,2,,,,2.95,3,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Lo,LL,Ep,V Mt,P,R,,,1,1,,,,,,,,,,,,,1,,,,,0.43,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Lo,LL,D,Ti,I,I,,,1,,1,1,1,,,,1,,1,,,,,1,,,,2.28,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,F,LL,Oc,Il,Ic,I,,,1,1,1,,,,,,,,,,,,,,,1,,1.38,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,F,LL,Oc,Il,I,I,,,3,2,1,1,,,1,,,,,,,,,2,1,,,4.49,3,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,F,LL,Oc,Il,Ac,I,,,1,1,,,,,,,,,,,,,,1,,,,0.73,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,10,half_B,half_C,Ir,T,V,Sac,I,I,,,2,2,,,1,,,,,,,,,,1,1,,,,3.11,2,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,11,half_B,half_D,Ir,T,V,Sac,I,I,,,1,1,,,,,,,,,,,,,,,1,,,2.14,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,11,half_B,half_D,F,UL,Sc,Sc,Gf,I,,,1,1,,,,,,,,,,,,,,1,,,,1.09,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,12,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,1,,,,,,,,,,,,1,,,2.87,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,12,half_A,half_D,Se,L,Se,Se,I,I,,,1,1,,1,,,,,,,,,,,1,,,,,0.28,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,12,half_A,half_D,Lo,UL,Ep,Ra,P,I,,,1,1,,,,,,,,,,,,,1,,,,,0.41,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),3,central,12,half_A,half_D,Lo,UL,D,Ra,I,I,,,5,2,,2,2,,1,,5,,,,,,1,,2,,2,8.49,5,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,13,half_A,half_C,F,CB,Cr,Max,I,L,,,1,,1,1,,,,,,,,,,,,1,,,,2.31,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,13,half_A,half_C,Lo,LL,D,Fe,Ne,I,,,1,1,1,,1,,,,1,,,,,,,,1,,,3.28,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,Lo,UL,Ep,I Mc,Di,R,,,1,1,,1,,,,,,,,,,,1,,,,,0.52,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,Ir,LL,Tar,Nav,I,I,,,1,1,,,,,,,,,,,,,,1,,,,0.96,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,F,LL,Oc,Il,I,I,,,1,1,,,,,,,,,,,,,,1,,,,0.94,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,,,,,,,,,,1,,,,1.58,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,Lo,UL,D,U,I,I,,,2,,2,3,1,,1,,,,,,,,,1,,,1,6.06,2,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,Lo,LL,D,Ti,I,I,,,2,1,,1,1,,,,1,,,,,,,,1,,1,5.29,2,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,14,half_B,half_C,F,UL,Sc,Sc,Gf,I,,,1,1,,,1,,,,,,,,,,,1,,,,1.21,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,15,half_B,half_D,Ir,UL,Car,Lun,I,R,,,1,1,1,,,,,,,,,,,,1,,,,,0.48,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,15,half_B,half_D,Ir,T,V,Sac,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,0.48,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,15,half_B,half_D,Lo,UL,D,H,I,I,,,10,3,1,3,1,,,,9,1,,,,,4,4,2,,,12.3,10,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,16,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,1,,,1,,1,,1,,,,,,,,,,1,6.75,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),4,central,16,half_A,half_D,Lo,UL,Ep,H,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,0.33,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,17,half_A,half_C,F,LL,Oc,Il,I,I,,,1,1,,,1,,,,,,,,,,,,,1,,0.76,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,17,half_A,half_C,Lo,UL,Ep,H,Di,R,,,1,1,,,1,,,,,,,,,,,,1,,,3.85,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,17,half_A,half_C,Ir,T,V,Sc,Al,L,,,1,,,,,,,,,,,,,,,,,1,,3.59,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,17,half_A,half_C,Lo,LL,Ep,I Mt,Di,R,,,1,1,,,,,,,,,,,,,1,,,,,0.27,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,17,half_A,half_C,Ir,LL,Tar,Cal,Inf,I,,,1,1,1,,,,,,,,,,,,,,1,,,2.83,1,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,17,half_A,half_C,Lo,UL,D,H,I,I,,,4,2,,,4,,,,1,,,,,,,3,1,,,7.51,4,5489,3216,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,F,T,St,St,Cor,I,,,1,,,,,,,,,,,,,,,1,,,,0.49,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,F,T,St,Man,I,I,,,1,,,,,,,,,,,,,,,1,,,,0.37,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,F,CB,Cr,Fr,Or,I,,,1,,,,,,,,,,,,,,1,,,,,0.35,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,Ir,UL,Car,Trap,I,L,,,1,1,,,1,,,,,,,,,,1,,,,,0.4,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,Ir,T,V,C1,Ar,I,,,1,1,,1,,,,,,,,,,,,1,,,,0.48,1,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,Lo,UL,D,H,I,I,,,10,6,2,1,10,,2,,9,,2,,,,2,2,2,3,1,29.94,10,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,18,half_B,half_C,Lo,LL,D,Ti,I,I,,,2,2,,,2,,,,2,,,,,,,,2,,,5.24,2,5489,3216,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,F,CB,Cr,Te,Pp,L,,,1,,,1,,,,,,,,,,,,,1,,,3.57,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,Ir,T,V,Sac,I,I,,,2,,,,1,,,,,,,,,,,,1,1,,7.01,2,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,Lo,LL,D,Fi,I,I,,,1,1,1,1,1,,1,,1,,,,,,,,,,1,5.19,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,Lo,LL,D,Ti,I,I,,,2,,,1,2,,,,2,,,,,,,1,1,,,5.91,2,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,Lo,UL,Ep,Cl,P,I,,,1,,,,,,,,,,,,,,,1,,,,1.13,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,F,LL,Oc,Il,Ac,I,,,1,1,,,,,,,,,,,,,,1,,,,1.14,1,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,19,half_B,half_D,F,CB,Cr,Mand,Con,R,,,2,2,,,1,,1,,1,,,,,,,1,,1,,2.9,2,5489,3216,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,20,half_A,half_D,Lo,UL,Ep,Ra,P,L,,,1,1,,,,,,,,,,,,,1,,,,,1.04,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,20,half_A,half_D,Lo,LL,Ph,I Ph/Fo,P,I,,,1,1,,,,,,,,,,,,,1,,,,,0.81,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,20,half_A,half_D,Lo,LL,Ph,V Ph/Fo,Me,L,,,1,1,,,,,,,,,,,,1,,,,,,0.16,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,20,half_A,half_D,F,UL,Sc,Sc,I,I,,,1,,,,1,,1,,1,,,,,,,,,1,,2.58,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,20,half_A,half_D,Lo,LL,D,Fe,I,I,,,5,3,,,1,,,,5,,,,,,,,2,,3,17.59,5,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),5,central,20,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,,,1,,1,,1,,,,,,,,,1,,4.39,1,5489,3216,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,F,CB,Cr,Mand,Con,L,,,1,1,1,,1,,1,1,1,1,,,,,,1,,,,1.99,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,Ir,UL,Car,Sca,I,R,,,1,1,,,,,,,,,,,,,,1,,,,0.8,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,F,LL,Oc,Isch,It,L,,,1,1,1,,1,,1,,,,,,,,,,1,,,7.69,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C, Lo,UL,Ep,H,P,I,,,15,6,,,,,,,,,,,,6,6,4,,,,6.96,16,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,Lo,LL,Ep,Ti,P,I,,,2,2,1,,,,1,,,,,,,,,2,,,,2.18,2,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,Lo,LL,D,Ti,I,I,,,2,2,2,,,,2,,1,,,,,,,,,,2,6.57,2,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,Lo,LL,D,Fe,Lt,R,,,1,1,1,1,1,1,1,,1,,,,,,,,,,1,6.73,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,Lo,LL,D,Fe,I,I,,,12,4,1,3,7,,,,1,,,,,1,3,2,4,1,1,20.03,12,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,21,half_A,half_C,Lo,UL,Ep,Ra,Di,R,,,1,1,,,,,1,,1,,,,,,,,1,,,1.86,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,Ir,T,V,Sac,Al,R,,,2,2,2,,,,,,,,,,,,,,2,,,6.67,2,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,F,LL,Oc,Il,I,I,,,1,1,1,,1,,,,1,,,,,,,,,1,,3.09,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,F,UL,Sc,Sc,Ss,I,,,1,,1,,1,,,,,,,,,,,1,,,,1.24,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,Lo,LL,D,Fi,I,I,,,1,1,,1,,,,,1,,,,,,,,,1,,1.79,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,F,CB,Cr,Mand,Myl,L,,,1,1,,1,,,,,,,,,,,,1,,,,1.02,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,F,LL,Oc,Pub,Ps,R,,,1,1,,,,,,,,,,,,,,1,,,,0.82,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,Se,LL,Pat,Pat,I,I,,,2,2,,,1,,,,,,,,,,1,1,,,,2.08,2,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,Lo,LL,D,Fe,I,I,,,2,1,1,1,1,1,2,,2,,,,,,,,,1,1,21.12,2,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,22,half_B,half_C,Ir,LL,Tar,Cub,Lat,R,,,1,1,,,1,,1,,,,,,,,,1,,,,1.04,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,23,half_B,half_D,F,UL,Sc,Sc,Cop,L,,,1,1,,,1,,,,,,,,,,,,1,,,1.6,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,23,half_B,half_D,Lo,LL,Ep,Fi,Di,R,,,1,1,1,,,,,,,,,,,,,,,,1,4.23,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,23,half_B,half_D,F,LL,Oc,Il,Ic,I,,,1,1,,1,1,,,,,,,,,,,,,1,,1.33,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,23,half_B,half_D,Ir,T,V,L3,Bod,I,,,1,,1,1,,,,,,,,,,,,,,1,,12.62,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,23,half_B,half_D,Lo,LL,Ph,I Ph/Fo,P,R,,,1,1,1,,1,,1,1,1,,,,,,,,1,,,2.72,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,CB,Cr,Te,Zp,R,,,1,1,1,1,1,,1,,1,,,,,,,,1,,,3.37,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,CB,Cr,Zy,Fp,R,,,1,1,,,,,,,1,,,,,,,1,,,,0.85,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,CB,Cr,Zy,Zp,L,,,1,1,1,,,,1,1,1,,,,,,,,1,,,2.16,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,CB,Cr,Max,I,R,,,3,2,,,2,,,,,,,,,,2,1,,,,2.73,3,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,Lo,LL,D,Fi,I,I,,,2,1,,2,2,,1,,2,1,,,,,,,,,2,7.56,2,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,Lo,UL,Ep,H,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.74,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,UL,Sc,Sc,I,I,,,1,,1,1,1,,,,1,,,,,,,,,1,,2.07,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,LL,Oc,Il,I,I,,,1,1,,,,,,,,,,,,,,,,1,,1.53,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,F,LL,Oc,Il,Ac,I,,,1,1,,,,,,,,,,,,,,1,,,,0.81,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),6,lower,24,half_A,half_D,Ir,LL,Tar,Cun,Inter,I,,,1,1,,,,,1,,,,,,,,1,,,,,0.39,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,25,half_A,half_C,F,LL,Oc,Isch,It,R,,,1,1,,,1,,1,,,,,,,,,,,1,,7.71,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,25,half_A,half_C,F,LL,Oc,Il,Ac,R,,,3,2,,,2,,1,,2,,,,,,,,1,1,1,15.36,3,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,25,half_A,half_C,F,LL,Oc,Il,As,L,,,2,2,,,2,,,,,,,,,,,,,2,,19.31,2,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,25,half_A,half_C,F,UL,Sc,Sc,I,I,,,2,1,1,1,,,,,,,,,,,,1,,,,1.06,1,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,25,half_A,half_C,F,LL,Oc,Il,As,R,,,3,3,,,3,,,,,,,,,,,1,1,,1,18.37,3,5489,1240,2429,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,26,half_B,half_C,Ir,T,V,L4,Bod,I,,,2,2,1,,,,,,,,,,,,,1,,1,,7.92,2,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,26,half_B,half_C,Ir,T,V,L5,Bod,I,,,1,1,1,,1,,,,,,,,,,,,,,1,12.45,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,26,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,,,,1,,,,1,,,,,,,,1,,,1.76,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,26,half_B,half_C,Ir,LL,Tar,Cal,Sust,I,,,1,1,,,,,,,,,,,,,,1,,,,0.93,1,5489,1240,2999,3251
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,27,half_B,half_D,F,LL,Oc,Il,Ac,L,,,1,1,,,,,,,,,,,,,,,,,1,8.64,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,27,half_B,half_D,F,LL,Oc,Il,I,R,,,1,1,1,,1,,,,,,,,,,,,,1,,6.99,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,27,half_B,half_D,Lo,LL,Ep,Fe,Lt,L,,,1,,,1,1,,,,,,,,,,,1,,,,1.76,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,27,half_B,half_D,Lo,LL,D,Ti,I,I,,,2,1,,,2,,,,1,,,,,,1,,1,,,3.88,2,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,27,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,1,1,,,,1,,1,,,,,,,,,,1,7.49,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,27,half_B,half_D,F,CB,Cr,Occ,Cre,I,,,1,1,,,,,,,,,,,,,,,,,1,2.56,1,5489,1240,2999,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,28,half_A,half_D,Se,LL,Pat,Pat,I,I,,,2,2,,,,,,,,,,,,,,2,,,,2.17,2,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,28,half_A,half_D,Lo,UL,D,Ra,I,I,,,1,1,1,1,,,,,1,,,,,,,,,,1,2.85,1,5489,1240,2429,2177
+NOGR,26n,ND,Adult (not-senile? 20-40?),7,lower,28,half_A,half_D,Lo,LL,Ep,Fe,P,R,,,3,,1,1,,,,,,,,,,,1,1,,,1,47.09,3,5489,1240,2429,2177
+NOGR,56,ND,Adult,1,upper,3,half_B,half_D,F,LL,Oc,Il,As,I,,,1,1,1,,1,,1,,,,,,,,,,,1,,1.84,1,2049,357,1211,1374
+NOGR,56,ND,Adult,1,upper,3,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,1,1,,,,,,,,,,,,,,,1,,3.67,1,2049,357,1211,1374
+NOGR,56,ND,Adult,1,upper,3,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,1,1,1,,,,,,1,,,,,,1,,,,2.28,1,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,6,half_B,half_C,Lo,LL,D,Fi,Di,R,,,1,1,,,,,,,,,,,,,,,1,,,1.94,1,2049,357,1211,609
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,F,CB,Cr,Max,I,I,,,1,,,,,,,,,,,,,,,1,,,,0.95,1,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,F,CB,Cr,Mand,I,I,,,1,,,,,,,,,,,,1,,1,,,,,0.43,1,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,Ir,T,V,Sac,Al,I,,,1,1,,,,,,,,,,,,,1,,,,,0.74,1,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,Lo,LL,D,Fe,I,I,,,3,1,1,,1,,,,,,,,,,,3,,,,4.89,3,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,Lo,LL,D,Fi,I,I,,,1,1,,,,,1,,1,,,,,,,1,,,,0.92,1,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,Lo,LL,D,Fi,I,I,,,1,1,,,,,1,,,,,,,,,,,,1,3.22,1,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,Lo,LL,D,Ti,I,I,,,4,3,,,1,,,,2,,,,,,,3,,,1,11.97,4,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,7,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,2,,2,,,,,1,,,,,,,,,,2,8.95,2,2049,357,1211,1374
+NOGR,56,ND,Adult,2,upper,8,half_A,half_D,Ir,UL,Car,Ham,Hamul,L,,,1,1,,,,,,,,,,,,,1,,,,,0.51,1,2049,357,772,1374
+NOGR,56,ND,Adult,2,upper,8,half_A,half_D,Lo,LL,D,Ti,I,I,,,2,1,,2,2,,,,1,,,,,,,,,,2,15.79,2,2049,357,772,1374
+NOGR,56,ND,Adult,3,central,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,3,3,,1,,,,,3,,,,,,,,2,1,,14.41,3,2049,718,772,609
+NOGR,56,ND,Adult,3,central,10,half_B,half_C,Lo,LL,D,Fe,I,I,,,2,1,,1,1,,,,1,,,,,,,1,1,,,8.36,2,2049,718,1211,609
+NOGR,56,ND,Adult,3,central,10,half_B,half_C,F,LL,Oc,Isch,Ac,R,,,1,1,,,,,,,,,,,,,,1,,,,1.98,1,2049,718,1211,609
+NOGR,56,ND,Adult,3,central,11,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,,,,,,,,2,,,,,,1,,1,,,4.67,2,2049,718,1211,1374
+NOGR,56,ND,Adult,3,central,11,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,2,,2,,,,,,,,,,,1,1,,,,4.62,2,2049,718,1211,1374
+NOGR,56,ND,Adult,3,central,11,half_B,half_D,Lo,UL,D,Cl,I,L,,,1,,1,1,1,,1,,1,,,,,,,,1,,,3.68,1,2049,718,1211,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,Ir,CB,Cr,Pp,Me,L,,,1,,,,,,,,,,,,,,,,1,,,5.37,1,2049,718,772,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,Se,LL,Pat,Pat,I,I,,,1,1,,,,,,,,,,,,,,1,,,,1.89,1,2049,718,772,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,F,UL,Sc,Sc,Cop,I,,1,,,,,1,,,,,1,,,,,1,,,,,0.75,1,2049,718,772,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,Lo,LL,Ep,I Mt,Di,R,,,1,1,,,,,,,,,,,,,1,,,,,1.13,1,2049,718,772,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,3,3,1,3,2,,,,2,,,,,,,1,1,1,,12.85,3,2049,718,772,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,Lo,LL,D,Ti,I,I,,,1,1,,1,1,,1,,1,,,,,,,,,,1,5.56,1,2049,718,772,1374
+NOGR,56,ND,Adult,3,central,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,3.43,1,2049,718,772,1374
+NOGR,56,ND,Adult,4,central,14,half_B,half_C,Lo,LL,D,Fe,Las,I,,,2,1,,,,,,,1,,,,,,1,1,,,,3.94,2,2049,718,1211,609
+NOGR,56,ND,Adult,4,central,14,half_B,half_C,Lo,UL,D,Ra,I,I,,,2,,,,2,,,,,,,,,,1,1,,,,1.82,2,2049,718,1211,609
+NOGR,56,ND,Adult,4,central,15,half_B,half_D,Lo,UL,D,H,I,I,,,1,,,,1,,,,,,,,,,1,,,,,0.25,1,2049,718,1211,1374
+NOGR,56,ND,Adult,4,central,15,half_B,half_D,Lo,LL,D,Ti,I,I,,,1,1,,,,,,,1,,,,,,,,,1,,3.17,1,2049,718,1211,1374
+NOGR,56,ND,Adult,4,central,15,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,,,1,,,,,,,,,,,1,1,,,,4.67,2,2049,718,1211,1374
+NOGR,56,ND,Adult,4,central,15,half_B,half_D,Lo,LL,D,Fe,I,I,,,3,1,,1,1,,,,1,,,,,,,2,1,,,10.14,3,2049,718,1211,1374
+NOGR,56,ND,Adult,4,central,15,half_B,half_D,Lo,LL,D,Fi,I,I,,,1,1,1,1,1,,,,1,,,,,,,1,,,,1.54,1,2049,718,1211,1374
+NOGR,56,ND,Adult,4,central,16,half_A,half_D,Lo,LL,D,Fe,Las,I,,,2,2,1,,,,,,,,,,,,,1,1,,,8.31,2,2049,718,772,1374
+NOGR,56,ND,Adult,5,lower,17,half_A,half_C,Lo,LL,D,Ti,For,R,,,1,1,1,1,,,,,,,,,,,,,,1,,4.65,1,2049,974,772,609
+NOGR,56,ND,Adult,5,lower,18,half_B,half_C,Lo,LL,D,Fe,I,I,,,1,,,1,1,,,,1,,,,1,,1,,,,,2.48,1,2049,974,1211,609
+NOGR,56,ND,Adult,5,lower,19,half_B,half_D,Lo,LL,D,Fe,Las,I,,,2,1,,1,,,,,,,,,,,,,2,,,6.14,2,2049,974,1211,1374
+NOGR,56,ND,Adult,5,lower,19,half_B,half_D,F,CB,Cr,Mand,Con,L,,,1,1,1,1,,,,,,,,,,,,1,,,,1.11,1,2049,974,1211,1374
+NOGR,56,ND,Adult,5,lower,19,half_B,half_D,F,LL,Oc,Pub,Isc-Pub,I,,,1,1,,,1,,1,,,,,,,,,,1,,,2.5,1,2049,974,1211,1374
+NOGR,56,ND,Adult,5,lower,19,half_B,half_D,F,CB,Cr,Occ,Con,R,,1,,,,1,,,,,,,,,,,1,,,,,0.83,1,2049,974,1211,1374
+NOGR,56,ND,Adult,5,lower,20,half_A,half_D,Lo,LL,D,Fe,Las,I,,,1,1,,1,,,,,,,,,,,,,,1,,5.18,1,2049,974,772,1374
+NOGR,56,ND,Adult,5,lower,20,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,1,1,1,,,,,1,,,,,,,1,,,,1.92,1,2049,974,772,1374
+NOGR,56,ND,Adult,5,lower,20,half_A,half_D,F,CB,Cr,Mand,Ms,I,,,1,,1,,,,,,,,,,,,,1,,,,1.77,1,2049,974,772,1374
+NOGR,56,ND,Adult,5,lower,20,half_A,half_D,F,LL,Oc,Il,Ic,I,,,1,1,,,,,,,,,,,,,,1,,,,1.09,1,2049,974,772,1374
+NOGR,56,ND,Adult,5,lower,20,half_A,half_D,Lo,UL,Ep,Ra,Di,R,,,1,1,,,,,,,,,,,,,,1,,,,1.35,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,Ir,T,V,Sac,I,I,,,1,1,,,1,,,,,,,,,,,1,,,,1.5,1,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,Lo,UL,D,Ra,I,I,,,1,1,,1,,,1,,1,,,,,,,,,1,,2.02,1,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,F,CB,Cr,Mand,I,I,,,1,,,,,,,,,1,,,,,1,,,,,0.7,1,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,Lo,LL,D,Fi,I,I,,,1,1,,1,,,1,,1,,,,,,,1,,,,1.09,1,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,Lo,LL,D,Ti,I,I,,,3,2,,1,1,,,,3,,,,,,1,2,,,,4.62,3,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,F,UL,Sc,Sc,Gf,R,,,3,3,,1,1,,2,,,,,,,,2,1,,,,4.49,3,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,F,UL,Sc,Sc,Lb,I,,,1,,1,,1,,1,,,1,,,,,,,1,,,1.35,1,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,F,UL,Sc,Sc,Cop,I,,1,,,1,,,,,,,,,,,,1,,,,,0.7,1,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,Lo,UL,D,H,Ltc,I,,,2,2,,,,,,,,,,,,,,,1,1,,5.78,2,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,21,half_A,half_C,Lo,LL,D,Fe,I,I,,,2,,,2,1,,,,1,,,,,,,1,1,,,5.25,2,2049,974,772,609
+NOGR,56,ND,Adult,6,lower,22,half_B,half_C,Lo,LL,D,Ti,I,I,,,2,1,,1,1,,,,1,,,,,,,1,,1,,7.94,2,2049,974,1211,609
+NOGR,56,ND,Adult,6,lower,22,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,1,1,,,,,,,1,,,,,,1,,,,,0.68,1,2049,974,1211,609
+NOGR,56,ND,Adult,6,lower,22,half_B,half_C,Lo,LL,D,Fe,I,I,,,2,,,,2,,,,1,,,,,,1,1,,,,4.94,2,2049,974,1211,609
+NOGR,56,ND,Adult,6,lower,22,half_B,half_C,F,CB,Cr,Fr,Or,I,,,1,,1,1,,,,,,,,,,,1,,,,,0.68,1,2049,974,1211,609
+NOGR,56,ND,Adult,6,lower,23,half_B,half_D,Lo,LL,D,Fi,I,I,,,2,2,,1,,,,,2,,,,,,1,,1,,,2,2,2049,974,1211,1374
+NOGR,56,ND,Adult,6,lower,23,half_B,half_D,F,UL,Sc,Sc,Ia,I,,,2,2,,,,,,,,,,,,,2,,,,,0.54,2,2049,974,1211,1374
+NOGR,56,ND,Adult,6,lower,23,half_B,half_D,Lo,LL,D,Fe,I,I,,3,,3,,,,,,,1,1,,,,1,2,,,,,3.05,3,2049,974,1211,1374
+NOGR,56,ND,Adult,6,lower,23,half_B,half_D,Lo,UL,D,U,I,I,,,2,2,1,,,,,,1,,,,,,,1,1,,,1.93,2,2049,974,1211,1374
+NOGR,56,ND,Adult,6,lower,23,half_B,half_D,Lo,UL,D,H,I,I,,,1,1,,1,,,,,,,,,,,,,1,,,3.92,1,2049,974,1211,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,LL,Ep,Fi,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,0.83,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,F,LL,Oc,Il,Ic,I,,,1,1,,,,,,,,,,,,,,,,1,,1.99,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,UL,Ep,Ra,P,I,,,1,1,,,,,,,,,,,,,1,,,,,1.15,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,UL,D,Ra,Rt,I,,,1,1,,,,,,,,,,,,,,1,,,,1.19,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Ir,LL,Tar,Cal,Sust,I,,1,,,,1,,,,,,,,,,,1,,,,,0.5,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,UL,D,H,I,I,,,1,1,,1,,,,,,,,,,,,1,,,,2.84,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Ir,UL,Car,Lun,I,R,,1,,1,,,,,,,,,,,,,1,,,,,0.54,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,LL,D,Fe,I,I,,2,,2,,,,,,,,,,,,,1,,1,,,3.61,2,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,UL,Ep,U,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,0.77,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,LL,D,Ti,Nf,I,,1,,,,,,,,,,,,,,,1,,,,,0.65,1,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,Lo,LL,D,Ti,I,I,,,2,2,1,,1,,,,2,,,,,,,,1,,1,16.12,2,2049,974,772,1374
+NOGR,56,ND,Adult,6,lower,24,half_A,half_D,F,CB,Cr,Zy,Or,L,,,1,1,,1,,,,,,,,,,,,1,,,,2.17,1,2049,974,772,1374
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,1,half_A,half_C,Lo,UL,D,U,I,I,,,1,,1,1,,,1,1,,,1,,,,,,,1,,1.88,1,1308,495,535,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,1,half_A,half_C,Lo,UL,D,Ra,I,I,,,6,,1,2,,,,,,7,,,,1,2,4,,,,2.52,7,1308,495,535,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,1,half_A,half_C,F,T,R,R2,I,I,,,1,,,1,1,,1,,,,1,,1,,,1,,,,0.38,1,1308,495,535,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Occ,Ts,I,,,1,1,,,,,,,,1,,,,,,1,,,,1.1,1,1308,495,535,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,Lo,UL,D,H,I,I,,4,,,,2,1,,,,,2,,,,1,2,,1,,,4.27,4,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,Lo,UL,D,I Ph/Ha,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.27,1,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,Ir,LL,Tar,Sca,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.32,1,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,Se,LL,Pat,Pat,I,R,,,1,1,,,,,,,,,,,,,,1,,,,1.94,1,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,1,,1,1,,,,,,,,,,,1,,,,2.41,1,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,Lo,UL,D,U,I,I,,,1,,1,1,,,1,,,,,,,,,1,,,,0.96,1,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,2,half_B,half_C,F,CB,Cr,Sph ,Fo,I,,,1,,,1,1,,,,,,,,,,,1,,,,1.43,1,1308,495,566,668
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,3,half_B,half_D,Ir,T,V,C1,Ar,I,,,1,1,,,,,,,,1,,,1,,1,,,,,0.42,1,1308,495,566,433
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,3,half_B,half_D,F,CB,Cr,Mand,Cp,L,,,1,1,1,,,,,,,1,,,,,,,1,,,1.03,1,1308,495,566,433
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,3,half_B,half_D,F,CB,Cr,Mand,Con,I,,1,,,,,,,,,,1,,,,,1,,,,,0.34,1,1308,495,566,433
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,3,half_B,half_D,F,T,R,R2,I,R,,,1,,,1,1,,,,,,1,,,,,1,,,,0.66,1,1308,495,566,433
+VFT,16,ND,Non-adult (11-13 yrs),1,upper,3,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,,1,1,,,,,1,,,,1,,,,1,,,2.26,1,1308,495,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,5,half_A,half_C,F,LL,Oc,Il,I,I,,,1,,,1,,,,,,,,,,,,1,,,,1.59,1,1308,477,535,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,1,,,,,,1,,,1,,,,,,,,1,,,3.01,1,1308,477,535,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.38,1,1308,477,535,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,5,half_A,half_C,Lo,LL,D,Ti,I,I,,,4,,1,2,1,,1,,1,,,,2,,2,,,,2,19.1,4,1308,477,535,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,F,UL,Sc,Sc,Cop,R,,,1,1,1,1,,,,,,,,,,,,1,,,,0.56,1,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,F,CB,Cr,Occ,Ant,I,,,2,2,,,,,1,,,2,,,2,,1,,,1,,5.34,2,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,Fe,P,I,,,1,1,,,,1,,,,,,,,,,,1,,,5.1,1,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,Ir,LL,Tar,Nav,I,R,,,1,1,,,,,,,,,,,,,1,,,,,0.68,1,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,Ir,LL,Tar,Tal,Tr,I,,,1,1,,,,,,,,,,,,,1,,,,,0.47,1,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,Lo,LL,D,Fe,I,I,,,2,,1,1,,,,,,,,,,,,1,1,,,3.75,2,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,6,half_B,half_C,Lo,LL,D,Ti,Nf,R,,,2,,,1,2,,,,,,,,1,,,1,1,,,3.7,2,1308,477,566,668
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,Ir,LL,Tar,Cal,I,L,,,2,2,,,1,,,,,,,,,,1,,,1,,4.4,2,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,Lo,UL,Ep,H,P,I,,,2,2,,,,,,,,,,,,,1,1,,,,1.87,2,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,F,LL,Oc,Isch,It,L,,,1,1,,,1,,,,,1,,,1,,,1,,,,1.75,1,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,F,CB,Cr,Max,I,I,,,1,,,,,,,,,,,,,,1,,,,,0,1,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,Lo,UL,D,Cl,I,L,,,1,,1,1,1,,1,,,1,,,1,,,,1,,,1.65,1,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,,1,1,1,,,,,,,,2,,1,,,1,,4.78,2,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,Ir,LL,Tar,Cun,I,I,,,2,1,,,,,,,,,,,,,2,,,,,0.65,2,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,2,2,,,,,,,,,,,,,1,1,,,,2.83,2,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,7,half_B,half_D,T,CB,B,M2,Cro,R,,,1,1,,,,,,,,1,,,1,,1,,,,,0.2,1,1308,477,566,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,8,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,1,,,,,,,,,,,1,,,,1.27,1,1308,477,535,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,8,half_A,half_D,Lo,LL,Ep,Ti,Di,R,,,1,1,,,,,,,,,,,,,,1,,,,1.31,1,1308,477,535,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,8,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,1,1,,,,,,,,,1,,,,1,,,3.02,1,1308,477,535,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,8,half_A,half_D,Lo,LL,Ep,Fe,P,I,,,3,1,,,,,,,,,,,,,2,1,,,,2.37,3,1308,477,535,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,8,half_A,half_D,Lo,LL,D,Fe,I,I,,,3,2,1,,,,1,,,,,,,,,,1,1,1,7.4,3,1308,477,535,433
+VFT,16,ND,Non-adult (11-13 yrs),2,central,8,half_A,half_D,Ir,LL,Tar,Cub,I,L,,,1,1,,,,,,,,,,,,,,1,,,,1.41,1,1308,477,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,F,CB,Cr,Te,Pp,R,,,4,1,,,,,,,,3,,,3,3,,1,,,,3.04,4,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,F,CB,Cr,Sph ,For (rotundum),R,,,1,1,,,,,,,,,,,,,,1,,,,1.77,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,Se,LL,Pat,Pat,I,L,,,1,1,,,1,,,,,,,,1,,,1,,,,1.38,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,Ir,T,V,S1,Al,L,,,1,1,,1,,,,,,,,,,,,,1,,,2.46,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,F,LL,Oc,Isch,It,R,,,1,,,,1,,,,,1,,,,,,1,,,,1.57,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,F,LL,Oc,Isch,It,R,,1,,1,,,,,,,,1,,,,,,1,,,,1.36,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,Lo,LL,Ep,Ti,Di,L,,,1,1,,,,,,,,,,,,,,1,,,,2.09,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,9,half_A,half_C,Lo,UL,D,Ra,I,I,,,1,,1,1,1,,,,,,,,1,,,,1,,,1.23,1,1308,336,535,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,10,half_B,half_C,F,CB,Cr,Sph ,I,I,,,1,,,,,,,,,,,,,,1,,,,,1.02,1,1308,336,566,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,10,half_B,half_C,Lo,UL,Ep,H,P,I,,,1,1,,,,,,,,,,,,,,1,,,,1.54,1,1308,336,566,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,10,half_B,half_C,F,CB,Cr,Te,Pp,L,,1,,,,,,,,,,,,,,,,,,1,,5.77,1,1308,336,566,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,10,half_B,half_C,Ir,LL,Tar,Tal,Tr,R,,,2,2,,,,,,,,,,,,1,,1,,,,2.28,2,1308,336,566,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,10,half_B,half_C,F,UL,Sc,Sc,Ss,I,,1,,,1,1,1,,,,,,,,,,,1,,,,0.73,1,1308,336,566,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Fe,P,R,,,4,2,1,,3,,1,,,,,,1,1,2,1,,,1,17.48,5,1308,336,566,668
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,11,half_B,half_D,Lo,UL,Ep,Ra,P,I,,1,,1,,,,,,,,,,,,,1,,,,,0.85,1,1308,336,566,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fe,Di,I,,2,,,1,,,,,,,,,,,,,1,,1,,7.87,2,1308,336,566,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fe,Di,I,,,11,,,,,,,,,,,,,3,5,2,1,,,5.37,11,1308,336,566,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.67,1,1308,336,566,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,2,,1,,,,,,,,,,,1,,,,1,3.72,2,1308,336,566,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Ti,I,I,,,3,,,1,,,,,,2,,,2,,1,,1,,1,6.1,3,1308,336,566,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,F,CB,Cr,Mand,I,I,,1,,,,,,,,,,1,,,,,1,,,,,0.24,1,1308,336,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,F,CB,Cr,Fr,Or,R,,,1,,,,1,,,,,1,,,1,,,1,,,,1.53,1,1308,336,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Fe,P,I,,1,,,,,,,,,1,,,,,,,1,,,,1.95,1,1308,336,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.48,1,1308,336,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,1,1,,,,,,1,,,,,,,,1,,,2.63,1,1308,336,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,Lo,UL,D,H,I,I,,2,,,,2,,,,,,,,,2,,,1,1,,,2.07,2,1308,336,535,433
+VFT,16,ND,Non-adult (11-13 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,5,,,3,,,,,2,4,,,4,,3,1,1,,,7.66,5,1308,336,535,433
+VFT,8,F,Adult. > 30 yrs,1,upper,4,half_A,half_D,Lo,LL,Ep,Fe,Di,R,,,22,2,1,1,,,,,,7,,,,6,10,3,2,1,,18.39,22,3566,1033,1351,1437
+VFT,8,F,Adult. > 30 yrs,1,upper,4,half_A,half_D,Lo,LL,Ep,Ti,P,I,,,7,3,1,,2,,2,,2,3,,,,,4,2,,,1,17.25,7,3566,1033,1351,1437
+VFT,8,F,Adult. > 30 yrs,1,upper,3,half_B,half_D,Lo,LL,D,Ti,Ancr,I,,,3,2,1,2,,,,,,3,,2,1,,2,,,,1,5.61,3,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,1,upper,2,half_B,half_C,Lo,LL,D,Ti,Titu,I,,,1,,1,1,1,,,,1,,,,,,,,,,1,3.85,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,2,half_B,half_C,Lo,UL,Ep,Ra,Di,L,,,2,,,,,,,,,1,,,1,,2,,,,,1.55,2,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,2,half_B,half_C,Lo,LL,Ep,Fi,Di,L,,,1,1,1,,,,,,,,,,,,,,,1,,1.97,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,1,half_A,half_C,Lo,UL,D,H,I,I,,,2,1,2,,1,,1,1,1,2,,2,2,,,,1,,1,12.34,2,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,1,half_A,half_C,F,CB,Cr,Te,Mp,R,,,1,,,,,,,,,,,,,,1,,,,,0.37,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,,1,,,,1,,,,1,1,,,1,,,,1,,,2.42,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,1,half_A,half_C,Lo,LL,Ep,Ti,P,I,,,2,2,,,,,,,,1,,,,,,1,1,,,4.14,2,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,1,half_A,half_C,Ir,UL,Car,Ham,Hamul,L,,,1,1,1,1,,,,,,,,,1,,1,,,,,0.51,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,1,upper,1,half_A,half_C,Lo,LL,Ep,V Mt,P,L,,,2,,1,,,,1,,1,2,,,2,,,1,1,,,1.9,2,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,8,half_A,half_D,F,T,St,St,I,I,,,13,1,,,,,,,,1,,,1,8,4,,,1,,3.24,13,3566,1033,1351,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,8,half_A,half_D,Lo,UL,D,H,I,I,,,1,,,,1,,,,1,1,,,1,,,,,1,,2.32,1,3566,1033,1351,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,8,half_A,half_D,Lo,LL,Ep,Fi,Di,R,,,1,1,1,,,,,,,1,,,,,,,1,,,1.49,1,3566,1033,1351,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,8,half_A,half_D,Ir,UL,Car,Sca,I,L,,,2,1,,,2,,,,,2,,,2,,2,,,,,0.64,2,3566,1033,1351,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Lo,LL,Ep,Fi,P,L,,,1,1,,,,,,,,1,,,1,,,1,,,,0.46,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Se,LL,Pat,Pat,I,L,,,1,1,1,1,,,,,,1,,,,,,,1,,,4.21,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Lo,LL,D,Ti,Di,I,,,1,1,1,,,,,,,1,,,1,,,1,,,,2.21,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,F,T,St,St,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.44,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Ir,LL,Tar,Cun,Inter,L,,,1,1,,,,,,,,,,,,,1,,,,,1.05,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Lo,LL,Ep,I Mt,Di,R,,,1,1,,,,,,,,,,,,,,1,,,,1.03,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Lo,LL,Ep,IV Mt,P,L,,,1,1,1,,,,,,,1,,,1,,,,1,,,11.9,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Lo,LL,Ep,III Mt,P,L,,,1,1,1,,,,,,1,2,,,2,,1,,,1,,1.37,2,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Ir,LL,Tar,Tal,I,L,,,2,2,,,,,,,,,,,1,,,1,1,,,5.59,2,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Lo,LL,Ep,Ti,Di,I,,,1,1,,,1,,,,,,,,,,,1,,,,2.81,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,Ir,LL,Tar,Cal,Sust,I,,,1,1,,,,,,,,,,,,,1,,,,,1.12,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D,F,CB,Cr,Zy,For ,R,,,1,1,,,,,,,,1,,,1,,,1,,,,0.73,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,7,half_B,half_D, Lo,LL,D,Fi,I,I,,,1,,,1,1,,1,,1,1,,,1,,,,1,,,2.09,1,3566,1033,1803,1437
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Lo,LL,Ep,Fe,P,I,,,1,1,,,1,,,,,,,,,,,,1,,,3.65,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Ir,T,V,C3,Bod,I,,,1,,1,,1,,,,,,,,,,,1,,,,1.48,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Ir,T,V,C7,Bod/Ar,I,,,1,1,1,,,,,,,,,,,,,,,1,,3.97,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Ir,LL,Tar,Cub,I,L,,,1,1,,,1,,1,,,,,,,,,1,,,,2.51,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Ir,LL,Tar,Cun,Lat,I,,,1,1,,,,,,,,,,,,,1,,,,,1.04,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Lo,LL,Ph,I Ph/Fo,Di,L,,,1,,,,,,,,,,,,,,1,,,,,0.59,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Lo,LL,Ep,I Mt,Di,L,,,2,1,,,,,,,,1,,,,,2,,,,,1.17,2,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Lo,LL,Ep,II Mt,P,L,,,1,1,,,,,,,,,,,1,,,1,,,,0.7,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Lo,LL,D,Ti,Nf,I,,,1,,,,,,,,1,,,,,,1,,,,,0.34,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Ir,T,V,Sac,I,I,,,1,,,,,,,,,1,,,1,,,,,1,,2.04,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,6,half_B,half_C,Lo,LL,D,Fe,I,I,,,1,,,,,,,,1,1,,,1,,,,1,,,3.32,1,3566,1033,1803,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,5,half_A,half_C,Ir,UL,Car,Sca,I,R,,,1,,,,1,,,,,,,,,,1,,,,,0.43,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,5,half_A,half_C,F,LL,Oc,Il,Ic,I,,,1,1,,,,,,,,,,,,,,,1,,,1.1,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,5,half_A,half_C,F,LL,Oc,Pub,Ps,L,,,1,1,1,,,,,,,1,,,,,,,1,,,1.41,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,2,upper,5,half_A,half_C,Ir,UL,Car,Tra,I,R,,,1,1,,,1,,,,,,,,,,1,,,,,0.34,1,3566,1033,1351,1717
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,LL,Ep,Fe,Di,L,,,14,2,,,,,,,,1,,,,5,7,1,,1,,10.31,14,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,UL,Ep,H,P,I,,,2,2,,,1,,,,,,,,1,,1,1,,,,2.78,2,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,,,,1,,,1,,,1,,,,1.11,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,F,T,R,R2,I,L,,,1,,1,,,,,,1,1,,,1,,,,,1,,0.61,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,LL,D,Ti,I,I,,,3,,,1,,,,,2,2,,,1,,,1,2,,,4.74,3,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,,1,1,,,,1,,,,,,,,,1,,5.13,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,UL,D,H,I,I,,,2,2,1,1,,,2,,2,,,,,,,,1,1,,5.7,2,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,F,UL,Sc,Sc,Ss,I,,,1,,1,,,,,,1,1,,,1,,,1,,,,0.9,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,F,T,St,St,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.24,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,12,half_A,half_D,Lo,LL,Ep,Ti,Di,I,,,1,1,,,1,,,,,,,,,,,,1,,,3.04,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,F,CB,Cr,Max,Sup,I,,,1,,1,,,,,,1,,,,,,1,,,,,0.83,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,T,CB,T,Pre4,Cro/Ro,I,,1,,,,1,,,,,1,,,,1,,1,,,,,0,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,F,LL,Oc,Il,As,L,,,1,,1,1,,,,,,,,,1,,,,1,,,1.55,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,Ir,UL,Car,Trap,I,I,,,1,,,,1,,,,,,,,,1,,,,,,0.4,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,Ir,LL,Tar,Tal,Tr,I,,1,,1,,,,,,,,,,,,,1,,,,,0.74,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,Lo,LL,D,Fe,I,I,,,2,,,,,,,,,2,,,2,,,,2,,,4.91,2,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,F,CB,Cr,Oc,Eop,I,,,1,1,,,,,1,,1,,,,1,,,,,,1,9.31,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,11,half_B,half_D,F,CB,Cr,Max,I,I,,,2,,,,,,,,,1,,,,,1,1,,,,1.21,2,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,F,CB,Cr,Oc,Con,R,,,1,1,,,1,,,,,,,,,,1,,,,,0.8,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,F,UL,Sc,Sc,Lb,I,,,3,,,,,,,,2,1,,,3,,,1,2,,,1.75,3,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,F,UL,Sc,Sc,Acr,R,,,1,,,,1,,,,1,1,,,1,,,,1,,,1.41,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,Lo,LL,Ep,Fe,Lt,R,,,1,,1,,1,,,,,1,,,,,,1,,,,0.73,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,F,T,St,St,I,I,,,1,,,,1,,,,,,,1,1,,,1,,,,0.86,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,F,LL,Oc,Il,As,I,,,1,,,,1,,,,,,,,,,,1,,,,1.41,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,F,CB,Cr,Fr,Or,L,,,1,1,,,1,,,,1,,,,,,,1,,,,2.01,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,10,half_B,half_C,Ir,CB,Cr,Pp,Me,R,,,1,,,1,,,,,,,,,,,,1,,,,3.07,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,3,central,9,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,1.39,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,3,central,9,half_A,half_C,Lo,UL,Ph,I Ph/Ha,Di,I,,,1,,,,,,,,,,,,,,1,,,,,0.16,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,3,central,9,half_A,half_C,F,CB,Cr,Mand,Ms,I,,,1,,,1,,,,,,1,,,1,,1,,,,,0.59,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,3,central,9,half_A,half_C,Ir,T,V,Sac,Al,I,,,1,,,1,,,,,,,,1,1,,,,1,,,1.04,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,3,central,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,4,1,,2,3,,1,,4,,,,2,,,2,,,2,12.17,4,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,3,central,9,half_A,half_C,Lo,UL,D,H,I,I,,,1,1,,1,1,,,,,1,,,,,,,1,,,1.49,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,16,half_A,half_D,Lo,UL,Ep,H,P,I,,,1,1,,,,,,,,,,,1,,,1,,,,0.73,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,4,central,16,half_A,half_D,F,LL,Oc,Il,As,I,,,1,,,,1,,,,,1,,,1,,,,,1,,2.82,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,4,central,16,half_A,half_D,Ir,T,V,S1,Bod,I,,,1,,1,1,1,,1,,1,1,,,11,,,,,,1,5.77,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,4,central,16,half_A,half_D,Lo,UL,Ep,U,P,L,,,1,1,,,1,,,,,1,,,,,,1,,,,1.37,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,4,central,16,half_A,half_D,Ir,T,V,Sac,Al,I,,,1,,1,,,,,,,1,,,1,,,1,,,,1.48,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,4,central,16,half_A,half_D,Ir,LL,Tar,Nav,I,I,,,1,1,,,1,,,,,1,,,1,,,1,,,,2.26,1,3566,1694,1351,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,Lo,UL,D,H,I,I,,,3,1,,,1,,,,1,3,,,2,,,1,1,1,,5.76,3,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,Lo,UL,D,Ra,I,I,,,1,,1,1,,,1,,1,1,,,1,,,,,,1,4.38,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,F,T,St,Man,P,I,,,1,1,1,,,,,,,1,,,,,,,,1,,1.52,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,F,CB,Cr,Max,I,R,,,1,,,,,,,,,,,,,,,,1,,,2.3,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,F,CB,Cr,Mand,I,I,,,1,1,1,,,,,,,,,,,,1,,,,,0.47,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,F,CB,Cr,Zy,Zp,L,,,1,,,1,,,1,1,,,,,1,,,1,,,,0.86,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,Ir,T,V,C4,Bod,I,,,1,,,,,,,,,,,,,,1,,,,,0.3,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,Ir,T,V,C4,Ar,R,,,1,,1,1,,,,,,1,,,1,,,1,,,,1.18,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,Ir,UL,Car,Cap,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.41,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,15,half_B,half_D,F,T,R,R2,I,I,,,1,,1,,1,,,,,,,,,,,1,,,,0.84,1,3566,1694,1803,1437
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,Lo,UL,Ep,Cl,P,R,,,1,,1,,1,,1,,1,1,,,1,,,,,1,,2.5,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,F,UL,Sc,Sc,Gf,I,,,1,1,1,,,,,,,1,,,1,,,1,,,,1.18,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,F,LL,Oc,Il,I,I,,,2,2,,,,,,,,1,,,,,,1,1,,,1.52,2,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,F,LL,Oc,Il,Ic,I,,,1,1,,1,,,,,,1,,,1,,,,1,,,0.64,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,F,LL,Oc,Pub,Ile-Pub,I,,,1,,1,1,,,,,,1,,,1,,,,1,,,1.05,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,F,LL,Oc,Il,Gsn,R,,,1,1,1,,,,,,,1,,,1,,,,,1,,1.78,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,14,half_B,half_C,F,CB,Cr,Max,Con,I,,,1,,,,,,,,,1,,,1,,1,,,,,0.64,1,3566,1694,1803,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,Lo,UL,Ep,Ra,Di,R,,,1,1,,1,1,,,,1,,,,,,,,1,,,1.63,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,F,CB,Cr,Max,I,L,,,2,,,1,1,,,,1,2,,,2,,1,1,,,,1.65,2,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,F,LL,Oc,Il,I,I,,,1,,,,,,,,1,1,,,1,,,,1,,,1.64,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,F,LL,Oc,Il,Ic,I,,,1,1,,,,,,,1,1,,,1,,,,1,,,0.74,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,F,LL,Oc,Il,Ac,R,,,1,1,,,,,1,,1,1,,,,,1,,1,,,3.61,2,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,F,LL,Oc,Il,Ac,I,,1,,,,,,,,,1,1,,,,,,1,,,,1.49,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,F,LL,Oc,Il,Gsn,R,,,1,1,1,,,,,,,,,,1,,,,,,1,3.73,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,Ir,T,V,Sac,Ar,I,,,1,1,,,,,,,,,,,,,,,1,,,2.4,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,Lo,UL,D,H,I,I,,,1,1,,,,,1,1,1,1,,,1,,,,,,1,5.31,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,4,central,13,half_A,half_C,Lo,UL,Ep,Cl,Di,R,,,1,1,,,,,,,,1,,,1,,,,,,1,1.34,1,3566,1694,1351,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,20,half_A,half_D,Lo,LL,D,Fi,I,I,,1,,,,,1,,,,1,,,,1,,,,1,,,1.08,1,3566,839,1351,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,20,half_A,half_D,Ir,T,V,L5,Bod,I,,,1,1,,1,1,,,,,,,,,,,1,,,,3.31,1,3566,839,1351,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,20,half_A,half_D,F,CB,Cr,Occ,Cre,I,,1,,,,,,,,,,1,,,,,,1,,,,1.6,1,3566,839,1351,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,20,half_A,half_D,F,CB,Cr,Te,Zp,R,,,1,1,1,1,,,,,,1,,,1,,,1,,,,2.29,1,3566,839,1351,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,F,LL,Oc,Isch,It,L,,,1,1,,,1,,1,,,,,,1,,,,,,1,6.71,1,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,F,CB,Cr,Mand,I,R,,,1,1,,,,,,,1,,,,,,,,,1,,1.78,1,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,Lo,UL,D,H,Di,I,,,1,,,,1,,,,,1,,,1,,,,,,1,2.58,1,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,Lo,UL,Ep,H,Di,I,,,3,3,,,,,,,,,,,2,,2,1,,,,2.37,3,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,Lo,UL,Ep,III Mc,P,R,,,1,,1,,,,,,,,,,1,,,1,,,,0.23,1,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,Lo,UL,Ep,Ra,P,I,,,1,,,,,,,,,,,,,,1,,,,,0.19,1,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,19,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,3,2,,,,,,,,,,,,,,3,,,,2.49,3,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Lo,UL,Ep,Cl,P,L,,,1,1,1,,,,1,,,1,,,1,,,,,,1,3.65,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Lo,UL,Ep,Ra,P,I,,,1,1,1,,,,1,,,,,,1,,,,1,,,1.86,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Lo,LL,Ep,Fe,P,L,,,27,5,1,,2,,,,,3,,,4,9,14,1,2,,1,14.56,27,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Lo,UL,Ep,U,P,R,,,1,1,,,1,,,,,,,,,,,1,,,,1.41,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Lo,UL,Ep,H,Di,L,,,1,1,,,1,,,,,,,,,,,,1,,,2.75,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Ir,T,V,C1,Ar,L,,,1,1,,,,,,,,,,,,,,,1,,,1.6,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,18,half_B,half_C,Ir,T,V,Sac,Bod,I,,,1,,,,,,,,,,,,,,1,,,,,0.54,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,17,half_A,half_C,F,LL,Oc,Isch,It,R,,,1,1,,,1,,1,,,,,,,,,,,1,,5.52,1,3566,839,1351,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,17,half_A,half_C,Ir,T,V,C2,I,I,,,1,1,1,1,1,,1,,,1,,1,,,,,1,,,3.28,1,3566,839,1351,1717
+VFT,8,F,Adult. > 30 yrs,5,lower,17,half_A,half_C,F,UL,Sc,Sc,I,I,,2,,,,,,,,,,2,,,1,,,2,,,,1.28,2,3566,839,1351,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,24,half_A,half_D,F,LL,Oc,Il,I,I,,,1,1,,,,,,,,,,,,,,,,,1,6.43,1,3566,839,1351,1437
+VFT,8,F,Adult. > 30 yrs,6,lower,24,half_A,half_D,F,CB,Cr,Mand,Cp,R,,,1,1,,,,,1,1,1,,,,,,,,,1,,0.98,1,3566,839,1351,1437
+VFT,8,F,Adult. > 30 yrs,6,lower,23,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,,,,1,,1,,1,1,,,1,,,,,,1,5.23,1,3566,839,1803,1437
+VFT,8,F,Adult. > 30 yrs,6,lower,22,half_B,half_C,Ir,T,V,Sac,I,I,,,1,,,,,,,,,1,,1,1,,,1,,,,1.41,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,22,half_B,half_C,F,LL,Oc,Il,As,I,,,1,,,,1,,,,1,,,,,,,,,,1,3.6,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,22,half_B,half_C,F,CB,Cr,Max,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.48,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,22,half_B,half_C,F,CB,Cr,Sph,I,I,,,1,,,,,,,,,1,,,,,,,,1,,2.3,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,22,half_B,half_C,F,UL,Sc,Sc,Acr,L,,,1,1,1,,1,,,,,,,,1,,,,1,,,2.56,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,22,half_B,half_C,Lo,LL,D,Fi,Di,I,,,1,,,,1,,,,1,,,,1,,,1,,,,1.86,1,3566,839,1803,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,21,half_A,half_C,Lo,UL,Ep,H,P,I,,,3,,,,,,,,,,,,,,3,,,,,1.44,3,3566,839,1351,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,21,half_A,half_C,F,CB,Cr,Sph,I,I,,,1,,,1,1,,,,,1,,,,,,,1,,,1.98,1,3566,839,1351,1717
+VFT,8,F,Adult. > 30 yrs,6,lower,Ext,,,Lo,UL,Ep,H,P,I,,,1,,,,,,,,1,,,,,,1,,,,,0.61,1,3566,839,,
+VFT,8,F,Adult. > 30 yrs,6,lower,Ext,,,Ir,T,V,Sac,Bod,I,,,1,,,,,,,,,,,,,,1,,,,,0.2,1,3566,839,,
+VFT,8,ND,NON-HUMAN,6,lower,Ext,,,T,CB,T,Ca,Cro,I,,,,,,,,,,,,,,,,3,1,,,,,0.04,4,3566,839,,
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),0,upper,,,,Lo,LL,D,Fe,I,I,,1,,,,1,,,,,1,,,,,,,1,,,,1.84,1,2908,711,,
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),0,upper,,,,Lo,UL,Ep,Ra,P,I,,2,,2,,,,,,,1,,,,,1,1,,,,,0.48,2,2908,711,,
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),0,upper,,,,F,UL,Sc,Sc,I,I,,1,,,,,,,,,1,1,,,,,,1,,,,1.36,1,2908,711,,
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,,1,,,,,,1,,,,,,,1,,,,1.92,1,2908,711,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,1,half_A,half_C,Lo,LL,D,Ti,I,I,,,1,,,,,,,,1,,,,,,1,,,,,0.41,1,2908,711,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,1,half_A,half_C,Lo,UL,Ep,H,Di,I,,,18,,,,,,,,,,,,,14,4,,,,,2.56,18,2908,711,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,3,half_B,half_D,F,CB,Cr,Max,I,L,,,1,,,,,,,,1,,,,,,,1,,,,2.18,1,2908,711,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,3,half_B,half_D,Ir,LL,Tar,Nav,I,L,,,1,1,,,1,,,,,,,,,,,1,,,,1.35,1,2908,711,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,3,half_B,half_D,Lo,LL,D,Fe,I,I,,,4,2,2,2,,,,,3,,,,,,,3,,,1,9.92,4,2908,711,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,3,half_B,half_D,Lo,UL,D,V Mc,I,R,,,1,,,,,,,,1,,,,,,,1,,,,1.19,1,2908,711,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,3,half_B,half_D,Lo,UL,D,Ra,I,I,,1,,,1,1,,,,,1,,,,,,,1,,,,2.74,1,2908,711,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,3,half_B,half_D,Lo,LL,D,Fi,I,I,,,1,,1,1,,,,,1,,,,,,,1,,,,1.38,1,2908,711,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,F,UL,Sc,Sc,Lb,L,,,1,,1,1,1,,,,1,,,,,,,,1,,,2.64,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,F,CB,Cr,Te,Pp,R,,,1,,,,,,,,1,,,,,,,1,,,,1.92,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,F,CB,Cr,Fr,Or,L,,,1,1,,,,,,,1,,,,,,,1,,,,1.45,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,Lo,LL,D,Fe,I,I,,,4,1,,,3,,,,3,1,,,,,,3,1,,,6.24,4,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,Lo,LL,D,Fe,I,I,,2,,,,,2,,,,2,,,,,,1,,1,,,2.83,2,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,Ir,UL,Car,Lun,I,I,,1,,,,,,,,,,,,,,,1,,,,,0.19,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,Ir,UL,Car,Tra,I,I,,,1,1,,,,,,,,,,,,1,,,,,,0.17,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,,,1,,,,,1,,,,,,,1,,,,1.56,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),1,upper,4,half_A,half_D,Lo,LL,D,Ti,I,I,,,1,1,1,1,1,,,,,,,,,,,1,,,,2.35,1,2908,711,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,6,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,,,,1,,,,1,,,,,,,1,,,,0.55,1,2908,1333,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,6,half_B,half_C,Ir,UL,Car,Trap,I,R,,,1,,,,,,,,1,,,,,,1,,,,,0.38,1,2908,1333,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,F,CB,Cr,Mand,I,I,,,1,,,,,,,,1,,,,,,1,,,,,1,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,Lo,UL,Ep,I Ph/Ha,Di,I,,1,,,,,,,,,,,,,,1,,,,,,0.18,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,Lo,UL,Ep,I Ph/Ha,P,L,,,1,1,,,,,,,,,,,,,,1,,,,0.46,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,Ir,UL,Car,Lun,Lb,I,,,1,,,,,,,,1,,,,,,1,,,,,0.55,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,Ir,UL,Car,Ham,Hamul,I,,,1,,,,,,,,1,,,,,1,,,,,,0.16,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,Lo,LL,D,Ti,Ancr,I,,,1,1,,,,,,,1,,,,,,,,1,,,1.4,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,7,half_B,half_D,Lo,LL,D,Fi,I,I,,,1,1,1,,,,,,1,,,,,,,1,,,,2.47,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,8,half_A,half_D,F,CB,Cr,Fr,Or,R,,,1,1,1,,,,,,,,,,,,,,1,,,3.46,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,8,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,1,1,1,,,1,,1,,,,,,,,,,1,4.53,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,8,half_A,half_D,F,UL,Sc,Sc,Acr,L,,,1,1,,1,1,,,,1,,,,,,,,1,,,3.48,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,8,half_A,half_D,F,UL,Sc,Sc,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,0.92,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,8,half_A,half_D,F,LL,Oc,Il,I,I,,1,,,,,,,,,1,,,,,,,,,1,,9.78,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),2,central,8,half_A,half_D,Lo,UL,D,H,I,I,,,1,1,,,1,,1,,1,,,,,,,,1,,,3.92,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,9,half_A,half_C,Lo,UL,Ph,V Ph/Ha,Di,L,,,1,1,1,,,,,,,,,,,,1,,,,,0.18,1,2908,1333,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,9,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,1,,,,,,,,,,,,,,1,,,,0.86,1,2908,1333,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,9,half_A,half_C,Lo,UL,D,H,I,I,,,1,,,,,,,,1,,,,,,,1,,,,2.08,1,2908,1333,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,10,half_B,half_C,Lo,LL,D,Ti,Ancr,I,,,1,1,1,,,,,,1,,,,,,,,,1,,4.38,1,2908,1333,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,10,half_B,half_C,Lo,UL,D,H,I,I,,,2,1,,,,,,,2,,,,,,,1,,1,,6.17,2,2908,1333,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,11,half_B,half_D,F,UL,Sc,Sc,I,I,,,1,,,1,,,,,1,,1,,,,,1,,,,2.34,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,11,half_B,half_D,Lo,LL,D,Ti,I,I,,,2,1,1,1,1,,,,2,,,,,,,,2,,,8.67,2,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,11,half_B,half_D,Se,LL,Pat,Pat,I,R,,,1,,,,,,,,,,,,,,1,,,,,0.8,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,11,half_B,half_D,F,CB,Cr,Mand,I,I,,,1,,,,,,,,1,,,,,,1,,,,,0.29,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,11,half_B,half_D,F,CB,Cr,Sph,Gw,I,,,1,,,,,,,,1,,,,,,,1,,,,1.84,1,2908,1333,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,F,CB,Cr,Fr,Or,I,,,1,1,,,,,,,,,,,,,,1,,,,0.93,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,F,CB,Cr,Max,I,L,,,1,,,,,,,,1,,,,,,,,1,,,1.29,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Ir,LL,Tar,Nav,I,R,,,1,1,,,,,,,,,,,,,,1,,,,1.16,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,UL,D,U,I,I,,1,,,1,1,,,,,1,,,,,,,1,,,,2.68,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,UL,D,Ra,I,I,,,1,1,,,1,,,,1,,,,,,,1,,,,2.28,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,F,UL,Sc,Sc,I,I,,,2,,,,2,,,,2,,,,,,1,1,,,,1.95,2,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,UL,Ep,U,Di,L,,,1,1,1,,,,,,1,,,,,,,,1,,,2.23,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,UL,Ep,U,Di,I,,,1,,,,1,,,,,,,,,,,1,,,,1.02,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Ir,T,V,C2,Ar,I,,,1,1,,,,,,,,,,,,,1,,,,,0.86,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Ir,T,V,C2,De,I,,,1,,1,,,,,,,,,,,,1,,,,,0.61,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Ir,UL,Car,Pi,I,I,,1,,,,,1,,,,,,,,,,1,,,,,0.26,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,UL,Ep,I Mc,Di,I,,,1,,,,,,,,,,,,,,1,,,,,0.35,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,1,1,1,,,1,,1,,,,,,,,1,,,2.8,1,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),3,central,12,half_A,half_D,Lo,LL,D,Ti,I,I,,,4,4,,2,3,,,,4,,,,,,,,1,1,2,18.61,4,2908,1333,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,13,half_A,half_C,Lo,LL,D,Ti,I,I,,,2,1,,1,,,,,2,,,,,,,1,,1,,7.41,2,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,13,half_A,half_C,F,CB,Cr,Te,Zp,I,,,1,,1,1,,,,,1,,,,,,1,,,,,0.57,1,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,13,half_A,half_C,F,CB,Cr,Zy,Or,L,,,1,1,1,,,,1,,1,,,,,,1,,,,,0.93,1,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,13,half_A,half_C,F,UL,Sc,Sc,I,I,,,1,,,,,,,,1,,,,,,,1,,,,1.94,1,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,14,half_B,half_C,Ir,UL,Car,Sca,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.34,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,14,half_B,half_C,Lo,LL,D,Fe,Las,I,,,3,3,1,1,,,,,3,,,,,,1,1,1,,,5.4,3,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,14,half_B,half_C,F,LL,Oc,Il,Ile-pub,I,,1,,,,,,,,,1,,,,,,,,1,,,4.12,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,14,half_B,half_C,Lo,LL,Ep,I Mt,Di,R,,,1,1,,,,,,,1,,,,,,1,,,,,0.73,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,15,half_B,half_D,Ir,T,V,Sac,For,I,,,1,,1,1,,,,,1,,,,,,,1,,,,1.33,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,15,half_B,half_D,Lo,UL,Ep,Cl,Di,R,,,1,1,,,1,,1,,1,,,,,,,,,,1,4.45,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,15,half_B,half_D,Lo,LL,D,Fe,Las,I,,,1,1,1,,1,,,,1,,,,,,,,,1,,2.64,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,15,half_B,half_D,Lo,UL,D,H,I,I,,,2,1,,1,2,,,,2,,,,,,,,1,,1,11.7,2,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,16,half_A,half_D,Ir,LL,Tar,Cun,Lat,I,,,1,1,,,,,,,,,,,,,,1,,,,0.75,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,16,half_A,half_D,F,LL,Oc,Il,Ilt,I,,1,,,1,,,,,,,,,,,,,,1,,,4.77,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,16,half_A,half_D,Lo,UL,D,Ra,I,I,,1,,,1,1,1,,,,1,,,,,,,,,,1,7.73,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,16,half_A,half_D,Ir,T,V,C1,I,I,,,1,1,,1,,,,,,,,,,,1,,,,,0.85,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),4,lower,16,half_A,half_D,Ir,T,V,C2,Ar,I,,,1,,,,,,,,,,,,,,1,,,,,0.41,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,17,half_A,half_C,Lo,UL,Ph,V Ph/Ha,Di,R,,,1,,1,,,,,,,,,,,,1,,,,,0.21,1,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,17,half_A,half_C,F,UL,Sc,Sc,Cop,R,,,1,1,1,,,,,,,,,,,,,,1,,,1.55,1,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,17,half_A,half_C,Lo,LL,D,Fe,I,I,,,2,,,2,1,,1,,2,,,,,,,,,2,,8.17,2,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,17,half_A,half_C,Lo,UL,D,U,I,I,,1,,1,1,,1,,1,,1,,,,,,,,,,1,7.92,1,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,17,half_A,half_C,Lo,LL,D,Ti,P,I,,,2,2,1,,1,,,,2,,,,,,,,,,2,15.13,2,2908,864,1667,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,18,half_B,half_C,Lo,LL,D,Ti,I,I,,,3,1,2,2,2,,2,1,3,,,,,,1,,,,2,27.35,3,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,18,half_B,half_C,Lo,UL,D,H,Di,I,,,1,,1,1,1,,,,1,,,,,,,,,,1,17.59,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,18,half_B,half_C,Lo,UL,Ep,H,P,I,,,1,1,,,,,,,,,,,,,,1,,,,3.25,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,18,half_B,half_C,Lo,UL,D,H,P,I,,,1,,,,,,,,1,,,,,,,,,1,,2.36,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,18,half_B,half_C,Lo,UL,Ep,I Ph/Ha,P,R,,,1,1,,,,,1,,1,,,,,,,1,,,,0.45,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,18,half_B,half_C,F,CB,Cr,Mand,I,I,,,1,1,,,,,,,1,,,,,,1,,,,,1.28,1,2908,864,1113,908
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,Lo,LL,D,Fe,Las,I,,,3,2,1,,1,,1,1,3,,,,,,,,1,1,1,18.63,3,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,2.89,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,Se,LL,Pat,Pat,I,L,,,1,1,,,,,,,,,,,,,,1,,,,1.75,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,Ir,T,V,S1,I,I,,1,,,,,,,,,,,,,,,,,,,1,7.03,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,F,LL,Oc,Il,Ac,R,,1,,1,1,,,,,,,,,,,,,,1,,,6.17,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,F,CB,Cr,Te,Pp,L,,,1,1,,,,,,,1,,,,,,,1,,,,3.88,1,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,19,half_B,half_D,F,LL,Oc,Il,Ile-pub,I,,2,,1,,,1,,,,1,,,,,,,,2,,,6.54,2,2908,864,1113,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,20,half_A,half_D,Lo,LL,Ep,Fe,P,I,,,1,1,,,,,,,,,,,,,,,,1,,3.9,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,20,half_A,half_D,Lo,LL,Ep,Fe,P,I,,,17,2,1,,1,,,,,,,,,2,7,6,3,1,,25.97,19,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,20,half_A,half_D,Lo,LL,Ep,Fe,P,I,,2,,,,,,,,,,,,,,,1,1,,,,1.03,2,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,20,half_A,half_D,Ir,T,V,Sac,Al,I,,,1,,1,,,,,,,,,,,,1,,,,,0.62,1,2908,864,1667,1872
+NOGR,33(US360),ND,Adult (not senile? <45/50 yrs?),5,lower,20,half_A,half_D,Lo,LL,D,Ti,I,I,,,1,1,,1,,,1,,1,,,,,,,,,,1,9.61,1,2908,864,1667,1872
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Te,Pp,R,,,1,1,1,1,,,,,1,,,,,,2,,,,,1.52,2,1029,455,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,1,half_A,half_C,F,UL,Sc,Sc,Lb,I,,1,,,,,,,,,,1,,,,,,,,1,,1.49,1,1029,455,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,1,half_A,half_C,Ir,T,V,Sac,Bod,I,,,1,,,,,,,,,,,,,,,1,,,,0.58,1,1029,455,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Fr,Or,I,,,1,,,,,,,,1,1,,,,,,1,,,,0.72,1,1029,455,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,1,half_A,half_C,T,CB,T,In1,Ro,I,,,1,,1,,,,1,,,1,,,1,,1,,,,,0.12,1,1029,455,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,1,half_A,half_C,F,LL,Oc,Il,Ac,I,,,1,1,,,1,,,,1,,,,,,,1,,,,1.09,1,1029,455,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,2,half_B,half_C,Lo,UL,D,H,I,I,,,1,1,1,1,,,1,,1,1,,,1,,,,,,1,4.69,1,1029,455,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,2,half_B,half_C,F,T,R,R1,I,I,,,1,,,,1,,,,1,,,,,,1,,,,,0.27,1,1029,455,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,2,half_B,half_C,Lo,UL,D,Ra,I,I,,2,,1,,,,,,,1,2,,,2,,1,1,,,,1.15,2,1029,455,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,3,half_B,half_D,F,CB,Cr,Mand,Con,L,,,1,1,,,,,,,,1,,,,,,1,,,,0.62,1,1029,455,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,3,half_B,half_D,Ir,T,V,C1,Ar,L,,,1,1,,,,,,,,,,,,,1,,,,,0.71,1,1029,455,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,3,half_B,half_D,F,LL,Oc,Il,I,I,,,1,,,,,,,,,,,,,,,1,,,,0.58,1,1029,455,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,2,half_B,half_C,Lo,LL,D,Fi,I,I,,,2,,,,2,,,,2,1,,,2,,,1,1,,,2.72,2,1029,455,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,3,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,1,,,,,,1,,,,1.89,1,1029,455,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Sph,Gw,R,,,1,,,,1,,,,1,,,,,,,,1,,,1.5,1,1029,455,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Occ,Con,L,,,1,1,,,,,,,,1,,,,,,1,,,,1.15,1,1029,455,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,3,half_B,half_D,Lo,UL,D,U,P,I,,,1,,,,1,,,,1,1,,,,,,,,1,,1.55,1,1029,455,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,4,half_A,half_D,Lo,UL,D,U,P,I,,,1,1,,,1,,,,,1,,,,,,1,,,,0.93,1,1029,455,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,4,half_A,half_D,Lo,UL,D,H,I,I,,,1,,,,,,,,1,,,,1,,,1,,,,1.36,1,1029,455,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Mand,For,R,,,1,,,,,,,,,,,,,,,1,,,,0.5,1,1029,455,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),1,upper,4,half_A,half_D,T,CB,T,dm2,Cro/Ro,R,,,4,,,,,,,,1,,,,,3,1,,,,,0.78,4,1029,455,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,5,half_A,half_C,F,LL,Oc,Pub,Ps,R,,,1,,,,1,,1,,1,,,,,,,1,,,,1.15,1,1029,336,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,5,half_A,half_C,F,CB,Cr,Fr,Or,R,,,1,1,,,,,,,,,,,,,1,,,,,0.64,1,1029,336,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,5,half_A,half_C,F,CB,Cr,Fr,Or,I,,,1,,,,,,,,1,,,,1,,,1,,,,0.29,1,1029,336,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,5,half_A,half_C,Lo,LL,D,Ti,I,I,,,1,,,1,1,,,,1,1,,,,,,,1,,,2.08,1,1029,336,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,5,half_A,half_C,Lo,UL,D,H,I,I,,,1,,,1,1,,1,1,1,1,,,1,,,,,,1,4.26,1,1029,336,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,5,half_A,half_C,T,CB,T,In1,Cro/Ro,I,,,1,,1,1,,,,,,1,,,,,1,,,,,0.1,1,1029,336,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,6,half_B,half_C,F,CB,Cr,Zy,Or,L,,,1,1,,,,,,,1,1,,,,,1,,,,,0.75,1,1029,336,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,6,half_B,half_C,F,CB,Cr,Mand,I,I,,,1,,,,,,,,,1,,,,,1,,,,,0.35,1,1029,336,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,6,half_B,half_C,Lo,LL,D,Fi,I,I,,,1,1,,1,,,1,,1,,,,,,,,,,1,2.75,1,1029,336,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,6,half_B,half_C,Lo,LL,D,Fe,I,I,,1,,,,,1,,,,1,,,,,,,1,,,,1.32,1,1029,336,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,7,half_B,half_D,F,CB,Cr,Mand,Cp,L,,,1,,,,1,,,,1,,,,,,,1,,,,0.62,1,1029,336,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,7,half_B,half_D,F,UL,Sc,Sc,Acr,R,,,1,,1,1,1,,,,1,,,,,,,,1,,,1.5,1,1029,336,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,7,half_B,half_D,Lo,UL,D,U,I,I,,,2,,,,2,,,,,,,,,,1,1,,,,1.96,2,1029,336,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,7,half_B,half_D,Lo,LL,D,Ti,I,I,,,1,,1,1,,,1,,1,1,,,,,,,,1,,2.64,1,1029,336,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,8,half_A,half_D,Lo,UL,D,Cl,P,R,,,1,1,,,1,,,,,1,,,,,,,1,,,1.27,1,1029,336,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,8,half_A,half_D,Lo,UL,D,Cl,I,I,,2,,1,1,1,,,,,,2,,,2,,2,,,,,0.97,2,1029,336,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),2,central,8,half_A,half_D,Lo,LL,D,Fi,Di,I,,,1,,1,,,,,,1,1,,,,,,,1,,,0.9,1,1029,336,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,9,half_A,half_C,F,UL,Sc,Sc,Acr,I,,,1,,,,1,,,,,1,,,,,1,,,,,1.37,1,1029,238,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,9,half_A,half_C,Ir,LL,Tar,Cun,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.2,1,1029,238,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,9,half_A,half_C,F,LL,Oc,Isch,Ac,L,,,1,1,1,1,1,,,,1,1,,1,,,,,1,,,3.84,1,1029,238,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,1.52,1,1029,238,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Fe,Di,I,,,2,,1,,2,,,,1,1,,,,,,1,1,,,4.83,2,1029,238,384,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.3,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Fe,P,I,,,1,1,,,,,,,,1,,,,,,1,,,,2.15,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,Ir,T,V,C2,Ar,L,,,1,,,,,,,,,1,,,1,,,1,,,,0.88,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,F,UL,Sc,Sc,I,I,,1,,,,,,,,,,1,,,1,,,1,,,,0.53,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,F,LL,Oc,Il,I,I,,,1,1,,,,,,,1,1,,,,,,1,,,,1.31,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,Ir,T,V,Sac,Bod,I,,,1,1,,,,,,,1,,,,,,,,1,,,1.62,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,Lo,LL,D,Ti,P,I,,,1,,,,,,,,,,,,,,,1,,,,1.43,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,10,half_B,half_C,Lo,UL,D,U,I,I,,1,,1,1,,,,,,1,1,,,,,,1,,,,1.24,1,1029,238,460,360
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,,,1,,,,,,,,,,,1,,,,2.33,1,1029,238,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,11,half_B,half_D,Lo,LL,D,Fi,Di,I,,,1,,,,,1,1,,1,1,,,,,,,1,,,1.09,1,1029,238,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,I Mt,Di,R,,,1,1,,,,,,,,1,,,,,1,,,,,0.62,1,1029,238,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Fe,P,I,,,1,1,,,,,,,,,,,,,,1,,,,3.54,1,1029,238,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Fe,P,I,,,1,1,,,,,,,,1,,1,,,,1,,,,0.9,1,1029,238,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,1,,1,,,,,,,,,,,,1,,,2.61,1,1029,238,460,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fi,I,I,,,1,,,1,1,,1,1,1,1,,,,,,,,,1,1.79,1,1029,238,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,1,,1,,,,,,,,,,,,,1,,4.78,1,1029,238,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Se,LL,Pat,Pat,I,I,,,1,1,,,,,,,,,,,,,,1,,,,1.19,1,1029,238,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,1,,,,,,,1,,,2.61,1,1029,238,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,1,,,,1,,,,,,1,,,,,,1,,,,2.17,1,1029,238,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,1,1,1,,1,,1,,,,,,,,,,1,5.15,1,1029,238,384,484
+VFT,26v,ND,Non-adult (7-9 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,2,,,2,2,,2,,2,2,,,,,,,,1,1,8.06,2,1029,238,384,484
+VFT,19,ND,Adult,1,upper,1,half_A,half_C,F,LL,Oc,Il,Ac,I,,2,,2,1,,1,,,,,2,,,2,,,2,,,,4.66,2,3676,1054,1205,985
+VFT,19,ND,Adult,1,upper,1,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,1,,,,1,,,,1.34,1,3676,1054,1205,985
+VFT,19,ND,Adult,1,upper,1,half_A,half_C,Lo,LL,Ep,Fe,P,R,,,4,2,,,1,,1,,,2,,,,,1,2,1,,,9.07,4,3676,1054,1205,985
+VFT,19,ND,Adult,1,upper,1,half_A,half_C,Lo,UL,Ep,H,P,I,,1,,1,,,,,,,,,,,,,,,1,,,1.41,1,3676,1054,1205,985
+VFT,19,ND,Adult,1,upper,1,half_A,half_C,Ir,T,V,Sac,I,I,,2,,,,,,,1,,2,,,,,,1,1,,,,1.95,2,3676,1054,1205,985
+VFT,19,ND,Adult,1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,,1,,1,1,1,,1,1,1,1,,,,,,,,,1,5.94,1,3676,1054,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),1,upper,2,half_B,half_C,Lo,UL,Ep,H,Di,I,,1,,1,,,,,,,,1,,,,,,1,,,,0.86,1,3676,1054,1034,985
+VFT,19,ND,Adult,1,upper,2,half_B,half_C,Lo,LL,D,Fe,I,I,,,3,,2,,2,,1,,3,2,,,1,,,,1,,2,15.28,3,3676,1054,1034,985
+VFT,19,ND,Adult,1,upper,2,half_B,half_C,F,LL,Oc,Isch,It,I,,,2,2,,,,,,,,,,,,,1,1,,,,1.28,2,3676,1054,1034,985
+VFT,19,ND,Adult,1,upper,2,half_B,half_C,Lo,LL,Ep,Fi,P,I,,,1,1,,,,,,,,,,,,,1,,,,,0.39,1,3676,1054,1034,985
+VFT,19,ND,Non-adult (7-11 yrs),1,upper,2,half_B,half_C,Ir,LL,Tar,Cun,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.14,1,3676,1054,1034,985
+VFT,19,ND,ND,1,upper,2,half_B,half_C,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,,1,,,,,1,,,,,0.33,1,3676,1054,1034,985
+VFT,19,ND,Adult,1,upper,2,half_B,half_C,Ir,LL,Tar,Tal,He,I,,,1,1,,,,,,,,,,,,,,1,,,,0.93,1,3676,1054,1034,985
+VFT,19,ND,ND,1,upper,2,half_B,half_C,Lo,LL,D,Fi,I,I,,,1,,,,1,,,,1,,,,1,,,,1,,,1.19,1,3676,1054,1034,985
+VFT,19,ND,Adult,1,upper,2,half_B,half_C,Lo,LL,D,Ti,I,I,,,1,,,,1,,1,,1,1,,,1,,,,,,1,2.35,1,3676,1054,1034,985
+VFT,19,,,1,upper,SEDIMENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65.45,0,3676,1054,,
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,UL,Ep,Ra,Di,L,,,4,1,,,,,,,,3,,,2,,2,2,,,,1.81,4,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Se,LL,Pat,Pat,I,I,,,1,1,,,1,,1,,,1,,,,,,,1,,,4.03,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,UL,Ep,H,Di,I,,,1,1,1,,,,,,,1,,,,,,1,,,,0.91,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,LL,D,Ti,I,I,,,4,3,,1,1,,1,,1,4,,,3,,1,1,1,,1,10,4,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,,1,,,1.73,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,,7,4,,,,,,,,1,,,,,2,4,1,,,7.22,7,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,UL,Ep,H,Di,I,,1,,,,,,,,,,1,,,1,,,1,,,,1.03,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,F,LL,Oc,Il,Ac,I,,1,,1,,,,,,,,1,,,,,,1,,,,1.45,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,F,UL,Sc,Sc,Gf,I,,,1,1,,,,,,,,1,,,,,,1,,,,0.85,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,3,half_B,half_D,Lo,UL,Ep,H,P,I,,,1,1,,,,,,,,,,,,,,,,1,,1.89,1,3676,1054,1034,1254
+VFT,19,ND,Non-adult (7-11 yrs),1,upper,3,half_B,half_D,Lo,LL,Ep,Fi,Di,R,,,1,1,,,1,,,,,,,,,,1,,,,,1.08,1,3676,1054,1034,1254
+VFT,19,ND,Adult,1,upper,4,half_A,half_D,Lo,LL,Ep,Ti,P,I,,4,,1,,,2,,,,,,,,,,,4,,,,4.46,4,3676,1054,1205,1254
+VFT,19,ND,Adult,1,upper,4,half_A,half_D,Lo,LL,D,Fe,P,R,,3,,,,,2,,,,1,3,,,3,,1,,,,2,16.96,3,3676,1054,1205,1254
+VFT,19,ND,Adult,1,upper,4,half_A,half_D,Lo,LL,D,Fi,I,I,,,2,1,1,,1,,2,1,2,,,,,,,,1,,1,6.4,2,3676,1054,1205,1254
+VFT,19,ND,Adult,1,upper,4,half_A,half_D,F,CB,Cr,Te,Pp,R,,1,,,,,,,,,1,1,,1,,,,,1,,,5.08,1,3676,1054,1205,1254
+VFT,19,ND,Adult,1,upper,4,half_A,half_D,Lo,UL,Ep,II Mc,P,R,,,1,,1,,,,1,,1,,,,,,,1,,,,0.61,1,3676,1054,1205,1254
+VFT,19,ND,Non-adult (7-11 yrs),1,upper,4,half_A,half_D,Lo,LL,D,Fe,I,I,,,5,,,,,,,,,5,,,5,2,2,1,,,,2.18,5,3676,1054,1205,1254
+VFT,19,ND,Non-adult (7-11 yrs),1,upper,4,half_A,half_D,Lo,UL,Ep,H,P,I,,,1,,,,1,,,,,,,,,,,1,,,,3.54,1,3676,1054,1205,1254
+VFT,19,ND,Adult,1,upper,4,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.27,1,3676,1054,1205,1254
+VFT,19,ND,ND,1,upper,Si,,,Ir,UL,Car,Pi,I,I,,,1,,,,,,,,,,,,,,1,,,,,0.1,1,3676,1054,,
+VFT,19,ND,ND,2,central,5,half_A,half_C,Ir,LL,Tar,Nav,I,I,,,1,1,,,1,,,,,,,,,,,1,,,,0.82,1,3676,1115,1205,985
+VFT,19,ND,ND,2,central,5,half_A,half_C,F,CB,Cr,Max,I,I,,,1,,,,,,,,,1,,,1,,1,,,,,0.45,1,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,LL,D,Fe,I,I,,,2,,,1,,,,,2,1,,,2,,1,,,,1,5.88,2,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,UL,D,U,I,I,,,1,,1,1,,,1,,1,1,,,1,,,1,,,,0.99,1,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Fi,Di,L,,,1,1,,,,,,,,1,,,,,1,,,,,1,1,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Ti,P,I,,1,,1,,,,,,,,,,,,,,1,,,,1.14,1,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,,,,1,,,,,,,1,,,1.56,1,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Ti,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.05,1,3676,1115,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,,1,,,2.85,1,3676,1115,1205,985
+VFT,19,ND,ND,2,central,6,half_B,half_C,Lo,LL,Ep,I Mt,P,I,,,1,1,1,,,,1,,1,1,,,,,1,,,,,0.84,1,3676,1115,1034,985
+VFT,19,ND,ND,2,central,6,half_B,half_C,Ir,LL,Tar,Tal,I,I,,,3,3,,,,,,,,,,,,,2,1,,,,1.4,3,3676,1115,1034,985
+VFT,19,ND,Adult,2,central,6,half_B,half_C,Lo,LL,D,Fe,I,I,,2,,,,,2,,,,,,,,,,,2,,,,3.35,2,3676,1115,1034,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,6,half_B,half_C,Lo,UL,Ep,H,P,I,,,1,1,,,1,,,,,,,,,,,1,,,,2.66,1,3676,1115,1034,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,6,half_B,half_C,Lo,LL,Ep,Ti,P,R,,,1,1,,,1,,,,,,,,,,,,,1,,6.3,1,3676,1115,1034,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,6,half_B,half_C,Lo,UL,D,H,I,I,,,2,2,1,,,,,,2,2,,,1,,,,1,,1,5.24,2,3676,1115,1034,985
+VFT,19,ND,Non-adult (7-11 yrs),2,central,6,half_B,half_C,Ir,LL,Tar,Cun,I,I,,,1,1,,,,,,,,,,,,,1,,,,,0.17,1,3676,1115,1034,985
+VFT,19,ND,Adult,2,central,7,half_B,half_D,Lo,LL,D,Fe,I,I,,1,,,,,,,,,,1,,,1,,1,,,,,1.13,1,3676,1115,1034,1254
+VFT,19,ND,Adult,2,central,7,half_B,half_D,F,UL,Sc,Sc,Lb,I,,1,,,,,,,,,,1,,,1,,,,1,,,1.24,1,3676,1115,1034,1254
+VFT,19,ND,Non-adult (7-11 yrs),2,central,7,half_B,half_D,Lo,LL,D,Fe,I,I,,,1,,1,1,,,,,1,,,,,,,,1,,,2.27,1,3676,1115,1034,1254
+VFT,19,ND,Non-adult (7-11 yrs),2,central,7,half_B,half_D,F,CB,Cr,Fr,Or,R,,,1,1,,,1,,,,,1,,,1,,,1,,,,1.04,1,3676,1115,1034,1254
+VFT,19,ND,Non-adult (7-11 yrs),2,central,7,half_B,half_D,Lo,UL,Ep,H,P,I,,,2,2,,,,,,,,,,,,,1,1,,,,2.36,2,3676,1115,1034,1254
+VFT,19,ND,ND,2,central,8,half_A,half_D,Lo,UL,Ep,I Ph/Ha,P,I,,,1,,,,,,,,,,,,,,1,,,,,0.21,1,3676,1115,1205,1254
+VFT,19,ND,ND,2,central,8,half_A,half_D,F,CB,Cr,Mand,I,I,,,2,,2,1,,,,,1,2,,,1,,1,1,,,,1.88,2,3676,1115,1205,1254
+VFT,19,ND,Non-adult (7-11 yrs),2,central,8,half_A,half_D,F,CB,Cr,Fr,Or,I,,,1,1,,,,,,,1,,,,1,,,1,,,,0.65,1,3676,1115,1205,1254
+VFT,19,ND,Non-adult (7-11 yrs),2,central,8,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,1.86,1,3676,1115,1205,1254
+VFT,19,ND,Adult,3,lower,9,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,,,,,,,,1,1,,,1,,,,,,1,3.72,1,3676,1507,1205,985
+VFT,19,ND,Adult,3,lower,9,half_A,half_C,F,CB,Cr,Zy,Or,L,,1,,,1,,,,,,,1,,,1,,,1,,,,1.35,1,3676,1507,1205,985
+VFT,19,ND,ND,3,lower,9,half_A,half_C,F,CB,Cr,Mand,I,I,,,1,,,1,,,,,,1,,,1,,,1,,,,0.76,1,3676,1507,1205,985
+VFT,19,ND,Adult,3,lower,9,half_A,half_C,F,UL,Sc,Sc,I,I,,,1,,,,1,,1,,1,,,,1,,,1,,,,1.5,1,3676,1507,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Ti,Nf,I,,,1,1,1,1,,,,,1,,,,1,,,,,,1,4.12,1,3676,1507,1205,985
+VFT,19,ND,Non-adult (7-11 yrs),3,lower,9,half_A,half_C,F,CB,Cr,Occ,For,L,,,1,1,,,1,,,,1,,,,,,,1,,,,0.79,1,3676,1507,1205,985
+VFT,19,ND,Adult,3,lower,10,half_B,half_C,F,CB,Cr,Te,Zp,R,,,1,,1,1,,,,,,1,,,1,,,1,,,,1.15,1,3676,1507,1034,985
+VFT,19,ND,Non-adult (7-11 yrs),3,lower,10,half_B,half_C,F,CB,Cr,Mand,I,R,,,1,,1,1,1,,,,,1,,,1,,,1,,,,1.44,1,3676,1507,1034,985
+VFT,19,ND,ND,3,lower,10,half_B,half_C,F,CB,Cr,Te,Am,I,,,1,,1,1,,,,,,1,,,1,,1,,,,,0.91,1,3676,1507,1034,985
+VFT,19,ND,ND,3,lower,10,half_B,half_C,F,CB,Cr,Te,Co,I,,,1,,,,,,,,,,,,,,1,,,,,0.71,1,3676,1507,1034,985
+VFT,19,ND,ND,3,lower,11,half_B,half_D,Lo,UL,Ep,Ra,P,I,,,1,,,,,,,,,,,,1,,1,,,,,0.19,1,3676,1507,1034,1254
+VFT,19,ND,ND,3,lower,12,half_A,half_D,F,CB,Cr,Te,Co,I,,,2,,,,1,,,,,1,,,2,1,1,,,,,1.39,2,3676,1507,1205,1254
+VFT,19,ND,ND,3,lower,12,half_A,half_D,Lo,UL,Ep,H,Di,I,,,1,,,,,,,,,,,,,,1,,,,,0.97,1,3676,1507,1205,1254
+VFT,19,ND,Non-adult (7-11 yrs),3,lower,12,half_A,half_D,F,CB,Cr,Te,Pp,R,,,1,,,,,,,,,1,,,1,,,1,,,,4.02,1,3676,1507,1205,1254
+VFT,19,,,2,central,SEDIMENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32.05,0,3676,1115,,
+VFT,19,,,3,lower,SEDIMENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.8,0,3676,1507,,
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Te,Pp,R,,,1,,,,,,,,1,1,,,,,,,1,,,3.35,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,Ir,T,V,C3,Bod,I,,,1,1,,,,,,,,,,,,,,1,,,,0.76,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,UL,Sc,Sc,Gf,R,,,1,1,,,1,,1,,1,,,,,,,1,,,,1.94,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,UL,Sc,Sc,I,I,,,2,,,1,1,,,,2,,,,,,1,1,,,,0.93,2,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,T,St,St,Bod ,I,,,1,,1,,,,,,1,,,,,,,1,,,,0.46,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,1,,,,,1,,,,1,1,,,,,,,,1,,4.19,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fe,Las,I,,,1,,,,1,,,,,,,,,,1,,,,,0.94,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,Lo,LL,D,Fe,I,I,,,1,1,,,,,1,,1,,,,,,,,1,,,2.26,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Max,I,R,,,1,,1,1,,,,,1,1,,,,,,1,,,,1.49,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Occ,Cre,I,,,1,,,,,,,,,,,,,,,1,,,,0.81,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Te,Mp,L,,,1,1,,,,,,,1,1,,,,,,1,,,,1.32,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Mand,Con,R,,,1,1,1,,,,,,1,1,,,,,,1,,,,0.42,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,CB,Cr,Mand,Mn,L,,,1,,1,,,,,,1,,,,,,1,,,,,0.29,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,F,T,R,R1,P,R,,,1,,,,1,,,,,,,,,,,1,,,,0.38,1,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,1,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,2,2,,,,,,,,,,,,,,2,,,,2.24,2,2351,1044,946,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,F,LL,Oc,Il,I,I,,,2,,,,,,,,1,,,,,,,2,,,,0.73,2,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,F,CB,Cr,Te,Pp,L,,1,,,,,,,,,1,,,,,,,,1,,,3.71,1,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,Ir,UL,Car,Lun,I,I,,,1,1,,,,,,,,1,,,,,1,,,,,0.3,1,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,Lo,LL,Ep,Ti,Di,I,,,1,1,,,,,,,1,,,,,,,1,,,,1.19,1,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,Ir,T,V,C5,Bod,I,,,1,,,,1,,,,,,,,,,,1,,,,1.19,1,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,Lo,UL,Ep,H,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,0.75,1,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,Lo,LL,Ep,I Mt,Di,I,,,1,1,,,,,,,,,,,,,1,,,,,0.29,1,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,2,half_B,half_C,Lo,LL,D,Fe,I,I,,,2,,,,,,,,2,,,,,,1,1,,,,2.23,2,2351,1044,592,831
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Ir,T,V,Sac,I,I,,,2,1,,,,,,,,,,,,,,2,,,,0.76,2,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Se,LL,Pat,Pat,I,I,,,1,1,,,,,,,,,,,,,,1,,,,1.18,1,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,F,UL,Sc,Sc,I,I,,,1,,,,,,1,,1,,,,,,1,,,,,0.34,1,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Ir,LL,Tar,Tal,Tr,I,,,1,1,,,,,,,,,,,,,1,,,,,0.32,1,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Ir,LL,Tar,Tal,He,I,,,1,1,,,,,,,,1,,,,,,1,,,,0.44,1,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Lo,UL,Ep,H,Di,R,,,2,2,,,2,,,,,,,,,,,2,,,,2.2,2,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Lo,UL,Ep,H,P,R,,,1,1,,,,,,,,,,,,,,,1,,,4.03,1,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Lo,LL,D,Ti,I,I,,,4,,3,,,,1,,4,,,,,,2,1,,1,,5.51,4,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Lo,LL,Ep,Ti,P,I,,,3,2,,,,,,,,,,,,,,3,,,,2.71,3,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,3,half_B,half_D,Lo,LL,Ep,Ti,P,I,,,1,1,,,,,1,,1,,,,,,,,1,,,2.42,1,2351,1044,592,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Max,I,L,,,2,,2,,,,2,,1,,,,,,1,1,,,,1.94,2,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Max,I,I,,,2,,,,,,,,,,,,,,2,,,,,0.21,2,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Mand,I,I,,,2,,,,,,,,2,,,,,,2,,,,,0.89,2,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Occ,Con,R,,,1,,1,,1,,,,,,,,,,,1,,,,0.46,1,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,CB,Cr,Occ,I,I,,,1,1,,,,,,,1,,,,,,,1,,,,1.2,1,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,Ir,T,V,Sac,I,I,,,1,,,,1,,,,,,,,,,,1,,,,0.53,1,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,UL,Sc,Sc,Cor,L,,,1,,,,1,,,,,1,,,,,,1,,,,0.7,1,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,F,LL,Oc,Isch,It,R,,,1,,,,,,,,,,,,,,,1,,,,0.72,1,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,Lo,UL,Ep,H,Di,I,,1,,1,,,,,,,,,,,,,1,,,,,0.53,1,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),1,upper,4,half_A,half_D,Lo,LL,D,Ti,I,I,,,2,,1,1,,,1,,2,,,,,,,,,2,1,4.57,3,2351,1044,946,707
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,F,CB,Cr,Fr,Or,I,,,1,1,,1,,,1,,1,,,,,,,1,,,,0.54,1,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,F,LL,Oc,Il,Ac,I,,,1,1,,,,,,,1,,,,,,,1,,,,1.2,1,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,F,CB,Cr,Mand,Con,L,,,1,,1,,,,,,1,1,,,,,,,,1,,0.72,1,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,F,CB,Cr,Mand,Cp,L,,,1,,1,,,,1,,1,,,,,,,1,,,,0.49,1,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,Lo,UL,Ep,Ra,Di,R,,,2,1,,,,,,,,1,,,,,2,,,,,0.62,2,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,,1,,,,,,1,,,,0.83,1,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,Lo,LL,D,Fe,I,I,,,5,,1,2,,,1,,5,,,1,,,,2,3,,,8.82,5,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,5,half_A,half_C,Lo,LL,D,Fe,Las,I,,,2,2,,,,,,,,,,,,,,,1,1,,5.24,2,2351,715,946,831
+VFT,7,ND,Adult (> 30 yrs),2,central,6,half_B,half_C,Ir,T,V,C2,Ar,I,,,1,1,,,,,,,,,,,,,,1,,,,0.64,1,2351,715,592,831
+VFT,7,ND,Adult (> 30 yrs),2,central,6,half_B,half_C,Ir,T,V,C3,Bod,I,,,1,,1,,1,,,,,,,,,,,,1,,,1.74,1,2351,715,592,831
+VFT,7,ND,Adult (> 30 yrs),2,central,6,half_B,half_C,Ir,T,V,C5,Bod,I,,,1,,,,1,,,,,,,,,,,1,,,,0.91,1,2351,715,592,831
+VFT,7,ND,Adult (> 30 yrs),2,central,6,half_B,half_C,F,UL,Sc,Sc,Ss,I,,,1,,1,1,,,1,,1,,,,,,,,1,,,0.78,1,2351,715,592,831
+VFT,7,ND,Adult (> 30 yrs),2,central,6,half_B,half_C,F,UL,Sc,Sc,I,I,,,1,,1,,1,,,,1,,,,,,1,,,,,0.48,1,2351,715,592,831
+VFT,7,ND,Adult (> 30 yrs),2,central,6,half_B,half_C,Lo,LL,D,Fe,I,I,,1,,,,1,,,1,,1,,,,,,,,,1,,2.98,1,2351,715,592,831
+VFT,7,ND,Adult (> 30 yrs),2,central,8,half_A,half_D,F,LL,Oc,Il,I,I,,,1,,,,,,,,,,,,,,,1,,,,0.25,1,2351,715,946,707
+VFT,7,ND,Adult (> 30 yrs),2,central,8,half_A,half_D,F,LL,Oc,Il,Ic,I,,,1,1,,1,,,,,,,,,,,,,,1,,0.73,1,2351,715,946,707
+VFT,7,ND,Adult (> 30 yrs),2,central,8,half_A,half_D,Lo,LL,D,Fi,I,I,,1,,,,,,,1,,1,,,,,,,1,,,,1.28,1,2351,715,946,707
+VFT,7,ND,Adult (> 30 yrs),2,central,8,half_A,half_D,F,CB,Cr,Mand,I,I,,,1,1,1,,,,1,,1,,,,,,,,1,,,2.16,1,2351,715,946,707
+VFT,7,ND,Adult (> 30 yrs),2,central,8,half_A,half_D,Lo,LL,Ep,Fe,Di,I,,,1,,,,,,,,,,,,,,,1,,,,1.74,1,2351,715,946,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Fe,Las,I,,,1,1,,,,,,,1,,,,,,,,1,,,2.43,1,2351,592,946,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,9,half_A,half_C,Lo,LL,D,Fe,I,I,,,1,,,,,,,,1,1,,,,,,,,1,,3.3,1,2351,592,946,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,9,half_A,half_C,F,LL,Oc,Il,Ac,R,,,1,1,,,1,,,,,,,,,,,,,1,,2.27,1,2351,592,946,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,10,half_B,half_C,Lo,LL,D,Fi,I,I,,,1,,,,,,,,1,,,,,,,1,,,,0.75,1,2351,592,592,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,10,half_B,half_C,Ir,LL,Tar,Nav,I,I,,,1,1,,,,,,,,,,,,,,1,,,,0.84,1,2351,592,592,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,10,half_B,half_C,F,LL,Oc,Il,Ac,L,,,3,3,,,,,3,,3,,,,,,,,1,1,1,14.57,3,2351,592,592,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,10,half_B,half_C,F,LL,Oc,Il,I,I,,,1,1,1,,1,,1,,1,1,,,,,,1,,,,0.64,1,2351,592,592,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,10,half_B,half_C,Lo,LL,Ep,Fe,Di,I,,,1,1,,,,,,,1,,,,,,,,1,,,2.9,1,2351,592,592,831
+VFT,7,ND,Adult (> 30 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Fe,Di,I,,1,,1,,,,,,,,1,,,,,,,,1,,1.87,1,2351,592,592,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,Fi,Di,R,,1,,1,,,,,,,,,,,,,,1,,,,1.13,1,2351,592,592,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,11,half_B,half_D,Ir,LL,Tar,Cun,Inter,R,,,1,,,,,,,,1,,,,,,1,,,,,0.38,1,2351,592,592,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,11,half_B,half_D,Lo,LL,Ep,V Mt,P,I,,,1,,,,,,,,1,,,,,,1,,,,,0.32,1,2351,592,592,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,12,half_A,half_D,Se,LL,Pat,Pat,I,L,,,1,1,1,1,1,,,,,1,,,,,,,1,,,2.48,1,2351,592,946,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,IV Mt,P,R,,,1,,,1,,,,,,,,1,,,1,,,,,0.42,1,2351,592,946,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,12,half_A,half_D,F,UL,Sc,Sc,Lb,I,,,2,2,2,,,,,,2,,,,,,,,2,,,1.55,2,2351,592,946,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,12,half_A,half_D,Lo,LL,D,Fe,I,I,,,1,,1,1,,,,,1,1,,,,,,,,,1,2.7,1,2351,592,946,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Ti,Di,L,,1,,1,,1,,,,,,,,,,,,,1,,,2.12,1,2351,592,946,707
+VFT,7,ND,Adult (> 30 yrs),3,lower,12,half_A,half_D,Lo,LL,Ep,Ti,Di,I,,,1,1,,,,,,,,,,,,,,1,,,,0.67,1,2351,592,946,707
+VFT,15,ND,Adult (20-40 yrs),5,lower,20,half_A,half_D,Lo,UL,D,H,I,L,,,1,,1,1,1,,,,1,,,,,,,,,,1,16.46,1,2248,562,829,1004

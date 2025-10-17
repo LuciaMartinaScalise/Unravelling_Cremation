@@ -1,67 +1,42 @@
-# Unravelling_Cremation
+# 🏺 Unravelling Cremation: A Multi-Analytical Approach to Bronze Age Cremated Human Remains
 
-All paths in the scripts are managed using the `{here}` R package to ensure **portability** across systems.
-
----
-
-## 🧭 Chapter Overview
-
-### **Chapter 3**
-Presents a **virtual approach** to urned cremations using **CT-based qualitative and quantitative analysis** and **permutation testing**.  
-The corresponding dataset and code are available on Zenodo:  
-👉 [https://doi.org/10.5281/zenodo.15042290](https://doi.org/10.5281/zenodo.15042290)
-
-### **Chapter 4**
-Focuses on the **micro-excavation** and **osteological analysis** of cremated remains to assess:
-- Biological profiles (sex, age-at-death)
-- Indicators of pathology and health
-
-### **Chapter 5**
-Explores **heat-induced changes** and **bone distribution** to infer **cremation practices** and **possible ritual intent**.  
-Includes:
-- Analysis of **colour transformation**, **fracture morphology**, and **fragmentation index**
-- Application of **mosaic plots** to test associations among variables
-
-### **Chapter 6**
-Presents **proteomic analyses**:
-- **Amelogenin-based sex estimation** from 11 tooth crowns  
-- **ZooMS identification** on one burned and one unburned bone fragment  
-This chapter evaluates the **feasibility of biomolecular techniques** on thermally altered human remains.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15042290.svg)](https://doi.org/10.5281/zenodo.15042290)
 
 ---
 
-## 🙏 Acknowledgements
+This repository accompanies **Lucia Martina Scalise’s PhD thesis in Biological Anthropology**, titled  
+**_“Unravelling cremation: a multi-analytical approach to the study of Bronze Age cremated human remains”_**  
+(**University of Cambridge, 2025**), supervised by **Dr. Emma Pomeroy**.
 
-The author gratefully acknowledges:
-
-- **Prof. Maria Pia Morigi** and her team for conducting the **CT scans**
-- **Dr. Enrico Crema** for his **guidance and statistical expertise**
-- **Dr. Sara Silvestrini** for performing the **ZooMS analyses**
-- **Dr. Miranda Evans** for leading the **amelogenin analyses**
-
----
-
-## 📜 Citation
-
-If you use the data, code, or figures from this repository, please cite as:
-
-> **Scalise, L. M. (2025). _Unravelling cremation: a multi-analytical approach to the study of Bronze Age cremated human remains_. PhD Thesis, University of Cambridge.**
+The repository contains data files, scripts, and outputs supporting **Chapters 4, 5, and 6** of the thesis.  
+Materials related to **Chapter 3** are available separately on Zenodo:  
+👉 [https://doi.org/10.5281/zenodo.15042290](https://doi.org/10.5281/zenodo.15042290)  
+(as this chapter has already been published as a research paper).
 
 ---
 
-## 🔗 Related Resources
+## 📘 Thesis Overview
 
-- **Zenodo (Chapter 3 materials):** [https://doi.org/10.5281/zenodo.15042290](https://doi.org/10.5281/zenodo.15042290)
-- **University of Cambridge, Department of Archaeology:** [https://www.arch.cam.ac.uk](https://www.arch.cam.ac.uk)
+This thesis investigates the **Middle to Recent Bronze Age (ca. 1450–1150 BCE)** in **Northern Italy**, focusing on cremated human remains from the **Terramare Culture**.  
+The study integrates virtual imaging, physical excavation, osteological, taphonomic, and proteomic approaches to explore **mortuary behaviour**, **biological profiles**, and **funerary variability**.
+
+Analyses were conducted on:
+- **12 urns from the Vicofertile necropolis (Parma)**  
+- **5 urns from the Nogarole Rocca necropolis (Verona)**  
+
+The research applies a **multi-proxy analytical framework** combining:
+
+- 🧱 **Virtual analysis** of urns and contents through **CT imaging**
+- 🦴 **Physical micro-excavation** and **osteological study** of cremated remains
+- 👩‍🔬 **Assessment of biological profiles** (sex, age-at-death, pathology)
+- 🔥 **Evaluation of heat-induced changes** (colour, fracture patterns, fragmentation)
+- 🧭 **Spatial distribution** of bones inside urns to assess possible **intentionality**
+- 🧬 **Proteomic analyses** (amelogenin & ZooMS) for **sex and species identification**
+- 📊 **Statistical modelling** to integrate and test quantitative evidence
 
 ---
 
-## 📧 Contact
+## 📂 Repository Structure
 
-**Lucia Martina Scalise**  
-PhD in Biological Anthropology, University of Cambridge  
-📩 [lucia.scalise@email.com](mailto:lucia.scalise@email.com)
-
----
-
+The repository follows a reproducible research structure to facilitate data access and code execution:
 

@@ -25,13 +25,13 @@ Analyses were conducted on:
 
 The research applies a **multi-proxy analytical framework** combining:
 
-- 🧱 **Virtual analysis** of urns and contents through **CT imaging**
-- 🦴 **Physical micro-excavation** of cremated remains
-- 👩‍🔬 **Assessment of biological profiles** (sex, age-at-death, pathology)
-- 🔥 **Evaluation of heat-induced changes** (e.g. colour, fracture patterns, fragmentation)
-- 🧭 **Spatial distribution** of bones inside urns to assess possible **intentionality**
-- 🧬 **Proteomic analyses** (amelogenin & ZooMS) for **sex and species identification**
-- 📊 **Statistical modelling** to integrate and test quantitative evidence
+-  **Virtual analysis** of urns and contents through **CT imaging**
+-  **Physical micro-excavation** of cremated remains
+-  **Assessment of biological profiles** (sex, age-at-death, pathology)
+-  **Evaluation of heat-induced changes** (e.g. colour, fracture patterns, fragmentation)
+-  **Spatial distribution** of bones inside urns to assess possible **intentionality**
+-  **Proteomic analyses** (amelogenin & ZooMS) for **sex and species identification**
+-  **Statistical modelling** to integrate and test quantitative evidence
 
 ---
 

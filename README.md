@@ -74,10 +74,11 @@ Presents **proteomic analyses**:
 
 The author gratefully acknowledges:
 
-- **Prof. Maria Pia Morigi** and her team for the collaboration on **CT scans**
-- **Dr. Enrico Crema** for his **guidance and statistical expertise**
-- **Dr. Sara Silvestrini** for performing the **ZooMS analyses**
-- **Dr. Miranda Evans** for leading the **amelogenin analyses**
+- **Prof. Maria Pia Morigi** (University of Bologna) and her team for the collaboration on **CT scans**
+- **Dr. Enrico Crema** (University of Cambridge) for his **guidance and statistical expertise**
+- **Dr. Sara Silvestrini** (University of Bologna) for performing the **ZooMS analyses**
+- **Dr. Miranda Evans** (University of Cambridge) for leading the **amelogenin analyses**
+- **Cambridge Trust and St John's College** for the financial support
 
 ---
 

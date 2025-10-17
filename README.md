@@ -1,4 +1,4 @@
-# 🏺 Unravelling Cremation: A Multi-Analytical Approach to Bronze Age Cremated Human Remains
+# Unravelling Cremation: A Multi-Analytical Approach to Bronze Age Cremated Human Remains
 
 ---
 

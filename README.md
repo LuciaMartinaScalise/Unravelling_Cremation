@@ -16,6 +16,7 @@ Materials related to **Chapter 3** are available separately on Zenodo:
 ## 📘 Thesis Overview
 
 The study integrates virtual imaging, physical excavation, osteological, taphonomic, and proteomic approaches to explore **mortuary behaviour** and **biological profiles** with the aim to improve the quality and quantity of information that can be obtained from the study of cremated remains.
+
 **Temporal & cultural context:** Burials date to the **Middle–Recent Bronze Age (ca. 1450–1150 BCE)** and belong to the **Terramare culture (Northern Italy)**.
 
 Analyses were conducted on:

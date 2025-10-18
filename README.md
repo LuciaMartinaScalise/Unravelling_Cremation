@@ -39,16 +39,64 @@ The research applies a **multi-proxy analytical framework** combining:
 
 The repository follows a reproducible research structure to facilitate data access and code execution:
 
-├── data/ # Input datasets (CSV and derived data tables)
-├── scripts/ # R scripts used for data cleaning, analysis, and plotting
-├── figures/ # Generated figures and plots
-├── README.md # Project description and documentation
+📦 Unravelling_Cremation
+│
+├── 📁 data/
+│   ├── 📁 Chapter 4/
+│   │   └── [Database_Vicofertile_Nogarole.csv] – Comprehensive database 
+│   │
+│   ├── 📁 Chapter 5/
+│   │   ├── [Database_Vicofertile_Nogarole.csv] – Comprehensive database
+│   │   ├── [Phases_fract_stai_dim.csv] – Subset of the main database including information about colours, fractures, staining, and dimentions of the remains
+│   │   ├── [Database_Fragmentation.csv] – Subset of the main database used for the calculation of the Fragmentation Index
+│   │   ├── [phy_distribution.csv] – Subset of the main database used for the analysis of the distribution of the remains inside the urns
+│   │
+│   └── 📁 Chapter 6/
+│       ├── 📁 Amelogenin_data/
+│       │   ├── [pFind.protein] – Text file containing the results of the peptide search on pFind  
+│       │   ├── [pFind.spectra] – Text file containing the results of the peptide search on pFind  
+│       │   └── README.md – Containing the link to raw datasets from amelogenin analysis stored on **Zenodo**
+│       │
+│       └── 📁 ZooMS_raw_data/
+│           └──  [2 txt files] – Raw peptide fingerprint data from ZooMS analyses  
+│
+├── 📁 figures/
+│   └── 📁 Chapter 5/
+│       ├── 📁 Distribution_remains/           # All the figures contained in the paragraph of the same name  
+│       ├── 📁 Fragmentation_weight/           # All the figures contained in the paragraph of the same name
+│       └── 📁 Thermal_alterations/            # All the figures contained in the paragraph of the same name 
+│
+├── 📁 scripts/
+│   └── 📁 Chapter 5/
+│       ├── [Distribution_remains.R]           # R script for the analyses and figures contained in the paragraph of the same name
+│       ├── [Fragmentation_weight.R]           # R script for the analyses and figures contained in the paragraph of the same name
+│       └── [Thermal_alterations.R]            # R script for the analyses and figures contained in the paragraph of the same name
+│
+└── 📄 README.md                               # Project overview and usage guide    
 
-All paths in the scripts are managed using the `{here}` R package to ensure **portability** across systems.
 
 ---
 
-## 🧭 Chapter Overview
+### 💡 Notes
+
+- All scripts use the `here()` package to maintain **relative paths** and ensure full **reproducibility**.  
+- Figures and tables can be **reproduced directly** from the provided R scripts.  
+- Raw files from amelogenin analysis are stored on **Zenodo** and linked in the README contained in the folder Data/Chapter6/Amelogenin_raw data.
+- The order in which the analyses are performed and the figures generated in the R scripts corresponds to the order in which they are presented in the thesis.
+
+## 🛠️ Software & Key Packages
+
+The analysis was conducted in **R (≥ 4.3)** using the following core packages:
+
+```r
+library(vcd)          # for visualising and analysing categorical data (e.g., mosaic plots)
+library(tidyverse)    # for data manipulation and cleaning
+library(ggplot2)      # for creating high-quality visualisations
+library(here)         # for managing relative file paths and reproducibility
+library(RColorBrewer) # for managing colour palettes in plots
+---
+
+## Chapters Overview
 
 ### **Chapter 3**
 Presents a **virtual approach** to urned cremations using **CT-based qualitative and quantitative analysis** and **permutation testing**.  
@@ -71,7 +119,7 @@ Presents **proteomic analyses**:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 The author gratefully acknowledges:
 

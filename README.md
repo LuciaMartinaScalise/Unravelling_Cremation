@@ -116,7 +116,7 @@ Includes:
 
 ### **Chapter 6**
 Presents **proteomic analyses**:
-- **Amelogenin-based sex estimation** from 11 tooth crowns  
+- **Amelogenin-based sex estimation** from 11 burned tooth crowns  
 - **ZooMS identification** on one burned and one unburned bone fragment  
 
 ---

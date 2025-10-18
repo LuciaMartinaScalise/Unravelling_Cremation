@@ -88,7 +88,7 @@ The repository follows a reproducible research structure to facilitate data acce
 
 The analysis was conducted in **R (≥ 4.3)** using the following core packages:
 
-```r
+---
 library(vcd)          # for visualising and analysing categorical data (e.g., mosaic plots)
 library(tidyverse)    # for data manipulation and cleaning
 library(ggplot2)      # for creating high-quality visualisations

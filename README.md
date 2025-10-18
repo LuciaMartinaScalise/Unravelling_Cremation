@@ -81,7 +81,7 @@ The repository follows a reproducible research structure to facilitate data acce
 
 - All scripts use the `here()` package to maintain **relative paths** and ensure full **reproducibility**.  
 - Figures and tables can be **reproduced directly** from the provided R scripts.  
-- Raw files from amelogenin analysis are stored on **Zenodo** and linked in the README contained in the folder Data/Chapter6/Amelogenin_raw data.
+- Raw files from amelogenin analysis are stored on **Zenodo** and linked in the README contained in the folder Data/Chapter6/Amelogenin_raw data and here https://doi.org/10.5281/zenodo.17385954.
 - The order in which the analyses are performed and the figures generated in the R scripts corresponds to the order in which they are presented in the thesis.
 
 ## 🛠️ Software & Key Packages

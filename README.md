@@ -38,6 +38,7 @@ The research applies a **multi-proxy analytical framework** combining:
 ## 📂 Repository Structure
 
 The repository follows a reproducible research structure to facilitate data access and code execution:
+
 ├── data/ # Input datasets (CSV and derived data tables)
 ├── scripts/ # R scripts used for data cleaning, analysis, and plotting
 ├── figures/ # Generated figures and plots

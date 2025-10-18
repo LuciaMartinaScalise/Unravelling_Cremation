@@ -143,7 +143,7 @@ If you use the data, code, or figures from this repository, please cite as:
 
 **Lucia Martina Scalise**  
 PhD student in Biological Anthropology, St John's College, University of Cambridge  
-📩 [lms217@cam.ac.uk](mailto:lms217@cam.ac.uk) or [lucia.scalise@email.com](mailto:lucia.scalise@email.com)
+📩 [lms217@cam.ac.uk](mailto:lms217@cam.ac.uk) or [luciamartina.scalise@gmail.com](mailto:luciamartina.scalise@gmail.com)
 
 ---
 

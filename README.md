@@ -127,7 +127,7 @@ The author gratefully acknowledges:
 
 - **Prof. Maria Pia Morigi** (University of Bologna) and her team for the collaboration on **CT scans**
 - **Dr. Enrico Crema** (University of Cambridge) for his **guidance and statistical expertise**
-- **Dr. Sara Silvestrini** (University of Bologna) for performing the **ZooMS analyses**
+- **Dr. Sara Silvestrini** (University of Bologna) for performing the **ZooMS analysis**
 - **Dr. Miranda Evans** (University of Cambridge) for leading the **amelogenin analysis**
 - **Dr. Federico Lugli** (University of Modena and Reggio Emilia) for the collaboration on the **amelogenin analysis**
 - **Cambridge Trust, St John's College, and Department of Archaeology (University of Cambridge)** for the financial support

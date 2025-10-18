@@ -15,7 +15,7 @@ Materials related to **Chapter 3** are available separately on Zenodo:
 
 ## 📘 Thesis Overview
 
-The study integrates virtual imaging, physical excavation, osteological, taphonomic, and proteomic approaches to explore **mortuary behaviour** and **biological profiles** with the aim to improve the quality and quantity of information that can be obtained from the study of cremated remains.
+The study integrates virtual imaging, physical excavation, osteological, taphonomic, and proteomic approaches to explore the **mortuary behaviour** and **biological profiles** of Bronze Age individuals with the aim to improve the quality and quantity of information that can be retrieved from the study of cremated remains.
 
 **Temporal & cultural context:** Burials date to the **Middle–Recent Bronze Age (ca. 1450–1150 BCE)** and belong to the **Terramare culture (Northern Italy)**.
 
@@ -25,7 +25,7 @@ Analyses were conducted on:
 
 The research applies a **multi-proxy analytical framework** combining:
 
--  **Virtual analysis** of urns and contents through **CT imaging**
+-  **Virtual analysis** of urns and their contents through **CT imaging**
 -  **Physical micro-excavation** of cremated remains
 -  **Assessment of biological profiles** (sex, age-at-death, pathology)
 -  **Evaluation of heat-induced changes** (e.g. colour, fracture patterns, fragmentation)
@@ -39,42 +39,42 @@ The research applies a **multi-proxy analytical framework** combining:
 
 The repository follows a reproducible research structure to facilitate data access and code execution:
 
+```bash
 📦 Unravelling_Cremation
 │
 ├── 📁 data/
-│   ├── 📁 Chapter 4/
-│   │   └── [Database_Vicofertile_Nogarole.csv] – Comprehensive database 
+│   ├── 📁 Chapter_4/
+│   │   └── [Database_Vicofertile_Nogarole.csv] # Comprehensive database
 │   │
-│   ├── 📁 Chapter 5/
-│   │   ├── [Database_Vicofertile_Nogarole.csv] – Comprehensive database
-│   │   ├── [Phases_fract_stai_dim.csv] – Subset of the main database including information about colours, fractures, staining, and dimentions of the remains
-│   │   ├── [Database_Fragmentation.csv] – Subset of the main database used for the calculation of the Fragmentation Index
-│   │   ├── [phy_distribution.csv] – Subset of the main database used for the analysis of the distribution of the remains inside the urns
+│   ├── 📁 Chapter_5/
+│   │   ├── [Database_Vicofertile_Nogarole.csv] # Comprehensive database
+│   │   ├── [Phases_fract_stai_dim.csv]         # Subset with colour, fracture, staining, and dimension data
+│   │   ├── [Database_Fragmentation.csv]        # Subset used to calculate Fragmentation Index
+│   │   └── [phy_distribution.csv]              # Subset for bone distribution analysis inside urns
 │   │
-│   └── 📁 Chapter 6/
+│   └── 📁 Chapter_6/
 │       ├── 📁 Amelogenin_data/
-│       │   ├── [pFind.protein] – Text file containing the results of the peptide search on pFind  
-│       │   ├── [pFind.spectra] – Text file containing the results of the peptide search on pFind  
-│       │   └── README.md – Containing the link to raw datasets from amelogenin analysis stored on **Zenodo**
+│       │   ├── [pFind.protein]          # Peptide search results (pFind)
+│       │   ├── [pFind.spectra]          # Spectra results (pFind)
+│       │   └── README.md                # Link to raw amelogenin dataset on **Zenodo**
 │       │
 │       └── 📁 ZooMS_raw_data/
-│           └──  [2 txt files] – Raw peptide fingerprint data from ZooMS analyses  
+│           └── [2 txt files]            # Raw peptide fingerprint data from ZooMS analyses
 │
 ├── 📁 figures/
-│   └── 📁 Chapter 5/
-│       ├── 📁 Distribution_remains/           # All the figures contained in the paragraph of the same name  
-│       ├── 📁 Fragmentation_weight/           # All the figures contained in the paragraph of the same name
-│       └── 📁 Thermal_alterations/            # All the figures contained in the paragraph of the same name 
+│   └── 📁 Chapter_5/
+│       ├── 📁 Distribution_remains/    # Figures for the "Distribution remains" paragraph
+│       ├── 📁 Fragmentation_weight/    # Figures for the "Fragmentation & weight" paragraph
+│       └── 📁 Thermal_alterations/     # Figures for the "Thermal alterations" paragraph
 │
 ├── 📁 scripts/
-│   └── 📁 Chapter 5/
-│       ├── [Distribution_remains.R]           # R script for the analyses and figures contained in the paragraph of the same name
-│       ├── [Fragmentation_weight.R]           # R script for the analyses and figures contained in the paragraph of the same name
-│       └── [Thermal_alterations.R]            # R script for the analyses and figures contained in the paragraph of the same name
+│   └── 📁 Chapter_5/
+│       ├── [Distribution_remains.R]   # R script for distribution analyses & figures
+│       ├── [Fragmentation_weight.R]   # R script for fragmentation analyses & figures
+│       └── [Thermal_alterations.R]    # R script for thermal alteration analyses & figures
 │
-└── 📄 README.md                               # Project overview and usage guide    
-
-
+└── 📄 README.md                       # Project overview and usage guide
+```
 ---
 
 ### 💡 Notes
@@ -89,11 +89,13 @@ The repository follows a reproducible research structure to facilitate data acce
 The analysis was conducted in **R (≥ 4.3)** using the following core packages:
 
 ---
+```
 library(vcd)          # for visualising and analysing categorical data (e.g., mosaic plots)
 library(tidyverse)    # for data manipulation and cleaning
 library(ggplot2)      # for creating high-quality visualisations
 library(here)         # for managing relative file paths and reproducibility
 library(RColorBrewer) # for managing colour palettes in plots
+```
 ---
 
 ## Chapters Overview
@@ -127,7 +129,7 @@ The author gratefully acknowledges:
 - **Dr. Enrico Crema** (University of Cambridge) for his **guidance and statistical expertise**
 - **Dr. Sara Silvestrini** (University of Bologna) for performing the **ZooMS analyses**
 - **Dr. Miranda Evans** (University of Cambridge) for leading the **amelogenin analyses**
-- **Cambridge Trust and St John's College** for the financial support
+- **Cambridge Trust, St John's College, and Department of Archaeology (University of Cambridge)** for the financial support
 
 ---
 
